@@ -12,6 +12,5 @@
 |:--:|:--|:--|:--:|:--:|
 |001|xxxxx|xxxxx|－|－|
 |002|xxxxx|xxxxx|－|－|
-***
 
 © 2018 Takashi Nishimura
