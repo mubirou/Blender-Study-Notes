@@ -13,4 +13,4 @@
 |001|xxxxx|xxxxx|－|－|
 |002|xxxxx|xxxxx|－|－|
 
-© 2018 Takashi Nishimura
+© 2018 夢寐郎
