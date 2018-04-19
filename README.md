@@ -54,6 +54,7 @@ sudo apt-get install blender
 1. 立方体（Cube）
     * 頂点数8。
 1. 円（Circle）
+    * 辺のみ（色塗りはなし）。
     * 頂点数32。
 1. UV球（UV Sphere）
     * 経度･緯度をポリゴンで分割されている球。
