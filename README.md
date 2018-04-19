@@ -39,3 +39,44 @@ sudo apt-get install blender
 作成日：2018年04月18日
 
 © 2018 Takashi Nishimura
+
+
+<a name="プリミティブ"></a>
+# <b>002 プリミティブ</b>
+
+### 作成方法
+1. 左端の [作成] タブを選択。
+1. [メッシュ] の ①平面 ②立方体 ③円 ④UV球 ⑤ICO球 ⑥円柱 ⑦円錐 ⑧トーラス ⑨グリッド ⑩モンキー の中から選択。
+
+### プリミティブ（メッシュ）の種類
+1. 平面（Plane）
+    * 頂点数4。
+1. 立方体（Cube）
+    * 頂点数8。
+1. 円（Circle）
+    * 頂点数32。
+1. UV球（UV Sphere）
+    * 経度･緯度をポリゴンで分割されている球。
+    * 頂点数482（見た目は綺麗）。
+1. ICO球（Ico Sphere）
+    * 三角ポリゴンで構成されている球。
+    * 頂点数42（ポリゴン数は少ない）。
+1. 円柱（Cylinder）
+    * 頂点数64。
+1. 円錐（Cone）
+    * 頂点数33。
+1. トーラス（Torus）
+    * 頂点数576。
+1. グリッド（Grid）
+    * 頂点数100。
+1. モンキー（Monkey）
+    * Suzannu（スザンヌ）というBlenderのマスコットキャラ。
+    * 頂点数507。
+
+![002](https://takashinishimura.github.io/Blender/jpg/002.jpg)
+
+実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
+作成者：Takashi Nishimura  
+作成日：2018年04月19日
+
+© 2018 Takashi Nishimura
