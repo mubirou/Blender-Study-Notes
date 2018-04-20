@@ -122,7 +122,7 @@ sudo apt-get install blender
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：Takashi Nishimura  
 作成日：2018年04月20日  
-更新日：2017年04月XX日
+更新日：2018年0X月XX日
 
 
 © 2018 Takashi Nishimura
