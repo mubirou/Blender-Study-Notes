@@ -87,7 +87,7 @@ sudo apt-get install blender
 <a name="ユーザー設定"></a>
 # <b>003 ユーザー設定</b>
 
-* 初期設定では使いにくい設定を変更します。
+初期設定では使いにくい設定を変更します。
 
 1. [ファイル]-[ユーザー設定]-[インターフェイス]
     * [カーソル深度] の [✔] を外す……中心が設定しにくくなる為
@@ -114,8 +114,7 @@ sudo apt-get install blender
 <a name="入門動画"></a>
 # <b>004 入門動画</b>
 
-* 実際にやってみた動画です。  
-
+実際にやってみた動画です。  
 |タイトル|URL|視聴日|
 |:--|:--|:--:|
 |001|[画面操作･オブジェクトの操作･3Dカーソル 簡単な説明](https://www.youtube.com/watch?v=du0ybLqScJk&index=1&list=PLmVkGpfcCZalGLfi3B5lx038GY1rNw2-L)|2018-04-20|
