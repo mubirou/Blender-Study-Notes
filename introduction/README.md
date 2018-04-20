@@ -101,7 +101,7 @@ sudo apt-get install blender
 1. 単位を [単位プリセット]→[メートル] に変更  
 ![003_1](https://takashinishimura.github.io/Blender/jpg/003_1.jpg)
 
-1. ランプを [ポイント]→[サン] に変更……使用頻度が高い為  
+1. [左クリック] で [Lamp] を選択→ [ポイント]→[サン] に変更……使用頻度が高い為  
 ![003_2](https://takashinishimura.github.io/Blender/jpg/003_2.jpg)
 
 1. [ファイル]-[スタートアップファイルの保存] を選択……次回起動時にも反映させる為
