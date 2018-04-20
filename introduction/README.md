@@ -13,7 +13,7 @@
 |001|[インストール](#インストール)|最新版のインストールと日本語化|－|－|
 |002|[プリミティブ](#プリミティブ)|10種類のプリミティブの利用方法|－|－|
 |003|[ユーザー設定](#ユーザー設定)|初期設定では使いにくい設定を変更|－|－|
-|004|[入門動画](#入門動画)|入門者向けの解説動画|[●](https://takashinishimura.github.io/Blender/introduction/blend/004_003.blend)|－|
+|004|[入門動画](#入門動画)|入門者向けの解説動画|－|－|
 |XXX|[XXX](#XXX)|XXX|－|－|
 ***
 
@@ -116,11 +116,11 @@ sudo apt-get install blender
 
 実際に操作してみた動画です。  
 
-|No.|内容|視聴日|
+|No.|内容|.blend|視聴日|
 |:--|:--|:--:|
-|001|[画面操作･オブジェクトの操作･3Dカーソル](https://www.youtube.com/watch?v=du0ybLqScJk&index=1&list=PLmVkGpfcCZalGLfi3B5lx038GY1rNw2-L)|2018-04-20|
-|002|[基本操作法（オブジェクトモード･編集モード）](https://www.youtube.com/watch?v=xgsTa-yiPHY)|2018-04-20|
-|003|[機能紹介その①（基本動作編）](https://www.youtube.com/watch?v=EHAgiNVKIPo)|2018-04-20|
+|001|[画面操作･オブジェクトの操作･3Dカーソル](https://www.youtube.com/watch?v=du0ybLqScJk&index=1&list=PLmVkGpfcCZalGLfi3B5lx038GY1rNw2-L)|－|2018-04-20|
+|002|[基本操作法（オブジェクトモード･編集モード）](https://www.youtube.com/watch?v=xgsTa-yiPHY)|－|2018-04-20|
+|003|[機能紹介その①（基本動作編）](https://www.youtube.com/watch?v=EHAgiNVKIPo)|[●](https://takashinishimura.github.io/Blender/introduction/blend/004_003.blend)|2018-04-20|
 |XXX|[XXX](XXX)|－|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
