@@ -77,7 +77,7 @@ sudo apt-get install blender
     * Suzannu（スザンヌ）というBlenderのマスコットキャラ。
     * 頂点数507。
 
-![002](https://takashinishimura.github.io/Blender/jpg/002.jpg)
+![002](https://takashinishimura.github.io/Blender/introduction/jpg/002.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：Takashi Nishimura  
@@ -99,10 +99,10 @@ sudo apt-get install blender
 1. [透視投影]→[並行投影] に変更……正確な位置を把握しやすくする為（テンキー5で切替）
 
 1. 単位を [単位プリセット]→[メートル] に変更  
-![003_1](https://takashinishimura.github.io/Blender/jpg/003_1.jpg)
+![003_1](https://takashinishimura.github.io/Blender/introduction/jpg/003_1.jpg)
 
 1. [左クリック] で [Lamp] を選択→ [ポイント]→[サン] に変更……使用頻度が高い為  
-![003_2](https://takashinishimura.github.io/Blender/jpg/003_2.jpg)
+![003_2](https://takashinishimura.github.io/Blender/introduction/jpg/003_2.jpg)
 
 1. [ファイル]-[スタートアップファイルの保存] を選択……次回起動時にも反映させる為
 
