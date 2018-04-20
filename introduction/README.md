@@ -120,6 +120,7 @@ sudo apt-get install blender
 |:--|:--|:--:|
 |001|[画面操作･オブジェクトの操作･3Dカーソル](https://www.youtube.com/watch?v=du0ybLqScJk&index=1&list=PLmVkGpfcCZalGLfi3B5lx038GY1rNw2-L)|2018-04-20|
 |002|[基本操作法（オブジェクトモード･編集モード）](https://www.youtube.com/watch?v=xgsTa-yiPHY)|2018-04-20|
+|003|[機能紹介その①（基本動作編）](https://www.youtube.com/watch?v=EHAgiNVKIPo)|2018-04-20|
 |XXX|[XXX](XXX)|－|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
