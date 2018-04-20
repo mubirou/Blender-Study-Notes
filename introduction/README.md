@@ -17,6 +17,7 @@
 |XXX|[XXX](#XXX)|XXX|－|－|
 ***
 
+
 <a name="インストール"></a>
 # <b>001 インストール</b>
 
@@ -40,8 +41,6 @@ sudo apt-get install blender
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：Takashi Nishimura  
 作成日：2018年04月18日
-
-© 2018 Takashi Nishimura
 
 
 <a name="プリミティブ"></a>
