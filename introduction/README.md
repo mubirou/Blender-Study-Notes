@@ -122,12 +122,13 @@ sudo apt-get install blender
 |003|[機能紹介その①（基本動作）](https://www.youtube.com/watch?v=EHAgiNVKIPo)|[●](https://takashinishimura.github.io/Blender/introduction/blend/004_003.blend)|2018-04-20|
 |004|[機能紹介その②（オブジェクトの色･アニメーション作成）](https://www.youtube.com/watch?v=KLm5B98zQV8)|[●](https://takashinishimura.github.io/Blender/introduction/blend/004_004.blend)|2018-04-21|
 |005|[3Dテキストの作成](https://www.youtube.com/watch?v=3Jh_-HqSzmI)|[●](https://takashinishimura.github.io/Blender/introduction/blend/004_005.blend)|2018-04-21|
+|006|[平面ライトの作り方](https://www.youtube.com/watch?v=dfoRfwacDSA)|－|2018-04-22|
 |XXX|[XXX](XXX)|－|－|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：Takashi Nishimura  
 作成日：2018年04月20日  
-更新日：2018年04月21日
+更新日：2018年04月22日
 
 
 © 2018 Takashi Nishimura
