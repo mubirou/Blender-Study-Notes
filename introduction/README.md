@@ -126,12 +126,13 @@ sudo apt-get install blender
 |006|[平面ライトの作り方](https://www.youtube.com/watch?v=dfoRfwacDSA)|－|2018-04-22|
 |007|[綺麗なゴールドの設定](https://www.youtube.com/watch?v=DP1qJJkHmOQ)|[●](https://takashinishimura.github.io/Blender/introduction/blend/004_007.zip)|2018-04-22|
 |008|[G･R･S + X･Y･Z + Ctrl](https://www.youtube.com/watch?v=RIR5p28CiZ4)|－|2018-04-22|
+|009|[立方体からの変形（1･3･5 / E / B）](https://www.youtube.com/watch?v=wftv5exmsho)|－|2018-04-23|
 |XXX|[XXX](XXX)|－|－|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：Takashi Nishimura  
 作成日：2018年04月20日  
-更新日：2018年04月22日
+更新日：2018年04月23日
 
 
 © 2018 Takashi Nishimura
