@@ -114,6 +114,7 @@ sudo apt-get install blender
 # <b>004 入門動画</b>
 
 実際に操作してみた動画です。  
+.blend ファイルを開くには [Blender](https://www.blender.org/) が必要です
 
 |No.|内容|.blend|視聴日|
 |:--|:--|:--:|:--:|
