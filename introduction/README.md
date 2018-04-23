@@ -76,7 +76,7 @@ sudo apt-get install blender
     * Suzannu（スザンヌ）というBlenderのマスコットキャラ。
     * 頂点数507。
 
-![002](https://takashinishimura.github.io/Blender/introduction/jpg/002.jpg)
+![002](https://mubirou.github.io/Blender/introduction/jpg/002.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：MUBIROU  
@@ -98,10 +98,10 @@ sudo apt-get install blender
 1. [透視投影]→[並行投影] に変更……正確な位置を把握しやすくする為（テンキー5で切替）
 
 1. 単位を [単位プリセット]→[メートル] に変更  
-![003_1](https://takashinishimura.github.io/Blender/introduction/jpg/003_1.jpg)
+![003_1](https://mubirou.github.io/Blender/introduction/jpg/003_1.jpg)
 
 1. [左クリック] で [Lamp] を選択→ [ポイント]→[サン] に変更……使用頻度が高い為  
-![003_2](https://takashinishimura.github.io/Blender/introduction/jpg/003_2.jpg)
+![003_2](https://mubirou.github.io/Blender/introduction/jpg/003_2.jpg)
 
 1. [ファイル]-[スタートアップファイルの保存] を選択……次回起動時にも反映させる為
 
@@ -120,13 +120,13 @@ sudo apt-get install blender
 |:--|:--|:--:|:--:|
 |001|[画面操作･オブジェクトの操作･3Dカーソル](https://www.youtube.com/watch?v=du0ybLqScJk&index=1&list=PLmVkGpfcCZalGLfi3B5lx038GY1rNw2-L)|－|2018-04-20|
 |002|[基本操作法（オブジェクトモード･編集モード）](https://www.youtube.com/watch?v=xgsTa-yiPHY)|－|2018-04-20|
-|003|[機能紹介その①（基本動作）](https://www.youtube.com/watch?v=EHAgiNVKIPo)|[●](https://takashinishimura.github.io/Blender/introduction/blend/004_003.blend)|2018-04-20|
-|004|[機能紹介その②（オブジェクトの色･アニメーション作成）](https://www.youtube.com/watch?v=KLm5B98zQV8)|[●](https://takashinishimura.github.io/Blender/introduction/blend/004_004.blend)|2018-04-21|
-|005|[3Dテキストの作成](https://www.youtube.com/watch?v=3Jh_-HqSzmI)|[●](https://takashinishimura.github.io/Blender/introduction/blend/004_005.blend)|2018-04-21|
+|003|[機能紹介その①（基本動作）](https://www.youtube.com/watch?v=EHAgiNVKIPo)|[●](https://mubirou.github.io/Blender/introduction/blend/004_003.blend)|2018-04-20|
+|004|[機能紹介その②（オブジェクトの色･アニメーション作成）](https://www.youtube.com/watch?v=KLm5B98zQV8)|[●](https://mubirou.github.io/Blender/introduction/blend/004_004.blend)|2018-04-21|
+|005|[3Dテキストの作成](https://www.youtube.com/watch?v=3Jh_-HqSzmI)|[●](https://mubirou.github.io/Blender/introduction/blend/004_005.blend)|2018-04-21|
 |006|[平面ライトの作り方](https://www.youtube.com/watch?v=dfoRfwacDSA)|－|2018-04-22|
-|007|[綺麗なゴールドの設定](https://www.youtube.com/watch?v=DP1qJJkHmOQ)|[●](https://takashinishimura.github.io/Blender/introduction/blend/004_007.zip)|2018-04-22|
+|007|[綺麗なゴールドの設定](https://www.youtube.com/watch?v=DP1qJJkHmOQ)|[●](https://mubirou.github.io/Blender/introduction/blend/004_007.zip)|2018-04-22|
 |008|[G･R･S + X･Y･Z + Ctrl](https://www.youtube.com/watch?v=RIR5p28CiZ4)|－|2018-04-22|
-|009|[立方体からの変形（1･3･5 / E / B）](https://www.youtube.com/watch?v=wftv5exmsho)|[●](https://takashinishimura.github.io/Blender/introduction/blend/004_009.blend)|2018-04-23|
+|009|[立方体からの変形（1･3･5 / E / B）](https://www.youtube.com/watch?v=wftv5exmsho)|[●](https://mubirou.github.io/Blender/introduction/blend/004_009.blend)|2018-04-23|
 |010|[XXX](XXX)|－|－|
 |XXX|[XXX](XXX)|－|－|
 
