@@ -4,4 +4,4 @@
 
 * [Blender 入門](https://github.com/TakashiNishimura/Blender/tree/master/introduction)
 
-© 2018 mubirou
+© 2018 MUBIROU

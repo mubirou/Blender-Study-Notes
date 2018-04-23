@@ -39,7 +39,7 @@ sudo apt-get install blender
 1. [Translate] の [Interface]、[Tooltips]、[new Data] を選択。
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：MUBIROU  
 作成日：2018年04月18日
 
 
@@ -79,7 +79,7 @@ sudo apt-get install blender
 ![002](https://takashinishimura.github.io/Blender/introduction/jpg/002.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：MUBIROU  
 作成日：2018年04月19日
 
 
@@ -106,7 +106,7 @@ sudo apt-get install blender
 1. [ファイル]-[スタートアップファイルの保存] を選択……次回起動時にも反映させる為
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：MUBIROU  
 作成日：2018年04月20日
 
 
@@ -131,9 +131,9 @@ sudo apt-get install blender
 |XXX|[XXX](XXX)|－|－|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：MUBIROU  
 作成日：2018年04月20日  
 更新日：2018年04月23日
 
 
-© 2018 mubirou
+© 2018 MUBIROU
