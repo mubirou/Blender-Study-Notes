@@ -39,7 +39,7 @@ sudo apt-get install blender
 1. [Translate] の [Interface]、[Tooltips]、[new Data] を選択。
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：Takashi Nishimura  
+作成者：mubirou  
 作成日：2018年04月18日
 
 
@@ -79,7 +79,7 @@ sudo apt-get install blender
 ![002](https://takashinishimura.github.io/Blender/introduction/jpg/002.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：Takashi Nishimura  
+作成者：mubirou  
 作成日：2018年04月19日
 
 
@@ -106,7 +106,7 @@ sudo apt-get install blender
 1. [ファイル]-[スタートアップファイルの保存] を選択……次回起動時にも反映させる為
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：Takashi Nishimura  
+作成者：mubirou  
 作成日：2018年04月20日
 
 
@@ -127,12 +127,13 @@ sudo apt-get install blender
 |007|[綺麗なゴールドの設定](https://www.youtube.com/watch?v=DP1qJJkHmOQ)|[●](https://takashinishimura.github.io/Blender/introduction/blend/004_007.zip)|2018-04-22|
 |008|[G･R･S + X･Y･Z + Ctrl](https://www.youtube.com/watch?v=RIR5p28CiZ4)|－|2018-04-22|
 |009|[立方体からの変形（1･3･5 / E / B）](https://www.youtube.com/watch?v=wftv5exmsho)|[●](https://takashinishimura.github.io/Blender/introduction/blend/004_009.blend)|2018-04-23|
+|010|[XXX](XXX)|－|－|
 |XXX|[XXX](XXX)|－|－|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：Takashi Nishimura  
+作成者：mubirou  
 作成日：2018年04月20日  
 更新日：2018年04月23日
 
 
-© 2018 Takashi Nishimura
+© 2018 mubirou
