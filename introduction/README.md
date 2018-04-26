@@ -128,11 +128,12 @@ sudo apt-get install blender
 |008|[G･R･S + X･Y･Z + Ctrl](https://www.youtube.com/watch?v=RIR5p28CiZ4)|－|2018-04-22|
 |009|[立方体からの変形（1･3･5 / E / B）](https://www.youtube.com/watch?v=wftv5exmsho)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_009.blend)|2018-04-23|
 |010|[犬の作成①](https://www.youtube.com/watch?v=pkvMiEeJGro)･[②](https://www.youtube.com/watch?v=DUp9XAM42Cg)･[③](https://www.youtube.com/watch?v=sTdziqcgNnM)（A / B / Ctrl+R）|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_010_01.blend)[●](https://vvestvillage.github.io/Blender/introduction/blend/004_010_02.blend)[●](https://vvestvillage.github.io/Blender/introduction/blend/004_010_03.blend)|2018-04-25|
+|011|[UVマッピング](https://www.youtube.com/watch?v=IXXN3p8aCIM)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_011.zip)|2018-04-26|
 |XXX|[XXX](XXX)|－|－|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
 作成日：2018年04月20日  
-更新日：2018年04月25日
+更新日：2018年04月26日
 
 © 2018 vvestvillage
