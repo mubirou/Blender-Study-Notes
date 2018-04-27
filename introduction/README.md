@@ -116,24 +116,25 @@ sudo apt-get install blender
 実際に操作してみた動画です。  
 .blend ファイルを開くには [Blender](https://www.blender.org/) が必要です
 
-|No.|内容|.blend|視聴日|
-|:--|:--|:--:|:--:|
-|001|[画面操作･オブジェクトの操作･3Dカーソル](https://www.youtube.com/watch?v=du0ybLqScJk&index=1&list=PLmVkGpfcCZalGLfi3B5lx038GY1rNw2-L)|－|2018-04-20|
-|002|[基本操作法（オブジェクトモード･編集モード）](https://www.youtube.com/watch?v=xgsTa-yiPHY)|－|2018-04-20|
-|003|[機能紹介その①（基本動作）](https://www.youtube.com/watch?v=EHAgiNVKIPo)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_003.blend)|2018-04-20|
-|004|[機能紹介その②（オブジェクトの色･アニメーション作成）](https://www.youtube.com/watch?v=KLm5B98zQV8)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_004.blend)|2018-04-21|
-|005|[3Dテキストの作成](https://www.youtube.com/watch?v=3Jh_-HqSzmI)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_005.blend)|2018-04-21|
-|006|[平面ライトの作り方](https://www.youtube.com/watch?v=dfoRfwacDSA)|－|2018-04-22|
-|007|[綺麗なゴールドの設定](https://www.youtube.com/watch?v=DP1qJJkHmOQ)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_007.zip)|2018-04-22|
-|008|[G･R･S + X･Y･Z + Ctrl](https://www.youtube.com/watch?v=RIR5p28CiZ4)|－|2018-04-22|
-|009|[立方体からの変形（1･3･5 / E / B）](https://www.youtube.com/watch?v=wftv5exmsho)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_009.blend)|2018-04-23|
-|010|[犬の作成①](https://www.youtube.com/watch?v=pkvMiEeJGro)･[②](https://www.youtube.com/watch?v=DUp9XAM42Cg)･[③](https://www.youtube.com/watch?v=sTdziqcgNnM)（A / B / Ctrl+R）|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_010_01.blend)[●](https://vvestvillage.github.io/Blender/introduction/blend/004_010_02.blend)[●](https://vvestvillage.github.io/Blender/introduction/blend/004_010_03.blend)|2018-04-25|
-|011|[UVマッピング](https://www.youtube.com/watch?v=IXXN3p8aCIM)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_011.zip)|2018-04-26|
-|XXX|[XXX](XXX)|－|－|
+|No.|内容|.blend|参考サイト|視聴日|
+|:--|:--|:--:|:--:|:--:|
+|001|[画面操作･オブジェクトの操作･3Dカーソル](https://www.youtube.com/watch?v=du0ybLqScJk&index=1&list=PLmVkGpfcCZalGLfi3B5lx038GY1rNw2-L)|－|－|2018-04-20|
+|002|[基本操作法（オブジェクトモード･編集モード）](https://www.youtube.com/watch?v=xgsTa-yiPHY)|－|－|2018-04-20|
+|003|[機能紹介その①（基本動作）](https://www.youtube.com/watch?v=EHAgiNVKIPo)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_003.blend)|－|2018-04-20|
+|004|[機能紹介その②（オブジェクトの色･アニメーション作成）](https://www.youtube.com/watch?v=KLm5B98zQV8)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_004.blend)|－|2018-04-21|
+|005|[3Dテキストの作成](https://www.youtube.com/watch?v=3Jh_-HqSzmI)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_005.blend)|－|2018-04-21|
+|006|[平面ライトの作り方](https://www.youtube.com/watch?v=dfoRfwacDSA)|－|－|2018-04-22|
+|007|[綺麗なゴールドの設定](https://www.youtube.com/watch?v=DP1qJJkHmOQ)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_007.zip)|－|2018-04-22|
+|008|[G･R･S + X･Y･Z + Ctrl](https://www.youtube.com/watch?v=RIR5p28CiZ4)|－|－|2018-04-22|
+|009|[立方体からの変形（1･3･5 / E / B）](https://www.youtube.com/watch?v=wftv5exmsho)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_009.blend)|－|2018-04-23|
+|010|[犬の作成①](https://www.youtube.com/watch?v=pkvMiEeJGro)･[②](https://www.youtube.com/watch?v=DUp9XAM42Cg)･[③](https://www.youtube.com/watch?v=sTdziqcgNnM)（A / B / Ctrl+R）|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_010_01.blend)[●](https://vvestvillage.github.io/Blender/introduction/blend/004_010_02.blend)[●](https://vvestvillage.github.io/Blender/introduction/blend/004_010_03.blend)|－|2018-04-25|
+|011|[UVマッピング](https://www.youtube.com/watch?v=IXXN3p8aCIM)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_011.zip)|－|2018-04-26|
+|012|[ボーンの基本](https://www.youtube.com/watch?v=JULer0rGUBk)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_012.blend)|[●](https://yugalab.net/archives/2446)|2018-04-27|
+|XXX|[XXX](XXX)|－|－|－|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
 作成日：2018年04月20日  
-更新日：2018年04月26日
+更新日：2018年04月27日
 
 © 2018 vvestvillage
