@@ -116,7 +116,7 @@ sudo apt-get install blender
 実際に操作してみた動画です。  
 .blend ファイルを開くには [Blender](https://www.blender.org/) が必要です
 
-|No.|内容|.blend|参考サイト|視聴日|
+|No.|内容|.blend|参考|視聴日|
 |:--|:--|:--:|:--:|:--:|
 |001|[画面操作･オブジェクトの操作･3Dカーソル](https://www.youtube.com/watch?v=du0ybLqScJk&index=1&list=PLmVkGpfcCZalGLfi3B5lx038GY1rNw2-L)|－|－|2018-04-20|
 |002|[基本操作法（オブジェクトモード･編集モード）](https://www.youtube.com/watch?v=xgsTa-yiPHY)|－|－|2018-04-20|
