@@ -131,11 +131,12 @@ sudo apt-get install blender
 |011|[UVマッピング](https://www.youtube.com/watch?v=IXXN3p8aCIM)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_011.zip)|－|2018-04-26|
 |012|[ボーン（アーマチュア）の基本](https://www.youtube.com/watch?v=JULer0rGUBk)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_012.blend)|[●](https://yugalab.net/archives/2446)|2018-04-27|
 |013|[ロゴアニメーション](https://www.youtube.com/watch?v=UBbkLTwx5WY)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_013.blend)|－|2018-04-28|
+|014|[テキストに日本語を使う方法](https://www.youtube.com/watch?v=ISUJ8s_cHbM)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_014.blend)|－|2018-04-29|
 |XXX|[XXX](XXX)|－|－|－|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
 作成日：2018年04月20日  
-更新日：2018年04月28日
+更新日：2018年04月29日
 
 © 2018 vvestvillage
