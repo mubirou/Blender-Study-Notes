@@ -132,6 +132,7 @@ sudo apt-get install blender
 |012|[ボーン（アーマチュア）の基本](https://www.youtube.com/watch?v=JULer0rGUBk)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_012.blend)|[●](https://yugalab.net/archives/2446)|2018-04-27|
 |013|[ロゴアニメーション](https://www.youtube.com/watch?v=UBbkLTwx5WY)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_013.blend)|－|2018-04-28|
 |014|[テキストに日本語を使う方法](https://www.youtube.com/watch?v=ISUJ8s_cHbM)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_014.blend)|－|2018-04-29|
+|015|[20世紀フォックス風オープニング](https://www.youtube.com/watch?v=4iLOzG3eFh4)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_015.blend)|－|2018-04-29|
 |XXX|[XXX](XXX)|－|－|－|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
