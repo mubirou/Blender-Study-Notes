@@ -134,7 +134,7 @@ sudo apt-get install blender
 |014|[テキストに日本語を使う方法](https://www.youtube.com/watch?v=ISUJ8s_cHbM)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_014.blend)|－|2018-04-29|
 |015|[20世紀フォックス風オープニング](https://www.youtube.com/watch?v=4iLOzG3eFh4)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_015.blend)|－|2018-04-29|
 |016|[透明カップと布](https://www.youtube.com/watch?v=SSpoeL45oZ4)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_016.blend)|－|2018-04-30|
-|017|[物理演算とオブジェクトの破壊](https://www.youtube.com/watch?v=fXMNR2InZqI)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_017.blend)|－|2018-05-01|
+|017|[物理演算とオブジェクトの破壊](https://www.youtube.com/watch?v=fXMNR2InZqI)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_017.blend)|－|2018-05-02|
 |018|[衝突破壊](https://www.youtube.com/watch?v=7wQ4bH499wU)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_018.blend)|－|2018-05-02|
 |XXX|[XXX](XXX)|－|－|－|
 
