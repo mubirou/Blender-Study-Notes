@@ -137,6 +137,7 @@ sudo apt-get install blender
 |017|[物理演算とオブジェクトの破壊](https://www.youtube.com/watch?v=fXMNR2InZqI)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_017.blend)|－|2018-05-02|
 |018|[衝突破壊](https://www.youtube.com/watch?v=7wQ4bH499wU)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_018.blend)|－|2018-05-02|
 |019|[基本ショートカット + Bool Tools](https://www.youtube.com/watch?v=g1E4N-osxQU)|－|－|2018-05-03|
+|020|[カーブオブジェクト](https://www.youtube.com/watch?v=pYfRXz0tSBk)|－|－|2018-05-03|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
