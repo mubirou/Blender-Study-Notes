@@ -138,12 +138,12 @@ sudo apt-get install blender
 |018|[衝突破壊](https://www.youtube.com/watch?v=7wQ4bH499wU)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_018.blend)|－|2018-05-02|
 |019|[基本ショートカット + Bool Tools](https://www.youtube.com/watch?v=g1E4N-osxQU)|－|－|2018-05-03|
 |020|[カーブオブジェクト](https://www.youtube.com/watch?v=pYfRXz0tSBk)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_020.blend)|－|2018-05-04|
-|021|[ワイングラス](https://www.youtube.com/watch?v=rpdfeQRKSMg)|[●]()|－|2018-05-XX|
+|021|[ワイングラス風](https://www.youtube.com/watch?v=rpdfeQRKSMg)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_021.blend)|－|2018-05-05|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
 作成日：2018年04月20日  
-更新日：2018年05月04日
+更新日：2018年05月05日
 
 
 <a name="XXXXX"></a>
