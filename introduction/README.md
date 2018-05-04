@@ -4,7 +4,6 @@
 
 * 制作環境 : Blender 2.79b 以降 / Ubuntu 16.04.4 LTS 以降
 * .blend ファイルを開くには [Blender](https://www.blender.org/) が必要です
-* .fbx ファイルは [Unity](https://store.unity.com/ja/) へのインポート用です
 
 ### <b>INDEX</b>
 
