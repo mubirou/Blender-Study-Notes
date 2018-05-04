@@ -138,7 +138,7 @@ sudo apt-get install blender
 |019|[基本ショートカット + Bool Tools](https://www.youtube.com/watch?v=g1E4N-osxQU)|－|－|2018-05-03|
 |020|[カーブオブジェクト](https://www.youtube.com/watch?v=pYfRXz0tSBk)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_020.blend)|－|2018-05-04|
 |021|[ワイングラス風](https://www.youtube.com/watch?v=rpdfeQRKSMg)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_021.blend)|－|2018-05-05|
-|022|[カメラのセッティング](https://www.youtube.com/watch?v=rpdfeQRKSMg)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_021.blend)|－|2018-05-05|
+|022|[カメラのセッティング](https://www.youtube.com/watch?v=ygrNtWcvoUg)|－|－|2018-05-XX|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
