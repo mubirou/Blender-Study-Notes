@@ -151,7 +151,7 @@ sudo apt-get install blender
 <a name="『CGイラストテクニック』"></a>
 # <b>005 『無料ではじめるBlender CGイラストテクニック』</b>
 
-頁数は [『無料ではじめるBlender CGイラストテクニック／大澤龍一著』](https://amzn.to/2HUNroF) のものです。  
+頁数は [『無料ではじめるBlender CGイラストテクニック／大澤龍一著』](https://amzn.to/2HUNroF) のページです。  
 .blend ファイルを開くには [Blender](https://www.blender.org/) が必要です。
 
 |No.|内容|頁数|.blend|
