@@ -148,7 +148,7 @@ sudo apt-get install blender
 更新日：2018年05月07日
 
 
-<a name="『CGイラストテクニック』"></a>
+<a name="『無料ではじめるBlender CGイラストテクニック』"></a>
 # <b>005 『CGイラストテクニック』</b>
 
 [『無料ではじめるBlender CGイラストテクニック／大澤龍一著』](https://amzn.to/2HUNroF) を参考。  
