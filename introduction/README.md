@@ -148,8 +148,8 @@ sudo apt-get install blender
 更新日：2018年05月07日
 
 
-<a name="『無料ではじめるBlender CGイラストテクニック』"></a>
-# <b>005 『CGイラストテクニック』</b>
+<a name="『CGイラストテクニック』"></a>
+# <b>005 『無料ではじめるBlender CGイラストテクニック』</b>
 
 [『無料ではじめるBlender CGイラストテクニック／大澤龍一著』](https://amzn.to/2HUNroF) を参考。  
 .blend ファイルを開くには [Blender](https://www.blender.org/) が必要です。
