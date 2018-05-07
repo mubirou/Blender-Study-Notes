@@ -112,7 +112,6 @@ sudo apt-get install blender
 <a name="入門動画"></a>
 # <b>004 入門動画</b>
 
-実際に操作してみた動画です。  
 .blend ファイルを開くには [Blender](https://www.blender.org/) が必要です。
 
 |No.|内容|.blend|参考サイト|視聴日|
@@ -152,7 +151,7 @@ sudo apt-get install blender
 <a name="『CGイラストテクニック』"></a>
 # <b>005 『CGイラストテクニック』</b>
 
-[『無料ではじめるBlender CGイラストテクニック／大澤龍一著』](https://amzn.to/2HUNroF)の勉強。  
+[『無料ではじめるBlender CGイラストテクニック／大澤龍一著』](https://amzn.to/2HUNroF) を参考。  
 .blend ファイルを開くには [Blender](https://www.blender.org/) が必要です。
 
 |No.|内容|頁数|.blend|
