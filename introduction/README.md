@@ -157,7 +157,8 @@ sudo apt-get install blender
 |No.|内容|頁数|.blend|
 |:--|:--|:--:|:--:|
 |001|プリミティブでキャラクターを作る|029|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_001.blend)|
-|002|XXXXX|－|－|
+|002|プリミティブで木を作る|035|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_002.blend)|
+|003|XXXXX|－|－|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
