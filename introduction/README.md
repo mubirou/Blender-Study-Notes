@@ -3,7 +3,7 @@
 この項目は、編集中の項目です。
 
 * 制作環境 : Blender 2.79b 以降 / Ubuntu 16.04.4 LTS 以降
-* .blend ファイルを開くには [Blender](https://www.blender.org/) が必要です
+* .blend ファイルを開くには [Blender](https://www.blender.org/) が必要です。
 
 ### <b>INDEX</b>
 
@@ -13,7 +13,7 @@
 |002|[プリミティブ](#プリミティブ)|10種類のプリミティブの利用方法|－|－|
 |003|[ユーザー設定](#ユーザー設定)|初期設定では使いにくい設定を変更|－|－|
 |004|[入門動画](#入門動画)|入門者向けの解説動画|[●](#入門動画)|－|
-|005|[XXX](#XXX)|XXX|－|－|
+|005|[『CGイラストテクニック』](#『CGイラストテクニック』)|参考書|[●](#『CGイラストテクニック』)|[●](https://amzn.to/2HUNroF)|
 ***
 
 
@@ -113,7 +113,7 @@ sudo apt-get install blender
 # <b>004 入門動画</b>
 
 実際に操作してみた動画です。  
-.blend ファイルを開くには [Blender](https://www.blender.org/) が必要です
+.blend ファイルを開くには [Blender](https://www.blender.org/) が必要です。
 
 |No.|内容|.blend|参考サイト|視聴日|
 |:--|:--|:--:|:--:|:--:|
@@ -149,11 +149,15 @@ sudo apt-get install blender
 更新日：2018年05月07日
 
 
-<a name="XXXXX"></a>
-# <b>005 XXXXX</b>
+<a name="『CGイラストテクニック』"></a>
+# <b>005 『CGイラストテクニック』</b>
 
-### 概要
-XXXXXXXXXXXXXXX
+[『無料ではじめるBlender CGイラストテクニック／大澤龍一著』](https://amzn.to/2HUNroF)の勉強。  
+.blend ファイルを開くには [Blender](https://www.blender.org/) が必要です。
+
+|No.|内容|頁数|.blend|
+|:--|:--|:--:|:--:|
+|001|XXXXX|－|－|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
