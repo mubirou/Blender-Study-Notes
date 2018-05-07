@@ -141,6 +141,7 @@ sudo apt-get install blender
 |022|[カメラの設定](https://www.youtube.com/watch?v=ygrNtWcvoUg)|－|－|2018-05-06|
 |023|[カメラのトラッキング](https://www.youtube.com/watch?v=Vu2Rtpuk6Aw)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_023.blend)|－|2018-05-06|
 |024|[パスアニメーション](https://www.youtube.com/watch?v=4LpDGe-MpLE)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_024.blend)|－|2018-05-07|
+|025|[流体シュミレーション](https://www.youtube.com/watch?v=inyfz4WsJt4)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_025.blend)|[●](https://blender-cg.net/fluid/)|2018-05-07|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
