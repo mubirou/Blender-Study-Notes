@@ -140,12 +140,12 @@ sudo apt-get install blender
 |021|[ワイングラス風](https://www.youtube.com/watch?v=rpdfeQRKSMg)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_021.blend)|－|2018-05-05|
 |022|[カメラの設定](https://www.youtube.com/watch?v=ygrNtWcvoUg)|－|－|2018-05-06|
 |023|[カメラのトラッキング](https://www.youtube.com/watch?v=Vu2Rtpuk6Aw)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_023.blend)|－|2018-05-06|
-|024|[パスアニメーション](https://www.youtube.com/watch?v=4LpDGe-MpLE)|－|－|2018-05-XX|
+|024|[パスアニメーション](https://www.youtube.com/watch?v=4LpDGe-MpLE)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_024.blend)|－|2018-05-07|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
 作成日：2018年04月20日  
-更新日：2018年05月06日
+更新日：2018年05月07日
 
 
 <a name="XXXXX"></a>
