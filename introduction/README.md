@@ -154,15 +154,15 @@ sudo apt-get install blender
 頁数は [『無料ではじめるBlender CGイラストテクニック／大澤龍一著』](https://amzn.to/2HUNroF) のページです。  
 .blend ファイルを開くには [Blender](https://www.blender.org/) が必要です。
 
-|No.|内容|頁数|.blend|
-|:--|:--|:--:|:--:|
-|001|プリミティブでキャラクターを作る|029|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_001.blend)|
-|002|プリミティブで木を作る|035|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_002.blend)|
-|003|XXXXX|－|－|
+|No.|内容|頁数|.blend|作成日|
+|:--|:--|:--:|:--:|:--:|
+|001|プリミティブでキャラクターを作る|029|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_001.blend)|2018-05-07|
+|002|プリミティブで木を作る|035|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_002.blend)|2018-05-07|
+|003|ガラスのコップ（一部色付き）を作る|041|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_003.blend)|2018-05-08|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
 作成日：2018年05月07日  
-更新日：2018年XX月XX日
+更新日：2018年05月08日
 
 © 2018 vvestvillage
