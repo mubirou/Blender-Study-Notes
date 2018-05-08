@@ -159,6 +159,8 @@ sudo apt-get install blender
 |001|プリミティブでキャラクターを作る|029|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_001.blend)|2018-05-07|
 |002|プリミティブで木を作る|035|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_002.blend)|2018-05-07|
 |003|ガラスのコップ（一部色付き）を作る|041|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_003.blend)|2018-05-08|
+|004|再分割局面で葉っぱを表現|051|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_004.blend)|2018-05-08|
+|XXX|XXX|XXX|－|2018-XX-XX|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
