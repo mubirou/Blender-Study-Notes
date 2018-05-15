@@ -165,11 +165,12 @@ sudo apt-get install blender
 |008|さまざまな造形のアイデア|056|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_008.blend)|2018-05-09|
 |009|取っ手･ブーリアン|063|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_009.blend)|2018-05-10|
 |010|ナイフ･細分化･プロポーショナル編集|066|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_010.blend)|2018-05-10|
+|011|ドロー系ソフトからの読み込み|076|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_011.blend)|2018-05-15|
 |XXX|XXX|XXX|－|2018-XX-XX|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
 作成日：2018年05月07日  
-更新日：2018年05月10日
+更新日：2018年05月15日
 
 © 2018 vvestvillage
