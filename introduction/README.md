@@ -167,7 +167,7 @@ sudo apt-get install blender
 |010|ナイフ･細分化･プロポーショナル編集|066|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_010.blend)|2018-05-10|
 |011|ドロー系ソフトからの読み込み / メッシュに変換|076 / 086|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_011.zip)|2018-05-15|
 |012|額縁（ベジェカーブと円カーブ）|084|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_012.blend)|2018-05-15|
-|013|ヘビ（Alt+C / カーブからメッシュに変換）|086|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_013.blend)|2018-05-16|
+|013|ヘビ（Alt+C → カーブからメッシュに変換）|086|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_013.blend)|2018-05-16|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
