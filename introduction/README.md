@@ -153,24 +153,25 @@ sudo apt-get install blender
 頁数は [『無料ではじめるBlender CGイラストテクニック／大澤龍一著』](https://amzn.to/2HUNroF) のページです。  
 .blend ファイルを開くには [Blender](https://www.blender.org/) が必要です。
 
-|No.|内容|頁数|.blend|作成日|
-|:--|:--|:--:|:--:|:--:|
-|001|プリミティブでキャラクターを作る|029|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_001.blend)|2018-05-07|
-|002|プリミティブで木を作る|035|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_002.blend)|2018-05-07|
-|003|ガラスのコップ（一部色付き）を作る|041|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_003.blend)|2018-05-08|
-|004|細分割曲面で葉っぱを表現|051|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_004.blend)|2018-05-08|
-|005|帽子をかぶったサボテン君|052|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_005.blend)|2018-05-08|
-|006|イルカ（ミラー使用）|054|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_006.blend)|2018-05-08|
-|007|お城|055|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_007.blend)|2018-05-09|
-|008|さまざまな造形のアイデア|056|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_008.blend)|2018-05-09|
-|009|取っ手･ブーリアン|063|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_009.blend)|2018-05-10|
-|010|ナイフ･細分化･プロポーショナル編集|066|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_010.blend)|2018-05-10|
-|011|ドロー系ソフトからの読み込み / メッシュに変換|076 / 086|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_011.zip)|2018-05-15|
-|012|額縁（ベジェカーブと円カーブ）|084|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_012.blend)|2018-05-15|
-|013|ヘビ（Alt+C→カーブからメッシュに変換）|086|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_013.blend)|2018-05-16|
-|014|スクリュー|087|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_014.blend)|2018-05-17|
-|015|シャワーヘッド（ブーリアン）|088|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_015.blend)|2018-05-17|
-|016|スカルプトモデリング|095|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_016.blend)|2018-05-17|
+|No.|内容|頁数|.blend|参考サイト|作成日|
+|:--|:--|:--:|:--:|:--:|:--:|
+|001|プリミティブでキャラクターを作る|029|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_001.blend)|－|2018-05-07|
+|002|プリミティブで木を作る|035|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_002.blend)|－|2018-05-07|
+|003|ガラスのコップ（一部色付き）を作る|041|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_003.blend)|－|2018-05-08|
+|004|細分割曲面で葉っぱを表現|051|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_004.blend)|－|2018-05-08|
+|005|帽子をかぶったサボテン君|052|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_005.blend)|－|2018-05-08|
+|006|イルカ（ミラー使用）|054|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_006.blend)|－|2018-05-08|
+|007|お城|055|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_007.blend)|－|2018-05-09|
+|008|さまざまな造形のアイデア|056|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_008.blend)|－|2018-05-09|
+|009|取っ手･ブーリアン|063|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_009.blend)|－|2018-05-10|
+|010|ナイフ･細分化･プロポーショナル編集|066|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_010.blend)|－|2018-05-10|
+|011|ドロー系ソフトからの読み込み / メッシュに変換|076 / 086|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_011.zip)|－|2018-05-15|
+|012|額縁（ベジェカーブと円カーブ）|084|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_012.blend)|－|2018-05-15|
+|013|ヘビ（Alt+C→カーブからメッシュに変換）|086|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_013.blend)|－|2018-05-16|
+|014|スクリュー|087|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_014.blend)|－|2018-05-17|
+|015|シャワーヘッド（ブーリアン）|088|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_015.blend)|－|2018-05-17|
+|016|スカルプトモデリング|095|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_016.blend)|－|2018-05-17|
+|017|配列複製（直線 / カーブ）|105|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_017.blend)|[●](https://www.youtube.com/watch?v=-fzLGuckHh0)|2018-05-17|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
