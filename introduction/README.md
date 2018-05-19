@@ -171,9 +171,9 @@ sudo apt-get install blender
 |014|スクリュー|087|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_014.blend)|－|2018-05-17|
 |015|シャワーヘッド（ブーリアン）|088|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_015.blend)|－|2018-05-17|
 |016|スカルプトモデリング|095|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_016.blend)|－|2018-05-17|
-|017|配列複製（直線 / カーブ）|105|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_017.blend)|[●](https://www.youtube.com/watch?v=-fzLGuckHh0)|2018-05-17|
-|018|配列複製（格子）|107|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_018.blend)|－|2018-05-17|
-|019|配列複製（ビル）|108|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_019.blend)|－|2018-05-17|
+|017|配列複製（直線 / カーブ）|105|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_017.blend)|[●](https://www.youtube.com/watch?v=-fzLGuckHh0)|2018-05-18|
+|018|配列複製（格子）|107|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_018.blend)|－|2018-05-18|
+|019|配列複製（ビル）|108|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_019.blend)|－|2018-05-18|
 |020|パーティクルで大量複製配列の基本（植物）|109|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_020.blend)|－|2018-05-20|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
