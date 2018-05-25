@@ -179,7 +179,7 @@ sudo apt-get install blender
 |019|配列複製（ビル）|108|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_019.blend)|－|2018-05-18|
 |020|パーティクルで大量複製配列の基本（植物）|109|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_020.blend)|－|2018-05-20|
 |021|パーティクルヘアー（髪の毛）|117|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_021.blend)|－|2018-05-24|
-|022|ソファーとぬいぐるみ（[細分割曲面]+[ループカット]で角を立てる）|123|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_022.blend)|－|2018-05-25|
+|022|ソファーとぬいぐるみ|123|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_022.blend)|－|2018-05-25|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
