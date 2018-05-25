@@ -179,11 +179,12 @@ sudo apt-get install blender
 |019|配列複製（ビル）|108|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_019.blend)|－|2018-05-18|
 |020|パーティクルで大量複製配列の基本（植物）|109|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_020.blend)|－|2018-05-20|
 |021|パーティクルヘアー（髪の毛）|117|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_021.blend)|－|2018-05-24|
+|022|ソファーとぬいぐるみ（[細分割曲面]+[ループカット]で角を立てる）|123|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_022.blend)|－|2018-05-25|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
 作成日：2018年05月07日  
-更新日：2018年05月24日
+更新日：2018年05月25日
 
 S
 <a name="ショートカットキー"></a>
@@ -200,7 +201,10 @@ S
 |[S]|拡大･縮小|2018-05-25|
 |[E]|押し出しえ|2018-05-25|
 |[B]|矩形で範囲指定|2018-05-25|
+|[C]|ドラッグでｓ範囲指定|2018-05-25|
 |[G]|自由移動（X･Y･Zの併用で方向限定）|2018-05-25|
+|[R]|回転（X･Y･Zの併用で方向限定）|2018-05-25|
+|[F10]|カメラの位置でビュー|2018-05-25|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
