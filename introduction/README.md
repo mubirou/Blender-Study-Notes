@@ -184,6 +184,7 @@ sudo apt-get install blender
 |024|やかん（別オブジェクトに分離）|141|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_024.blend)|－|2018-05-29|
 |025|マテリアル（光沢BSDF / ガラスBSDF）|148|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_025.blend)|－|2018-05-29|
 |026|マテリアルノード（ノードエディタ）|151|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_026.blend)|－|2018-05-29|
+|027|よく使う4種類のマテリアル（艶あり / 艶あり / 金属 / ガラス）|156|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_027.blend)|－|2018-05-29|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
