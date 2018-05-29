@@ -182,6 +182,7 @@ sudo apt-get install blender
 |022|ソファーとぬいぐるみ|123|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_022.blend)|－|2018-05-25|
 |023|ひまわり（ウェイトペント / パーティクル→メッシュに変換）|135|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_023.blend)|－|2018-05-29|
 |024|やかん（別オブジェクトに分離）|141|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_024.blend)|－|2018-05-29|
+|025|マテリアル（光沢BSDF / ガラスBSDF）|148|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_025.blend)|－|2018-05-29|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
