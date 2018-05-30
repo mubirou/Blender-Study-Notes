@@ -185,11 +185,12 @@ sudo apt-get install blender
 |025|マテリアル（光沢BSDF / ガラスBSDF）|148|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_025.blend)|－|2018-05-29|
 |026|マテリアルノード（ノードエディタ）|151|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_026.blend)|－|2018-05-29|
 |027|よく使う4種類のマテリアル（艶あり / 艶あり / 金属 / ガラス）|156|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_027.blend)|－|2018-05-29|
+|028|テクスチャ（フラット / ボックス / 球 / チューブ）|170|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_028.blend)|－|2018-05-30|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
 作成日：2018年05月07日  
-更新日：2018年05月29日
+更新日：2018年05月30日
 
 
 <a name="ショートカットキー"></a>
