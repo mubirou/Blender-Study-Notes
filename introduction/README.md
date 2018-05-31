@@ -189,6 +189,7 @@ sudo apt-get install blender
 |029|汚れた感じを足す（grunge / smudge）|178|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_029.zip)|[●](https://www.textures.com/)|2018-05-30|
 |030|オブジェクトの一部にマッピング（窓）|185|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_030.zip)|[●](https://www.textures.com/)|2018-05-30|
 |031|スマートUV投影 / テクスチャペイント|189|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_031.blend)|－|2018-05-31|
+|032|立方体のUV展開|199|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_032.blend)|－|2018-05-31|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
