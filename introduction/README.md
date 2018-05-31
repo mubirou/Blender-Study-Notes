@@ -191,6 +191,7 @@ sudo apt-get install blender
 |031|スマートUV投影 / テクスチャペイント|189|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_031.blend)|－|2018-05-31|
 |032|立方体のUV展開（シームを付ける）|199|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_032.blend)|－|2018-05-31|
 |033|有機曲面のUV展開（シームを付ける）|200|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_033.zip)|－|2018-05-31|
+|034|空の明るさ（大気テクスチャ）|214|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_034.blend)|－|2018-05-31|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
