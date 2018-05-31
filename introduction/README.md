@@ -188,11 +188,12 @@ sudo apt-get install blender
 |028|テクスチャ（フラット / ボックス / 球 / チューブ）|170|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_028.zip)|[●](https://www.textures.com/)|2018-05-30|
 |029|汚れた感じを足す（grunge / smudge）|178|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_029.zip)|[●](https://www.textures.com/)|2018-05-30|
 |030|オブジェクトの一部にマッピング（窓）|185|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_030.zip)|[●](https://www.textures.com/)|2018-05-30|
+|031|スマートUV投影 / テクスチャペイント|189|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_031.blend)|－|2018-05-31|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
 作成日：2018年05月07日  
-更新日：2018年05月30日
+更新日：2018年05月31日
 
 
 <a name="ショートカットキー"></a>
