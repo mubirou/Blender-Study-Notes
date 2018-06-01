@@ -287,7 +287,7 @@ sudo apt-get install blender
 
 
 <a name="『はじめてのBlender』"></a>
-# <b>010 『はじめてのBlender アニメーション編』</b>
+# <b>010 『はじめてのBlender（アニメーション編）』</b>
 
 頁数は [『はじめてのBlender（アニメーション編）／山崎聡著』](https://amzn.to/2JiTi70) のページです。  
 
