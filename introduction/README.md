@@ -255,7 +255,7 @@ sudo apt-get install blender
 * [ファイル]-[ユーザー設定] で任意のアドオンを検索し [ユーザー設定の保存] で有効化。
 
 |アドオン名|内容|使用方法|.blend|
-|:--|:--|:--:|
+|:--|:--|:--|:--:|
 |Extra Objects（Mesh）|ギヤ等の追加|[Shirt]-[A] から選択|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_037_01.blend)|
 
 
