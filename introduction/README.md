@@ -252,11 +252,13 @@ sudo apt-get install blender
 # <b>008 アドオン</b>
 
 * デフォルトで無効になっているアドオンがあります。
-* [ファイル]-[ユーザー設定] で任意のアドオンを検索し [ユーザー設定の保存] で有効化。
+* [ファイル]-[ユーザー設定] で任意のアドオンを検索し [✔] → [ユーザー設定の保存] で有効化。
 
 |アドオン名|内容|使用方法|.blend|
 |:--|:--|:--|:--:|
 |Extra Objects（Mesh）|ギヤ等の追加|[Shirt]-[A] から選択|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_037_01.blend)|
+|LoopTools|頂点を中心に円形に変形|W] から選択|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_037_02.blend)|
+
 
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
