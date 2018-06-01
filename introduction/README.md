@@ -193,7 +193,7 @@ sudo apt-get install blender
 |033|有機曲面のUV展開（シームを付ける）|200|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_033.zip)|－|2018-05-31|
 |034|空の明るさ（大気テクスチャ）|214|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_034.blend)|－|2018-05-31|
 |035|美しいライティング（複数の光源）|216|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_035.blend)|－|2018-05-31|
-|036|カメラの設定（35フィルム 50mm F0.95）|239|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_036.blend)|－|2018-06-01|
+|036|カメラの設定（35フィルム 50mm F0.95 / 露出補正±10）|239|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_036.blend)|－|2018-06-01|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
