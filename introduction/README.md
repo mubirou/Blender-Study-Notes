@@ -157,7 +157,6 @@ sudo apt-get install blender
 # <b>005 『無料ではじめるBlender CGイラストテクニック』</b>
 
 頁数は [『無料ではじめるBlender CGイラストテクニック／大澤龍一著』](https://amzn.to/2HUNroF) のページです。  
-.blend ファイルを開くには [Blender](https://www.blender.org/) が必要です。
 
 |No.|内容|頁数|.blend|参考サイト|作成日|
 |:--|:--|:--:|:--:|:--:|:--:|
@@ -291,7 +290,6 @@ sudo apt-get install blender
 # <b>010 『はじめてのBlender アニメーション編』</b>
 
 頁数は [『はじめてのBlender アニメーション編／山崎聡著』](https://amzn.to/2JiTi70) のページです。  
-.blend ファイルを開くには [Blender](https://www.blender.org/) が必要です。
 
 |No.|内容|頁数|.blend|参考サイト|作成日|
 |:--|:--|:--:|:--:|:--:|:--:|
