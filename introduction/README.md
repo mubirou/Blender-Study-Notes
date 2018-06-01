@@ -257,7 +257,7 @@ sudo apt-get install blender
 |アドオン名|内容|使用方法|.blend|
 |:--|:--|:--|:--:|
 |Extra Objects（Mesh）|ギヤ等の追加|[Shirt]-[A] から選択|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_037_01.blend)|
-|LoopTools|頂点を中心に円形に変形|W] から選択|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_037_02.blend)|
+|LoopTools|頂点を中心に円形に変形|[W] から選択|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_037_02.blend)|
 
 
 
