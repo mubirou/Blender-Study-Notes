@@ -294,8 +294,8 @@ sudo apt-get install blender
 
 |No.|内容|頁数|.blend|参考サイト|作成日|
 |:--|:--|:--:|:--:|:--:|:--:|
-|001|モデリング / アーマチュア / IK設定|〜47|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_001.blend)|－|2018-06-06|
-|002|アニメーション･チュートリアル|〜58|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_002.blend)|－|2018-06-07|
+|001|アニメーション･チュートリアル（モデリング･アーマチュア･IK設定）|〜47|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_001.blend)|－|2018-06-06|
+|002|アニメーション･チュートリアル（完成）|〜58|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_002.blend)|－|2018-06-07|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
