@@ -299,11 +299,12 @@ sudo apt-get install blender
 |002|アニメーション･チュートリアル（IK設定）|〜47|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_002.blend)|－|2018-06-06|
 |003|アニメーション･チュートリアル（完成）|〜58|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_003.blend)|－|2018-06-07|
 |004|グラフエディタ（バウンス･ゴム状）|65|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_004.blend)|[●](https://blender-cg.net/graph-editor/)|2018-06-08|
+|005|パスアニメーション|78|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_005.blend)|－|2018-06-11|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
 作成日：2018年06月04日  
-更新日：2018年06月08日
+更新日：2018年06月11日
 
 
 © 2018 vvestvillage
