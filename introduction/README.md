@@ -300,11 +300,13 @@ sudo apt-get install blender
 |003|アニメーション･チュートリアル（完成）|〜58|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_003.blend)|－|2018-06-07|
 |004|グラフエディタ（バウンス･ゴム状）|65|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_004.blend)|[●](https://blender-cg.net/graph-editor/)|2018-06-08|
 |005|パスアニメーション|78|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_005.blend)|－|2018-06-11|
+|006|列車（パスに追従コンストレイント）|82|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_006.blend)|[●](https://www.youtube.com/watch?v=UnRaVTozxDk)|2018-06-12|
+
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
 作成日：2018年06月04日  
-更新日：2018年06月11日
+更新日：2018年06月12日
 
 
 © 2018 vvestvillage
