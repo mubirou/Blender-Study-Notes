@@ -302,12 +302,13 @@ sudo apt-get install blender
 |005|パスアニメーション|78|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_005.blend)|－|2018-06-11|
 |006|列車（パスに追従コンストレイント）|82|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_006.blend)|[●](https://www.youtube.com/watch?v=UnRaVTozxDk)|2018-06-12|
 |007|モーフィング（シェイプキー･ドープシート）|86|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_007.blend)|[●](https://blender-cg.net/shape-keys/)[●](https://blender-cg.net/dope-sheet/)|2018-06-12|
+|008|アーマチュアの編集①（Meshを作成）|92|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_008.blend)|－|2018-06-13|
 
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
 作成日：2018年06月04日  
-更新日：2018年06月12日
+更新日：2018年06月13日
 
 
 © 2018 vvestvillage
