@@ -295,9 +295,9 @@ sudo apt-get install blender
 
 |No.|内容|頁数|.blend|参考サイト|作成日|
 |:--|:--|:--:|:--:|:--:|:--:|
-|003|アニメーション･チュートリアル（モデリング･アーマチュア）|〜41|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_001.blend)|－|2018-06-04|
-|002|アニメーション･チュートリアル（IK設定）|〜47|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_002.blend)|－|2018-06-06|
-|003|アニメーション･チュートリアル（完成）|〜58|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_003.blend)|－|2018-06-07|
+|003|アニメーション･チュートリアル①（モデリング･アーマチュア）|〜41|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_001.blend)|－|2018-06-04|
+|002|アニメーション･チュートリアル②（IK設定）|〜47|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_002.blend)|－|2018-06-06|
+|003|アニメーション･チュートリアル③（完成）|〜58|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_003.blend)|－|2018-06-07|
 |004|グラフエディタ（バウンス･ゴム状）|65|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_004.blend)|[●](https://blender-cg.net/graph-editor/)|2018-06-08|
 |005|パスアニメーション|78|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_005.blend)|－|2018-06-11|
 |006|列車（パスに追従コンストレイント）|82|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_006.blend)|[●](https://www.youtube.com/watch?v=UnRaVTozxDk)|2018-06-12|
