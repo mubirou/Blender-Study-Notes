@@ -304,6 +304,7 @@ sudo apt-get install blender
 |007|モーフィング（シェイプキー･ドープシート）|86|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_007.blend)|[●](https://blender-cg.net/shape-keys/)[●](https://blender-cg.net/dope-sheet/)|2018-06-12|
 |008|スケルタル･アニメーション①（変形するMeshを作成）|92|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_008.blend)|－|2018-06-13|
 |009|スケルタル･アニメーション②（アーマチュア作成）|92〜100|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_009.blend)|－|2018-06-15|
+|010|スケルタル･アニメーション③（ウェイト設定）|101〜114|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_010.blend)|－|2018-06-15|
 
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
