@@ -325,7 +325,7 @@ sudo apt-get install blender
 ### 制限されているデータ
 * XXXXX
 
-### Unityに持ち込めないデータ
+### システムに無いため持ち込めないデータ
 * XXXXX
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
