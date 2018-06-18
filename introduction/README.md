@@ -307,7 +307,7 @@ sudo apt-get install blender
 |010|スケルタル･アニメーション③（ウェイト設定）|41〜44 / 101〜114|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_010.blend)|－|2018-06-15|
 |011|スケルタル･アニメーション④（IK･リギング）|45〜47 / 115〜127|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_011.blend)|－|2018-06-15|
 |012|スケルタル･アニメーション⑤（基本ループアニメ）|48〜55 / 128〜131|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_012.blend)|－|2018-06-18|
-|013|スケルタル･アニメーション⑥（パスのアニメ）|55〜58 / XXX〜XXX|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_013.blend)|－|2018-06-XX|
+|013|スケルタル･アニメーション⑥（パスのアニメ）|55〜58 / 132〜135|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_013.blend)|－|2018-06-18|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
