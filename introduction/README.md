@@ -17,6 +17,7 @@
 |008|[アドオン](#アドオン)|さまざなまな機能を追加|－|－|
 |009|[ルーティンワーク](#ルーティンワーク)|制作時に毎回行うルーティン|－|－|
 |010|[『はじめてのBlender（アニメーション編）』](#『はじめてのBlender』)|参考書の勉強|[●](#『はじめてのBlender』)|[●](https://amzn.to/2JiTi70)|
+|011|[Unity用](#Unity用)|Unityで利用するためのポイント|－|－|
 ***
 
 
@@ -313,6 +314,23 @@ sudo apt-get install blender
 作成者：vvestvillage  
 作成日：2018年06月04日  
 更新日：2018年06月18日
+
+
+<a name="Unity用"></a>
+# <b>011 Unity用</b>
+
+### 処理負荷が高いため推奨されていないデータ
+* XXXXX
+
+### 制限されているデータ
+* XXXXX
+
+### Unityに持ち込めないデータ
+* XXXXX
+
+実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
+作成者：vvestvillage  
+作成日：2018年06月XX日
 
 
 © 2018 vvestvillage
