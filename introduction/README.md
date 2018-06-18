@@ -326,7 +326,8 @@ sudo apt-get install blender
 * XXXXX
 
 ### システムに無いため持ち込めないデータ
-* XXXXX
+* 各種ランプ
+* カメラ
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
