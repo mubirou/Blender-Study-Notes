@@ -319,6 +319,11 @@ sudo apt-get install blender
 <a name="Unity用データ"></a>
 # <b>011 Unity用データ</b>
 
+### Unityにインポート可能なもの
+* Blender 2.60 以降
+* ボーン
+* UV
+
 ### 処理負荷が高いため推奨されていないデータ
 * XXXXX
 
