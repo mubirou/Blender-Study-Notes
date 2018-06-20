@@ -330,15 +330,8 @@ sudo apt-get install blender
 ### マテリアル数をなるべく少なくする
 
 ### Unityにインポート可能なもの
-* Blender 2.60 以降
 * ボーン
-* UV    
-
-### 処理負荷が高いため推奨されていないデータ
-* XXXX
-
-### 制限されているデータ
-* XXXXX
+* UV（Unity上でリンクし直す必要あり）
 
 ### システムに無いため持ち込めないデータ
 * 各種ランプ
@@ -347,7 +340,7 @@ sudo apt-get install blender
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：vvestvillage  
 作成日：2018年06月19日  
-更新日：2018年XX月XX日
+更新日：2018年06月20日
 
 
 © 2018 vvestvillage
