@@ -343,4 +343,4 @@ sudo apt-get install blender
 更新日：2018年06月20日
 
 
-© 2018 mubirou
+© 2018 夢寐郎
