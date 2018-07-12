@@ -42,7 +42,7 @@ sudo apt-get install blender
 1. [Translate] の [Interface]、[Tooltips]、[new Data] を選択。
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：vvestvillage  
+作成者：mubirou  
 作成日：2018年04月18日
 
 
@@ -79,10 +79,10 @@ sudo apt-get install blender
     * Suzannu（スザンヌ）というBlenderのマスコットキャラ。
     * 頂点数507。
 
-![002](https://vvestvillage.github.io/Blender/introduction/jpg/002.jpg)
+![002](https://mubirou.github.io/Blender/introduction/jpg/002.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：vvestvillage  
+作成者：mubirou  
 作成日：2018年04月19日
 
 
@@ -101,15 +101,15 @@ sudo apt-get install blender
 1. [透視投影]→[並行投影] に変更……正確な位置を把握しやすくする為（テンキー5で切替）
 
 1. 単位を [単位プリセット]→[メートル] に変更  
-![003_1](https://vvestvillage.github.io/Blender/introduction/jpg/003_1.jpg)
+![003_1](https://mubirou.github.io/Blender/introduction/jpg/003_1.jpg)
 
 1. [左クリック] で [Lamp] を選択→ [ポイント]→[サン] に変更……使用頻度が高い為  
-![003_2](https://vvestvillage.github.io/Blender/introduction/jpg/003_2.jpg)
+![003_2](https://mubirou.github.io/Blender/introduction/jpg/003_2.jpg)
 
 1. [ファイル]-[スタートアップファイルの保存] を選択……次回起動時にも反映させる為
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：vvestvillage  
+作成者：mubirou  
 作成日：2018年04月20日
 
 
@@ -122,34 +122,34 @@ sudo apt-get install blender
 |:--|:--|:--:|:--:|:--:|
 |001|[画面操作･オブジェクトの操作･3Dカーソル](https://www.youtube.com/watch?v=du0ybLqScJk&index=1&list=PLmVkGpfcCZalGLfi3B5lx038GY1rNw2-L)|－|－|2018-04-20|
 |002|[基本操作法（オブジェクトモード･編集モード）](https://www.youtube.com/watch?v=xgsTa-yiPHY)|－|－|2018-04-20|
-|003|[機能紹介その①（基本動作）](https://www.youtube.com/watch?v=EHAgiNVKIPo)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_003.blend)|－|2018-04-20|
-|004|[機能紹介その②（オブジェクトの色･アニメーション作成）](https://www.youtube.com/watch?v=KLm5B98zQV8)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_004.blend)|－|2018-04-21|
-|005|[3Dテキストの作成](https://www.youtube.com/watch?v=3Jh_-HqSzmI)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_005.blend)|－|2018-04-21|
+|003|[機能紹介その①（基本動作）](https://www.youtube.com/watch?v=EHAgiNVKIPo)|[●](https://mubirou.github.io/Blender/introduction/blend/004_003.blend)|－|2018-04-20|
+|004|[機能紹介その②（オブジェクトの色･アニメーション作成）](https://www.youtube.com/watch?v=KLm5B98zQV8)|[●](https://mubirou.github.io/Blender/introduction/blend/004_004.blend)|－|2018-04-21|
+|005|[3Dテキストの作成](https://www.youtube.com/watch?v=3Jh_-HqSzmI)|[●](https://mubirou.github.io/Blender/introduction/blend/004_005.blend)|－|2018-04-21|
 |006|[平面ライトの作り方](https://www.youtube.com/watch?v=dfoRfwacDSA)|－|－|2018-04-22|
-|007|[綺麗なゴールドの設定](https://www.youtube.com/watch?v=DP1qJJkHmOQ)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_007.zip)|－|2018-04-22|
+|007|[綺麗なゴールドの設定](https://www.youtube.com/watch?v=DP1qJJkHmOQ)|[●](https://mubirou.github.io/Blender/introduction/blend/004_007.zip)|－|2018-04-22|
 |008|[G･R･S + X･Y･Z + Ctrl](https://www.youtube.com/watch?v=RIR5p28CiZ4)|－|－|2018-04-22|
-|009|[立方体からの変形（1･3･5 / E / B）](https://www.youtube.com/watch?v=wftv5exmsho)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_009.blend)|－|2018-04-23|
-|010|[犬の作成①](https://www.youtube.com/watch?v=pkvMiEeJGro)･[②](https://www.youtube.com/watch?v=DUp9XAM42Cg)･[③](https://www.youtube.com/watch?v=sTdziqcgNnM)（A / B / Ctrl+R）|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_010_01.blend)[●](https://vvestvillage.github.io/Blender/introduction/blend/004_010_02.blend)[●](https://vvestvillage.github.io/Blender/introduction/blend/004_010_03.blend)|－|2018-04-25|
-|011|[UVマッピング](https://www.youtube.com/watch?v=IXXN3p8aCIM)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_011.zip)|－|2018-04-26|
-|012|[ボーン（アーマチュア）の基本](https://www.youtube.com/watch?v=JULer0rGUBk)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_012.blend)|[●](https://yugalab.net/archives/2446)|2018-04-27|
-|013|[ロゴアニメーション](https://www.youtube.com/watch?v=UBbkLTwx5WY)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_013.blend)|－|2018-04-28|
-|014|[テキストに日本語を使う方法](https://www.youtube.com/watch?v=ISUJ8s_cHbM)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_014.blend)|－|2018-04-29|
-|015|[20世紀フォックス風オープニング](https://www.youtube.com/watch?v=4iLOzG3eFh4)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_015.blend)|－|2018-04-29|
-|016|[透明カップと布](https://www.youtube.com/watch?v=SSpoeL45oZ4)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_016.blend)|－|2018-04-30|
-|017|[物理演算とオブジェクトの破壊](https://www.youtube.com/watch?v=fXMNR2InZqI)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_017.blend)|－|2018-05-02|
-|018|[衝突破壊](https://www.youtube.com/watch?v=7wQ4bH499wU)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_018.blend)|－|2018-05-02|
+|009|[立方体からの変形（1･3･5 / E / B）](https://www.youtube.com/watch?v=wftv5exmsho)|[●](https://mubirou.github.io/Blender/introduction/blend/004_009.blend)|－|2018-04-23|
+|010|[犬の作成①](https://www.youtube.com/watch?v=pkvMiEeJGro)･[②](https://www.youtube.com/watch?v=DUp9XAM42Cg)･[③](https://www.youtube.com/watch?v=sTdziqcgNnM)（A / B / Ctrl+R）|[●](https://mubirou.github.io/Blender/introduction/blend/004_010_01.blend)[●](https://mubirou.github.io/Blender/introduction/blend/004_010_02.blend)[●](https://mubirou.github.io/Blender/introduction/blend/004_010_03.blend)|－|2018-04-25|
+|011|[UVマッピング](https://www.youtube.com/watch?v=IXXN3p8aCIM)|[●](https://mubirou.github.io/Blender/introduction/blend/004_011.zip)|－|2018-04-26|
+|012|[ボーン（アーマチュア）の基本](https://www.youtube.com/watch?v=JULer0rGUBk)|[●](https://mubirou.github.io/Blender/introduction/blend/004_012.blend)|[●](https://yugalab.net/archives/2446)|2018-04-27|
+|013|[ロゴアニメーション](https://www.youtube.com/watch?v=UBbkLTwx5WY)|[●](https://mubirou.github.io/Blender/introduction/blend/004_013.blend)|－|2018-04-28|
+|014|[テキストに日本語を使う方法](https://www.youtube.com/watch?v=ISUJ8s_cHbM)|[●](https://mubirou.github.io/Blender/introduction/blend/004_014.blend)|－|2018-04-29|
+|015|[20世紀フォックス風オープニング](https://www.youtube.com/watch?v=4iLOzG3eFh4)|[●](https://mubirou.github.io/Blender/introduction/blend/004_015.blend)|－|2018-04-29|
+|016|[透明カップと布](https://www.youtube.com/watch?v=SSpoeL45oZ4)|[●](https://mubirou.github.io/Blender/introduction/blend/004_016.blend)|－|2018-04-30|
+|017|[物理演算とオブジェクトの破壊](https://www.youtube.com/watch?v=fXMNR2InZqI)|[●](https://mubirou.github.io/Blender/introduction/blend/004_017.blend)|－|2018-05-02|
+|018|[衝突破壊](https://www.youtube.com/watch?v=7wQ4bH499wU)|[●](https://mubirou.github.io/Blender/introduction/blend/004_018.blend)|－|2018-05-02|
 |019|[基本ショートカット + Bool Tools](https://www.youtube.com/watch?v=g1E4N-osxQU)|－|－|2018-05-03|
-|020|[カーブオブジェクト](https://www.youtube.com/watch?v=pYfRXz0tSBk)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_020.blend)|－|2018-05-04|
-|021|[ワイングラス風](https://www.youtube.com/watch?v=rpdfeQRKSMg)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_021.blend)|－|2018-05-05|
+|020|[カーブオブジェクト](https://www.youtube.com/watch?v=pYfRXz0tSBk)|[●](https://mubirou.github.io/Blender/introduction/blend/004_020.blend)|－|2018-05-04|
+|021|[ワイングラス風](https://www.youtube.com/watch?v=rpdfeQRKSMg)|[●](https://mubirou.github.io/Blender/introduction/blend/004_021.blend)|－|2018-05-05|
 |022|[カメラの設定](https://www.youtube.com/watch?v=ygrNtWcvoUg)|－|－|2018-05-06|
-|023|[カメラのトラッキング](https://www.youtube.com/watch?v=Vu2Rtpuk6Aw)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_023.blend)|－|2018-05-06|
-|024|[パスアニメーション](https://www.youtube.com/watch?v=4LpDGe-MpLE)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_024.blend)|－|2018-05-07|
-|025|[流体シュミレーション](https://www.youtube.com/watch?v=inyfz4WsJt4)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_025.blend)|[●](https://blender-cg.net/fluid/)|2018-05-07|
-|026|[スプリング（ばね）](https://www.youtube.com/watch?v=8UFcZBk6v9Y)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_026.blend)|－|2018-05-15|
-|027|[歯車の作成とかみ合わせ](https://www.youtube.com/watch?v=iWRNMG9LAYY)|[●](https://vvestvillage.github.io/Blender/introduction/blend/004_027.blend)|[●](https://syoshinsya-3d.hatenablog.com/entry/2018/05/06/220800)|2018-05-21|
+|023|[カメラのトラッキング](https://www.youtube.com/watch?v=Vu2Rtpuk6Aw)|[●](https://mubirou.github.io/Blender/introduction/blend/004_023.blend)|－|2018-05-06|
+|024|[パスアニメーション](https://www.youtube.com/watch?v=4LpDGe-MpLE)|[●](https://mubirou.github.io/Blender/introduction/blend/004_024.blend)|－|2018-05-07|
+|025|[流体シュミレーション](https://www.youtube.com/watch?v=inyfz4WsJt4)|[●](https://mubirou.github.io/Blender/introduction/blend/004_025.blend)|[●](https://blender-cg.net/fluid/)|2018-05-07|
+|026|[スプリング（ばね）](https://www.youtube.com/watch?v=8UFcZBk6v9Y)|[●](https://mubirou.github.io/Blender/introduction/blend/004_026.blend)|－|2018-05-15|
+|027|[歯車の作成とかみ合わせ](https://www.youtube.com/watch?v=iWRNMG9LAYY)|[●](https://mubirou.github.io/Blender/introduction/blend/004_027.blend)|[●](https://syoshinsya-3d.hatenablog.com/entry/2018/05/06/220800)|2018-05-21|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：vvestvillage  
+作成者：mubirou  
 作成日：2018年04月20日  
 更新日：2018年05月21日
 
@@ -161,45 +161,45 @@ sudo apt-get install blender
 
 |No.|内容|頁数|.blend|参考サイト|作成日|
 |:--|:--|:--:|:--:|:--:|:--:|
-|001|プリミティブでキャラクターを作る|029|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_001.blend)|－|2018-05-07|
-|002|プリミティブで木を作る|035|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_002.blend)|－|2018-05-07|
-|003|ガラスのコップ（一部色付き）を作る|041|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_003.blend)|－|2018-05-08|
-|004|細分割曲面で葉っぱを表現|051|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_004.blend)|－|2018-05-08|
-|005|帽子をかぶったサボテン君|052|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_005.blend)|－|2018-05-08|
-|006|イルカ（ミラー使用）|054|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_006.blend)|－|2018-05-08|
-|007|お城|055|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_007.blend)|－|2018-05-09|
-|008|さまざまな造形のアイデア|056|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_008.blend)|－|2018-05-09|
-|009|取っ手･ブーリアン|063|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_009.blend)|－|2018-05-10|
-|010|ナイフ･細分化･プロポーショナル編集|066|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_010.blend)|－|2018-05-10|
-|011|ドロー系ソフトからの読み込み / メッシュに変換|076 / 086|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_011.zip)|－|2018-05-15|
-|012|額縁（ベジェカーブと円カーブ）|084|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_012.blend)|－|2018-05-15|
-|013|ヘビ（Alt+C→カーブからメッシュに変換）|086|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_013.blend)|－|2018-05-16|
-|014|スクリュー|087|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_014.blend)|－|2018-05-17|
-|015|シャワーヘッド（ブーリアン）|088|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_015.blend)|－|2018-05-17|
-|016|スカルプトモデリング|095|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_016.blend)|－|2018-05-17|
-|017|配列複製（直線 / カーブ）|105|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_017.blend)|[●](https://www.youtube.com/watch?v=-fzLGuckHh0)|2018-05-18|
-|018|配列複製（格子）|107|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_018.blend)|－|2018-05-18|
-|019|配列複製（ビル）|108|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_019.blend)|－|2018-05-18|
-|020|パーティクルで大量複製配列の基本（植物）|109|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_020.blend)|－|2018-05-20|
-|021|パーティクルヘアー（髪の毛）|117|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_021.blend)|－|2018-05-24|
-|022|ソファーとぬいぐるみ|123|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_022.blend)|－|2018-05-25|
-|023|ひまわり（ウェイトペント / パーティクル→メッシュに変換）|135|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_023.blend)|－|2018-05-29|
-|024|やかん（別オブジェクトに分離）|141|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_024.blend)|－|2018-05-29|
-|025|マテリアル（光沢BSDF / ガラスBSDF）|148|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_025.blend)|－|2018-05-29|
-|026|マテリアルノード（ノードエディタ）|151|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_026.blend)|－|2018-05-29|
-|027|よく使う4種類のマテリアル（艶あり / 艶あり / 金属 / ガラス）|156|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_027.blend)|－|2018-05-29|
-|028|テクスチャ（フラット / ボックス / 球 / チューブ）|170|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_028.zip)|[●](https://www.textures.com/)|2018-05-30|
-|029|汚れた感じを足す（grunge / smudge）|178|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_029.zip)|[●](https://www.textures.com/)|2018-05-30|
-|030|オブジェクトの一部にマッピング（窓）|185|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_030.zip)|[●](https://www.textures.com/)|2018-05-30|
-|031|スマートUV投影 / テクスチャペイント|189|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_031.blend)|－|2018-05-31|
-|032|立方体のUV展開（シームを付ける）|199|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_032.blend)|－|2018-05-31|
-|033|有機曲面のUV展開（シームを付ける）|200|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_033.zip)|－|2018-05-31|
-|034|空の明るさ（大気テクスチャ）|214|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_034.blend)|－|2018-05-31|
-|035|美しいライティング（複数の光源）|216|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_035.blend)|－|2018-05-31|
-|036|カメラの設定（35フィルム 50mm F0.95 / 露出補正±10）|239|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_036.blend)|－|2018-06-01|
+|001|プリミティブでキャラクターを作る|029|[●](https://mubirou.github.io/Blender/introduction/blend/005_001.blend)|－|2018-05-07|
+|002|プリミティブで木を作る|035|[●](https://mubirou.github.io/Blender/introduction/blend/005_002.blend)|－|2018-05-07|
+|003|ガラスのコップ（一部色付き）を作る|041|[●](https://mubirou.github.io/Blender/introduction/blend/005_003.blend)|－|2018-05-08|
+|004|細分割曲面で葉っぱを表現|051|[●](https://mubirou.github.io/Blender/introduction/blend/005_004.blend)|－|2018-05-08|
+|005|帽子をかぶったサボテン君|052|[●](https://mubirou.github.io/Blender/introduction/blend/005_005.blend)|－|2018-05-08|
+|006|イルカ（ミラー使用）|054|[●](https://mubirou.github.io/Blender/introduction/blend/005_006.blend)|－|2018-05-08|
+|007|お城|055|[●](https://mubirou.github.io/Blender/introduction/blend/005_007.blend)|－|2018-05-09|
+|008|さまざまな造形のアイデア|056|[●](https://mubirou.github.io/Blender/introduction/blend/005_008.blend)|－|2018-05-09|
+|009|取っ手･ブーリアン|063|[●](https://mubirou.github.io/Blender/introduction/blend/005_009.blend)|－|2018-05-10|
+|010|ナイフ･細分化･プロポーショナル編集|066|[●](https://mubirou.github.io/Blender/introduction/blend/005_010.blend)|－|2018-05-10|
+|011|ドロー系ソフトからの読み込み / メッシュに変換|076 / 086|[●](https://mubirou.github.io/Blender/introduction/blend/005_011.zip)|－|2018-05-15|
+|012|額縁（ベジェカーブと円カーブ）|084|[●](https://mubirou.github.io/Blender/introduction/blend/005_012.blend)|－|2018-05-15|
+|013|ヘビ（Alt+C→カーブからメッシュに変換）|086|[●](https://mubirou.github.io/Blender/introduction/blend/005_013.blend)|－|2018-05-16|
+|014|スクリュー|087|[●](https://mubirou.github.io/Blender/introduction/blend/005_014.blend)|－|2018-05-17|
+|015|シャワーヘッド（ブーリアン）|088|[●](https://mubirou.github.io/Blender/introduction/blend/005_015.blend)|－|2018-05-17|
+|016|スカルプトモデリング|095|[●](https://mubirou.github.io/Blender/introduction/blend/005_016.blend)|－|2018-05-17|
+|017|配列複製（直線 / カーブ）|105|[●](https://mubirou.github.io/Blender/introduction/blend/005_017.blend)|[●](https://www.youtube.com/watch?v=-fzLGuckHh0)|2018-05-18|
+|018|配列複製（格子）|107|[●](https://mubirou.github.io/Blender/introduction/blend/005_018.blend)|－|2018-05-18|
+|019|配列複製（ビル）|108|[●](https://mubirou.github.io/Blender/introduction/blend/005_019.blend)|－|2018-05-18|
+|020|パーティクルで大量複製配列の基本（植物）|109|[●](https://mubirou.github.io/Blender/introduction/blend/005_020.blend)|－|2018-05-20|
+|021|パーティクルヘアー（髪の毛）|117|[●](https://mubirou.github.io/Blender/introduction/blend/005_021.blend)|－|2018-05-24|
+|022|ソファーとぬいぐるみ|123|[●](https://mubirou.github.io/Blender/introduction/blend/005_022.blend)|－|2018-05-25|
+|023|ひまわり（ウェイトペント / パーティクル→メッシュに変換）|135|[●](https://mubirou.github.io/Blender/introduction/blend/005_023.blend)|－|2018-05-29|
+|024|やかん（別オブジェクトに分離）|141|[●](https://mubirou.github.io/Blender/introduction/blend/005_024.blend)|－|2018-05-29|
+|025|マテリアル（光沢BSDF / ガラスBSDF）|148|[●](https://mubirou.github.io/Blender/introduction/blend/005_025.blend)|－|2018-05-29|
+|026|マテリアルノード（ノードエディタ）|151|[●](https://mubirou.github.io/Blender/introduction/blend/005_026.blend)|－|2018-05-29|
+|027|よく使う4種類のマテリアル（艶あり / 艶あり / 金属 / ガラス）|156|[●](https://mubirou.github.io/Blender/introduction/blend/005_027.blend)|－|2018-05-29|
+|028|テクスチャ（フラット / ボックス / 球 / チューブ）|170|[●](https://mubirou.github.io/Blender/introduction/blend/005_028.zip)|[●](https://www.textures.com/)|2018-05-30|
+|029|汚れた感じを足す（grunge / smudge）|178|[●](https://mubirou.github.io/Blender/introduction/blend/005_029.zip)|[●](https://www.textures.com/)|2018-05-30|
+|030|オブジェクトの一部にマッピング（窓）|185|[●](https://mubirou.github.io/Blender/introduction/blend/005_030.zip)|[●](https://www.textures.com/)|2018-05-30|
+|031|スマートUV投影 / テクスチャペイント|189|[●](https://mubirou.github.io/Blender/introduction/blend/005_031.blend)|－|2018-05-31|
+|032|立方体のUV展開（シームを付ける）|199|[●](https://mubirou.github.io/Blender/introduction/blend/005_032.blend)|－|2018-05-31|
+|033|有機曲面のUV展開（シームを付ける）|200|[●](https://mubirou.github.io/Blender/introduction/blend/005_033.zip)|－|2018-05-31|
+|034|空の明るさ（大気テクスチャ）|214|[●](https://mubirou.github.io/Blender/introduction/blend/005_034.blend)|－|2018-05-31|
+|035|美しいライティング（複数の光源）|216|[●](https://mubirou.github.io/Blender/introduction/blend/005_035.blend)|－|2018-05-31|
+|036|カメラの設定（35フィルム 50mm F0.95 / 露出補正±10）|239|[●](https://mubirou.github.io/Blender/introduction/blend/005_036.blend)|－|2018-06-01|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：vvestvillage  
+作成者：mubirou  
 作成日：2018年05月07日  
 更新日：2018年06月01日
 
@@ -227,7 +227,7 @@ sudo apt-get install blender
 |[Ctrl]+[J]|複数のオブジェクトを1つに統合|2018-05-30|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：vvestvillage  
+作成者：mubirou  
 作成日：2018年05月24日  
 更新日：2018年05月30日
 
@@ -246,7 +246,7 @@ sudo apt-get install blender
 |[Ctrl]+[ホイール回転]|視点の左右移動|2018-05-24|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：vvestvillage  
+作成者：mubirou  
 作成日：2018年05月24日  
 
 
@@ -259,11 +259,11 @@ sudo apt-get install blender
 
 |アドオン名|内容|使用方法|.blend|
 |:--|:--|:--|:--:|
-|Extra Objects（Mesh）|ギヤ等の追加|[Shirt]-[A] から選択|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_037_01.blend)|
-|LoopTools|頂点を中心に円形に変形|[W] から選択|[●](https://vvestvillage.github.io/Blender/introduction/blend/005_037_02.blend)|
+|Extra Objects（Mesh）|ギヤ等の追加|[Shirt]-[A] から選択|[●](https://mubirou.github.io/Blender/introduction/blend/005_037_01.blend)|
+|LoopTools|頂点を中心に円形に変形|[W] から選択|[●](https://mubirou.github.io/Blender/introduction/blend/005_037_02.blend)|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：vvestvillage  
+作成者：mubirou  
 作成日：2018年06月01日  
 
 
@@ -284,7 +284,7 @@ sudo apt-get install blender
 1. [Camera] や [エンプティ] の位置を任意で移動し、カメラの構図を調整。
  
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：vvestvillage  
+作成者：mubirou  
 作成日：2018年06月01日  
 更新日：2018年06月09日
 
@@ -296,22 +296,22 @@ sudo apt-get install blender
 
 |No.|内容|頁数|.blend|参考サイト|作成日|
 |:--|:--|:--:|:--:|:--:|:--:|
-|003|アニメーション･チュートリアル①（モデリング･アーマチュア）|〜41|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_001.blend)|－|2018-06-04|
-|002|アニメーション･チュートリアル②（IK設定）|〜47|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_002.blend)|－|2018-06-06|
-|003|アニメーション･チュートリアル③（完成）|〜58|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_003.blend)|－|2018-06-07|
-|004|グラフエディタ（バウンス･ゴム状）|65|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_004.blend)|[●](https://blender-cg.net/graph-editor/)|2018-06-08|
-|005|パスアニメーション|78|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_005.blend)|－|2018-06-11|
-|006|列車（パスに追従コンストレイント）|82|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_006.blend)|[●](https://www.youtube.com/watch?v=UnRaVTozxDk)|2018-06-12|
-|007|モーフィング（シェイプキー･ドープシート）|86|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_007.blend)|[●](https://blender-cg.net/shape-keys/)[●](https://blender-cg.net/dope-sheet/)|2018-06-12|
-|008|スケルタル･アニメーション①（変形するMeshを作成）|92 / 35|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_008.blend)|－|2018-06-13|
-|009|スケルタル･アニメーション②（アーマチュア作成）|28〜41 / 92〜100|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_009.blend)|－|2018-06-15|
-|010|スケルタル･アニメーション③（ウェイト設定）|41〜44 / 101〜114|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_010.blend)|－|2018-06-15|
-|011|スケルタル･アニメーション④（IK･リギング）|45〜47 / 115〜127|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_011.blend)|－|2018-06-15|
-|012|スケルタル･アニメーション⑤（基本ループアニメ）|48〜55 / 128〜131|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_012.blend)|－|2018-06-18|
-|013|スケルタル･アニメーション⑥（パスのアニメ）|55〜58 / 132〜|[●](https://vvestvillage.github.io/Blender/introduction/blend/010_013.blend)|－|2018-06-18|
+|003|アニメーション･チュートリアル①（モデリング･アーマチュア）|〜41|[●](https://mubirou.github.io/Blender/introduction/blend/010_001.blend)|－|2018-06-04|
+|002|アニメーション･チュートリアル②（IK設定）|〜47|[●](https://mubirou.github.io/Blender/introduction/blend/010_002.blend)|－|2018-06-06|
+|003|アニメーション･チュートリアル③（完成）|〜58|[●](https://mubirou.github.io/Blender/introduction/blend/010_003.blend)|－|2018-06-07|
+|004|グラフエディタ（バウンス･ゴム状）|65|[●](https://mubirou.github.io/Blender/introduction/blend/010_004.blend)|[●](https://blender-cg.net/graph-editor/)|2018-06-08|
+|005|パスアニメーション|78|[●](https://mubirou.github.io/Blender/introduction/blend/010_005.blend)|－|2018-06-11|
+|006|列車（パスに追従コンストレイント）|82|[●](https://mubirou.github.io/Blender/introduction/blend/010_006.blend)|[●](https://www.youtube.com/watch?v=UnRaVTozxDk)|2018-06-12|
+|007|モーフィング（シェイプキー･ドープシート）|86|[●](https://mubirou.github.io/Blender/introduction/blend/010_007.blend)|[●](https://blender-cg.net/shape-keys/)[●](https://blender-cg.net/dope-sheet/)|2018-06-12|
+|008|スケルタル･アニメーション①（変形するMeshを作成）|92 / 35|[●](https://mubirou.github.io/Blender/introduction/blend/010_008.blend)|－|2018-06-13|
+|009|スケルタル･アニメーション②（アーマチュア作成）|28〜41 / 92〜100|[●](https://mubirou.github.io/Blender/introduction/blend/010_009.blend)|－|2018-06-15|
+|010|スケルタル･アニメーション③（ウェイト設定）|41〜44 / 101〜114|[●](https://mubirou.github.io/Blender/introduction/blend/010_010.blend)|－|2018-06-15|
+|011|スケルタル･アニメーション④（IK･リギング）|45〜47 / 115〜127|[●](https://mubirou.github.io/Blender/introduction/blend/010_011.blend)|－|2018-06-15|
+|012|スケルタル･アニメーション⑤（基本ループアニメ）|48〜55 / 128〜131|[●](https://mubirou.github.io/Blender/introduction/blend/010_012.blend)|－|2018-06-18|
+|013|スケルタル･アニメーション⑥（パスのアニメ）|55〜58 / 132〜|[●](https://mubirou.github.io/Blender/introduction/blend/010_013.blend)|－|2018-06-18|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：vvestvillage  
+作成者：mubirou  
 作成日：2018年06月04日  
 更新日：2018年06月18日
 
@@ -338,9 +338,9 @@ sudo apt-get install blender
 * カメラ
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：vvestvillage  
+作成者：mubirou  
 作成日：2018年06月19日  
 更新日：2018年06月20日
 
 
-© 2018 vvestvillage
+© 2018 mubirou
