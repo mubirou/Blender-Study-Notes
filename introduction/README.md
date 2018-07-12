@@ -42,7 +42,7 @@ sudo apt-get install blender
 1. [Translate] の [Interface]、[Tooltips]、[new Data] を選択。
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：夢寐郎  
 作成日：2018年04月18日
 
 
@@ -82,7 +82,7 @@ sudo apt-get install blender
 ![002](https://mubirou.github.io/Blender/introduction/jpg/002.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：夢寐郎  
 作成日：2018年04月19日
 
 
@@ -109,7 +109,7 @@ sudo apt-get install blender
 1. [ファイル]-[スタートアップファイルの保存] を選択……次回起動時にも反映させる為
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：夢寐郎  
 作成日：2018年04月20日
 
 
@@ -149,7 +149,7 @@ sudo apt-get install blender
 |027|[歯車の作成とかみ合わせ](https://www.youtube.com/watch?v=iWRNMG9LAYY)|[●](https://mubirou.github.io/Blender/introduction/blend/004_027.blend)|[●](https://syoshinsya-3d.hatenablog.com/entry/2018/05/06/220800)|2018-05-21|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：夢寐郎  
 作成日：2018年04月20日  
 更新日：2018年05月21日
 
@@ -199,7 +199,7 @@ sudo apt-get install blender
 |036|カメラの設定（35フィルム 50mm F0.95 / 露出補正±10）|239|[●](https://mubirou.github.io/Blender/introduction/blend/005_036.blend)|－|2018-06-01|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：夢寐郎  
 作成日：2018年05月07日  
 更新日：2018年06月01日
 
@@ -227,7 +227,7 @@ sudo apt-get install blender
 |[Ctrl]+[J]|複数のオブジェクトを1つに統合|2018-05-30|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：夢寐郎  
 作成日：2018年05月24日  
 更新日：2018年05月30日
 
@@ -246,7 +246,7 @@ sudo apt-get install blender
 |[Ctrl]+[ホイール回転]|視点の左右移動|2018-05-24|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：夢寐郎  
 作成日：2018年05月24日  
 
 
@@ -263,7 +263,7 @@ sudo apt-get install blender
 |LoopTools|頂点を中心に円形に変形|[W] から選択|[●](https://mubirou.github.io/Blender/introduction/blend/005_037_02.blend)|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：夢寐郎  
 作成日：2018年06月01日  
 
 
@@ -284,7 +284,7 @@ sudo apt-get install blender
 1. [Camera] や [エンプティ] の位置を任意で移動し、カメラの構図を調整。
  
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：夢寐郎  
 作成日：2018年06月01日  
 更新日：2018年06月09日
 
@@ -311,7 +311,7 @@ sudo apt-get install blender
 |013|スケルタル･アニメーション⑥（パスのアニメ）|55〜58 / 132〜|[●](https://mubirou.github.io/Blender/introduction/blend/010_013.blend)|－|2018-06-18|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：夢寐郎  
 作成日：2018年06月04日  
 更新日：2018年06月18日
 
@@ -338,7 +338,7 @@ sudo apt-get install blender
 * カメラ
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：夢寐郎  
 作成日：2018年06月19日  
 更新日：2018年06月20日
 
