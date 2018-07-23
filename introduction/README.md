@@ -347,7 +347,7 @@ sudo apt-get install blender
 <a name="『モデリングマスター』"></a>
 # <b>012 『Blender 3DCGモデリング･マスター』</b>
 
-頁数は [『はじめてのBlender（アニメーション編）／山崎聡著』](https://amzn.to/2A2595W) のページです。  
+頁数は [『Blender 3DCGモデリング･マスター／Benjamin著』](https://amzn.to/2A2595W) のページです。  
 
 |No.|内容|頁数|.blend|参考サイト|作成日|
 |:--|:--|:--:|:--:|:--:|:--:|
