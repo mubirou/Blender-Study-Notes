@@ -351,11 +351,11 @@ sudo apt-get install blender
 
 |No.|内容|頁数|.blend|参考サイト|作成日|
 |:--|:--|:--:|:--:|:--:|:--:|
-|001|XXX|XXX|－|－|2018-XX-XX|
+|001|星|64|[●](https://mubirou.github.io/Blender/introduction/blend/012_001.blend)|－|2018-07-24|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：夢寐郎  
-作成日：2018年XX月XX日  
+作成日：2018年07月24日  
 更新日：2018年XX月XX日
 
 © 2018 夢寐郎
