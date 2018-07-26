@@ -356,6 +356,7 @@ sudo apt-get install blender
 |003|蛇腹|79|[●](https://mubirou.github.io/Blender/introduction/blend/012_003.blend)|－|2018-07-24|
 |004|バネ|84|[●](https://mubirou.github.io/Blender/introduction/blend/012_004.blend)|－|2018-07-26|
 |005|マグカップ|91|[●](https://mubirou.github.io/Blender/introduction/blend/012_005.blend)|－|2018-07-26|
+|006|歯車|104|[●](https://mubirou.github.io/Blender/introduction/blend/012_006.blend)|－|2018-07-26|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：夢寐郎  
