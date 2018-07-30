@@ -362,6 +362,7 @@ sudo apt-get install blender
 |009|ペットボトル|131|[●](https://mubirou.github.io/Blender/introduction/blend/012_009.blend)|－|2018-07-27|
 |010|テキストオブジェクト|146|[●](https://mubirou.github.io/Blender/introduction/blend/012_010.zip)|－|2018-07-27|
 |011|配管|154|[●](https://mubirou.github.io/Blender/introduction/blend/012_011.blend)|－|2018-07-30|
+|012|日本刀|168|[●](https://mubirou.github.io/Blender/introduction/blend/012_012.blend)|－|2018-0X-XX|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：夢寐郎  
