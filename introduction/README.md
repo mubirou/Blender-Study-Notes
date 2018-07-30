@@ -361,11 +361,11 @@ sudo apt-get install blender
 |008|蝶|119|[●](https://mubirou.github.io/Blender/introduction/blend/012_008.blend)|－|2018-07-27|
 |009|ペットボトル|131|[●](https://mubirou.github.io/Blender/introduction/blend/012_009.blend)|－|2018-07-27|
 |010|テキストオブジェクト|146|[●](https://mubirou.github.io/Blender/introduction/blend/012_010.zip)|－|2018-07-27|
-|011|配管|154|－|－|2018-XX-XX|
+|011|配管|154|[●](https://mubirou.github.io/Blender/introduction/blend/012_011.blend)|－|2018-07-30|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：夢寐郎  
 作成日：2018年07月24日  
-更新日：2018年07月27日
+更新日：2018年07月30日
 
 © 2018 夢寐郎
