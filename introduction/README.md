@@ -382,11 +382,11 @@ sudo apt-get install blender
 
 |No.|内容|頁数|.blend|参考サイト|作成日|
 |:--|:--|:--:|:--:|:--:|:--:|
-|001|XXX|XXX|－|－|2018-XX-XX|
+|001|キャラクターが走る|41〜46|[●](https://mubirou.github.io/Blender/introduction/blend/013_001.blend)|2018-08-14|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：夢寐郎  
 作成日：2018年08月10日  
-更新日：2018年0X月XX日
+更新日：2018年08月14日
 
 © 2018 夢寐郎
