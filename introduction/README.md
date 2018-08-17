@@ -388,6 +388,7 @@ sudo apt-get install blender
 |004|アニメーションの修正|80〜85|[●](https://mubirou.github.io/Blender/introduction/blend/013_004.blend)|－|2018-08-17|
 |005|アーマチュアで変形（頂点ウェイト）|86〜93|[●](https://mubirou.github.io/Blender/introduction/blend/013_005.blend)|－|2018-08-17|
 |006|アーマチュアで変形（エンベロープ）|94〜95|[●](https://mubirou.github.io/Blender/introduction/blend/013_006.blend)|－|2018-08-17|
+|007|人体モデルにアーマチュアを入れる|96〜105|[●](https://mubirou.github.io/Blender/introduction/blend/013_007.blend)|－|2018-XX-XX|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：夢寐郎  
