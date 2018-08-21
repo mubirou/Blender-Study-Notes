@@ -390,10 +390,10 @@ sudo apt-get install blender
 |006|アーマチュアで変形（エンベロープ）|94〜95|[●](https://mubirou.github.io/Blender/introduction/blend/013_006.blend)|－|2018-08-17|
 |007|人体モデルにアーマチュアを入れる|96〜105|[●](https://mubirou.github.io/Blender/introduction/blend/013_007.blend)|－|2018-XX-XX|
 
-実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
+実行環境：Blender 2.79b、Ubuntu 18.0.4.1 LTS  
 作成者：夢寐郎  
 作成日：2018年08月10日  
-更新日：2018年08月18日 Ubuntu 18.0.4.1 LTS にアップデート  
+更新日：2018年08月18日 Ubuntu 16.04.4 LTS を 18.0.4.1 LTS にアップデート  
 更新日：2018年XX月XX日
 
 © 2018 夢寐郎
