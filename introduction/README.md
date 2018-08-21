@@ -393,7 +393,7 @@ sudo apt-get install blender
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：夢寐郎  
 作成日：2018年08月10日  
-更新日：2018年08月18日 Ubuntu 18.0.4.1 LTS にアップデート
+更新日：2018年08月18日 Ubuntu 18.0.4.1 LTS にアップデート  
 更新日：2018年XX月XX日
 
 © 2018 夢寐郎
