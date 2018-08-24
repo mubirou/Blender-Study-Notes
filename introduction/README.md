@@ -227,11 +227,12 @@ sudo apt-get install blender
 |[Alt]+[C]|カーブなどからメッシュに変換|2018-05-25|
 |[P]|別オブジェクトに分離|2018-05-29|
 |[Ctrl]+[J]|複数のオブジェクトを1つに統合|2018-05-30|
+|[Ctrl]+[P]|→[オブジェクト]で２つのオブジェクトをペアレント（親）関係にする|2018-08-24|
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：夢寐郎  
 作成日：2018年05月24日  
-更新日：2018年05月30日
+更新日：2018年08月24日
 
 
 <a name="マウス操作"></a>
@@ -393,7 +394,7 @@ sudo apt-get install blender
 |009|手を振るアニメーション|113〜117|[●](https://mubirou.github.io/Blender/introduction/blend/013_009.blend)|－|2018-08-22|
 |010|歩行アニメーション|118〜122|[●](https://mubirou.github.io/Blender/introduction/blend/013_010.blend)|－|2018-08-23|
 |011|アクションの作成（Stop / Walk / Run）|123〜136|[●](https://mubirou.github.io/Blender/introduction/blend/013_011.blend)|－|2018-08-24|
-|012|XXX|137〜XXX|[●](https://mubirou.github.io/Blender/introduction/blend/013_012.blend)|－|2018-XX-XX|
+|012|ペアレント（親子関係）|137〜139|[●](https://mubirou.github.io/Blender/introduction/blend/013_012.blend)|－|2018-XX-XX|
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4.1 LTS  
 作成者：夢寐郎  
