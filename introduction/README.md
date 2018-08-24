@@ -392,12 +392,12 @@ sudo apt-get install blender
 |008|人体モデルにIKをつける|106〜112|[●](https://mubirou.github.io/Blender/introduction/blend/013_008.blend)|－|2018-08-22|
 |009|手を振るアニメーション|113〜117|[●](https://mubirou.github.io/Blender/introduction/blend/013_009.blend)|－|2018-08-22|
 |010|歩行アニメーション|118〜122|[●](https://mubirou.github.io/Blender/introduction/blend/013_010.blend)|－|2018-08-23|
-|011|XXX|123〜1XX|[●](https://mubirou.github.io/Blender/introduction/blend/013_011.blend)|－|2018-XX-XX|
+|011|アクションの作成（Stop/Walk/Run）|123〜136|[●](https://mubirou.github.io/Blender/introduction/blend/013_011.blend)|－|2018-08-24|
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4.1 LTS  
 作成者：夢寐郎  
 作成日：2018年08月10日  
 更新日：2018年08月21日 Ubuntu 16.04.4 LTS を 18.0.4.1 LTS にアップデート  
-更新日：2018年08月23日
+更新日：2018年08月24日
 
 © 2018 夢寐郎
