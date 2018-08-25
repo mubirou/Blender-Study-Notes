@@ -395,12 +395,13 @@ sudo apt-get install blender
 |010|歩行アニメーション|118〜122|[●](https://mubirou.github.io/Blender/introduction/blend/013_010.blend)|－|2018-08-23|
 |011|アクションの作成（Stop / Walk / Run）|123〜136|[●](https://mubirou.github.io/Blender/introduction/blend/013_011.blend)|－|2018-08-24|
 |012|ペアレント（親子関係 / 皿の上のボール）|137〜139|[●](https://mubirou.github.io/Blender/introduction/blend/013_012.blend)|－|2018-08-24|
-|013|XXX|XXX〜XXX|[●](https://mubirou.github.io/Blender/introduction/blend/013_013.blend)|－|2018-XX-XX|
+|013|マテリアルの割り当て|143〜150|[●](https://mubirou.github.io/Blender/introduction/blend/013_013.blend)|－|2018-08-25|
+|014|XXX|XXX〜XXX|[●](https://mubirou.github.io/Blender/introduction/blend/013_014.blend)|－|2018-XX-XX|
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4.1 LTS  
 作成者：夢寐郎  
 作成日：2018年08月10日  
 更新日：2018年08月21日 Ubuntu 16.04.4 LTS を 18.0.4.1 LTS にアップデート  
-更新日：2018年08月24日
+更新日：2018年08月25日
 
 © 2018 夢寐郎
