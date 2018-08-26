@@ -396,7 +396,8 @@ sudo apt-get install blender
 |011|アクションの作成（Stop / Walk / Run）|123〜136|[●](https://mubirou.github.io/Blender/introduction/blend/013_011.blend)|－|2018-08-24|
 |012|ペアレント（親子関係 / 皿の上のボール）|137〜139|[●](https://mubirou.github.io/Blender/introduction/blend/013_012.blend)|－|2018-08-24|
 |013|マテリアルの割り当て|143〜150|[●](https://mubirou.github.io/Blender/introduction/blend/013_013.blend)|－|2018-08-25|
-|014|XXX|XXX〜XXX|[●](https://mubirou.github.io/Blender/introduction/blend/013_014.blend)|－|2018-XX-XX|
+|014|ランプ（天空光 / 照り返し）|151〜154|[●](https://mubirou.github.io/Blender/introduction/blend/013_014.blend)|－|2018-08-26|
+|015|XXX|XXX〜XXX|[●](https://mubirou.github.io/Blender/introduction/blend/013_015.blend)|－|2018-XX-XX|
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4.1 LTS  
 作成者：夢寐郎  
