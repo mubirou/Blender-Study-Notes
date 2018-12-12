@@ -108,7 +108,7 @@ sudo apt-get install blender
 1. [左クリック] で [Lamp] を選択→ [ポイント]→[サン] に変更……使用頻度が高い為  
 ![003_2](https://mubirou.github.io/Blender/introduction/jpg/003_2.jpg)
 
-1. [ファイル]-[スタートアップファイルの保存] を選択……次回起動時にも反映させる為
+1. [ファイル]-[**スタートアップファイルの保存**] を選択……次回起動時にも反映させる為
 
 実行環境：Blender 2.79b、Ubuntu 16.04.4 LTS  
 作成者：夢寐郎  
