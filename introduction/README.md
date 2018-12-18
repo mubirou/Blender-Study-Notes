@@ -475,7 +475,7 @@ sudo apt-get install blender
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
 作成日：2018年12月17日  
-更新日：2018年12月XX日
+更新日：2018年12月18日
 
 
 © 2018 夢寐郎
