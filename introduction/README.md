@@ -427,6 +427,8 @@ sudo apt-get install blender
 1. 外周のポイントを１つおきに選択
 1. [拡大･縮小](#ショートカットキー)で星型にする  
 
+![014_001](https://mubirou.github.io/Blender/introduction/jpg/014_001.jpg)
+
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_001.blend)
 
 <a name="014_002"></a>
