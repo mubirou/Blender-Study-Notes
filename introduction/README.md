@@ -415,6 +415,7 @@ sudo apt-get install blender
 |001|[星型](#014_001)|2018-12-17|
 |002|[角丸･面取り･ひし形･楕円形](#014_002)|2018-12-17|
 |003|[蛇腹](#014_003)|2018-12-18|
+|004|[バネ](#014_004)|2018-12-XX|
 
 <a name="014_001"></a>
 ### 001 星型
@@ -471,6 +472,14 @@ sudo apt-get install blender
         * Z：1.000 ←重要
 
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_003.blend)
+
+<a name="014_004"></a>
+### 004 バネ
+
+![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004.jpg)
+
+1. XXXX
+
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
