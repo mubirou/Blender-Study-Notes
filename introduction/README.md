@@ -419,6 +419,8 @@ sudo apt-get install blender
 <a name="014_001"></a>
 ### 001 星型
 
+![014_001](https://mubirou.github.io/Blender/introduction/jpg/014_001.jpg)
+
 1. [作成]-[メッシュ]-[円]
 1. [ビュー]-[ツールシェルフ]-[円を追加]で調整
     * 頂点：10（五角星の場合）←**偶数にする**
@@ -427,12 +429,12 @@ sudo apt-get install blender
 1. 外周のポイントを１つおきに選択
 1. [拡大･縮小](#ショートカットキー)で星型にする  
 
-    ![014_001](https://mubirou.github.io/Blender/introduction/jpg/014_001.jpg)
-
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_001.blend)
 
 <a name="014_002"></a>
 ### 002 角丸･面取り･ひし形･楕円形
+
+![014_002](https://mubirou.github.io/Blender/introduction/jpg/014_002.jpg)
 
 1. オブジェクトを選択し[編集モード]にする
 1. [線選択]で任意の線を選択（複数可）
@@ -442,12 +444,12 @@ sudo apt-get install blender
     * 量：任意（1.000で**ひし形**や**楕円形**になる）
     * セグメント：値を大きくすると滑らかになる
 
-    ![014_002](https://mubirou.github.io/Blender/introduction/jpg/014_002.jpg)
-
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_002.blend)
 
 <a name="014_003"></a>
 ### 003 蛇腹
+
+![014_003](https://mubirou.github.io/Blender/introduction/jpg/014_003.jpg)
 
 1. [作成]-[円柱]
 1. [ビュー]-[ツールシェルフ]-[円柱を追加]で調整ｂ
@@ -467,8 +469,6 @@ sudo apt-get install blender
         * X：0.800
         * Y：0.800
         * Z：1.000 ←重要
-    
-    ![014_003](https://mubirou.github.io/Blender/introduction/jpg/014_003.jpg)
 
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_003.blend)
 
