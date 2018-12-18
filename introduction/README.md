@@ -427,7 +427,7 @@ sudo apt-get install blender
 1. 外周のポイントを１つおきに選択
 1. [拡大･縮小](#ショートカットキー)で星型にする  
 
-![014_001](https://mubirou.github.io/Blender/introduction/jpg/014_001.jpg)
+    ![014_001](https://mubirou.github.io/Blender/introduction/jpg/014_001.jpg)
 
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_001.blend)
 
@@ -441,6 +441,8 @@ sudo apt-get install blender
 1. [ビュー]-[ツールシェルフ]-[べべル]で調整
     * 量：任意（1.000で**ひし形**や**楕円形**になる）
     * セグメント：値を大きくすると滑らかになる
+
+    ![014_002](https://mubirou.github.io/Blender/introduction/jpg/014_002.jpg)
 
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_002.blend)
 
@@ -465,6 +467,8 @@ sudo apt-get install blender
         * X：0.800
         * Y：0.800
         * Z：1.000 ←重要
+    
+    ![014_003](https://mubirou.github.io/Blender/introduction/jpg/014_003.jpg)
 
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_003.blend)
 
