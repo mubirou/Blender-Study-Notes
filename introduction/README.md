@@ -488,6 +488,10 @@ sudo apt-get install blender
 1. 円を選択した状態でスパナアイコン
     ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004.jpg)
     -[追加]-[スクリュー]→各種設定
+        * スクリュー：0.500
+        * 反復：5
+
+    ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_004.blend)
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
