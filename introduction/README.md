@@ -478,7 +478,16 @@ sudo apt-get install blender
 
 ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004.jpg)
 
-1. XXXX
+1. [作成]-[メッシュ]-[円]
+1. [ビュー]-[ツールシェルフ]-[円を追加]で調整
+    * 半径：0.200
+    * 回転（X）：90°
+1. [オブジェクト]-[適用]-[回転] ←回転した状態をデフォルトとして適用
+1. [オブジェクトモード]→[編集モード]にする
+1. 円をX軸マイナス方向に移動（-0.5程度）
+1. 円を選択した状態でスパナアイコン
+    ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004.jpg)
+    -[追加]-[スクリュー]
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
