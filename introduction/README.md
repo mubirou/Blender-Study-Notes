@@ -416,6 +416,7 @@ sudo apt-get install blender
 |002|[角丸･面取り･ひし形･楕円形](#014_002)|2018-12-17|
 |003|[蛇腹](#014_003)|2018-12-18|
 |004|[バネ](#014_004)|2018-12-19|
+|005|[壁にパイプを結合](#014_005)
 
 <a name="014_001"></a>
 ### 001 星型
@@ -493,6 +494,15 @@ sudo apt-get install blender
 
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_004.blend)
 
+<a name="014_005"></a>
+### 005 壁にパイプを結合
+
+![014_005_1](https://mubirou.github.io/Blender/introduction/jpg/014_005_1.jpg)
+
+#### 平面を作成
+1. [作成]-[メッシュ]-[平面]
+1. [ビュー]-[ツールシェルフ]-[平面を追加]で調整
+    * 回転（X）：90°
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
