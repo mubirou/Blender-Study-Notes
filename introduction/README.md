@@ -487,7 +487,7 @@ sudo apt-get install blender
 1. 円をX軸マイナス方向に移動（-0.5程度）
 1. 円を選択した状態でスパナアイコン
     ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004.jpg)
-    -[追加]-[スクリュー]
+    -[追加]-[スクリュー]→各種設定
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
