@@ -476,7 +476,7 @@ sudo apt-get install blender
 <a name="014_004"></a>
 ### 004 バネ
 
-![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004.jpg)
+![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_2.jpg)
 
 1. [作成]-[メッシュ]-[円]
 1. [ビュー]-[ツールシェルフ]-[円を追加]で調整
@@ -486,7 +486,7 @@ sudo apt-get install blender
 1. [オブジェクトモード]→[編集モード]にする
 1. 円をX軸マイナス方向に移動（-0.5程度）
 1. 円を選択した状態でスパナアイコン
-    ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004.jpg)
+    ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
     -[追加]-[スクリュー]→各種設定
         * スクリュー：0.500
         * 反復：5
