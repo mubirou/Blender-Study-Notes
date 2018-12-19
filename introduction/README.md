@@ -522,7 +522,7 @@ sudo apt-get install blender
 ### 穴をあける
 1. [ツール]-[ループカットとスライド]と[拡大縮小]を使って穴をあける領域を作る
 1. [面選択]を使って穴をあける
-1. [頂点選択]を使って穴を形をパイプに近づける
+1. [頂点選択]を使って穴を形をパイプに近づける（
 
     ![014_005_3](https://mubirou.github.io/Blender/introduction/jpg/014_005_3.jpg)
 
@@ -531,6 +531,8 @@ sudo apt-get install blender
 1. [メッシュ]-[辺]-[辺ループのブリッジ]で結合 ←1つ1つ面を作るより早い
 
     ![014_005_4](https://mubirou.github.io/Blender/introduction/jpg/014_005_4.jpg)
+
+※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_005.blend)
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
