@@ -519,6 +519,12 @@ sudo apt-get install blender
 
     ![014_005_2](https://mubirou.github.io/Blender/introduction/jpg/014_005_2.jpg)
 
+### 穴をあけて結合する
+1. [ツール]-[ループカットとスライド]と[拡大縮小]を使って穴をあける領域を作る
+1. [面選択]を使って穴をあける
+1. [頂点選択]を使って穴を形をパイプに近づける
+
+    ![014_005_3](https://mubirou.github.io/Blender/introduction/jpg/014_005_3.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
