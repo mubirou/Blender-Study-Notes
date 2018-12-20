@@ -417,6 +417,7 @@ sudo apt-get install blender
 |003|[蛇腹](#014_003)|2018-12-18|
 |004|[バネ](#014_004)|2018-12-19|
 |005|[壁にパイプを結合](#014_005)|2018-12-19|
+|006|[歯車](#014_006)|2018-XX-XX|
 
 <a name="014_001"></a>
 ### 001 星型
@@ -533,6 +534,23 @@ sudo apt-get install blender
     ![014_005_4](https://mubirou.github.io/Blender/introduction/jpg/014_005_4.jpg)
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_005.blend)
+
+<a name="014_006"></a>
+### 006 歯車
+
+![014_006_1](https://mubirou.github.io/Blender/introduction/jpg/014_006_1.jpg)
+
+#### 歯車を作成
+1. [作成]-[メッシュ]-[円]
+1. [ビュー]-[ツールシェルフ]-[円を追加]で調整
+    * 頂点：32 ←偶数にする
+    * フィルタイプ：なし
+1. [オブジェクトモード]→[編集モード]にする
+1. 外周のポイントを１つおきに選択
+1. [拡大･縮小](#ショートカットキー)で星型にする
+1. 全てを選択した状態で[メッシュ]-[複製を追加]→右ボタンで確定
+1. 引き続き[回転](#ショートカットキー)で5°程度回転
+    ![014_006_2](https://mubirou.github.io/Blender/introduction/jpg/014_006_2.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
