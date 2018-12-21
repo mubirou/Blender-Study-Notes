@@ -46,7 +46,7 @@ sudo apt-get install blender
 1. [Translate] の [Interface]、[Tooltips]、[new Data] を選択。
 1. [ユーザー設定の保存] ボタンを押す
 
-実行環境：Blender 2.79b、Ubuntu 16.08.1 LTS  
+実行環境：Blender 2.79b、Ubuntu 18.04.1 LTS  
 作成者：夢寐郎  
 作成日：2018年04月18日  
 更新日：2018年12月22日
