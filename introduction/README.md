@@ -589,8 +589,8 @@ sudo apt-get install blender
     ![014_007_2](https://mubirou.github.io/Blender/introduction/jpg/014_007_2.jpg)
 
 #### ネジを凹ます
-1. [オブジェクトモード]でネジの頭部のみ選択した状態でスパナアイコン
-    ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
+1. [オブジェクトモード]でネジの頭部のみ選択
+1. スパナアイコン![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
     -[追加]-[ブーリアン]を選択し各種設定
     * 演算：差分
     * オブジェクト：立方体.001 ←上記で作成した十字型
