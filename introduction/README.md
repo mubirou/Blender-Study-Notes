@@ -624,6 +624,8 @@ sudo apt-get install blender
         * Y: 0.000
         * Z: 0.000
 
+※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_008.blend)
+
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
 作成日：2018年12月17日  
