@@ -620,9 +620,9 @@ sudo apt-get install blender
     * [ビュー]-[右]する
     * [ワイヤーフレーム表示](#ショートカットキー)にする
     * [ビュー]-[ツールシェルフ]-[拡大縮小]で調整
-        * X: 0.000
-        * Y: 0.000
-        * Z: 0.000
+        * X: **0.000**
+        * Y: **0.000**
+        * Z: **0.000**
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_008.blend)
 
