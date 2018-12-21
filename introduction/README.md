@@ -42,7 +42,7 @@ sudo apt-get install blender
 1. [File]-[User Preferences...] を開く。
 1. [System]-[International Fonts] を [✔]。
 1. [Languages] を [Japanes(日本語)] に変更。
-1. […Font] を"/usr/share/fonts/opentype/noto/**Noto**SansCJK-Regular.ttc"に指定
+1. […Font] を "/usr/share/fonts/opentype/noto/**Noto**SansCJK-Regular.ttc" に指定
 1. [Translate] の [Interface]、[Tooltips]、[new Data] を選択。
 1. [ユーザー設定の保存] ボタンを押す
 
