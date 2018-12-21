@@ -612,7 +612,7 @@ sudo apt-get install blender
 1. [選択]-[全て選択(解除)]で選択を全て解除
 1. [ツール]-[追加]-[ナイフ]を選択
 1. 左クリックを繰返しながらハート型を作成
-1. 終点（始点と同じ）で[ダブルクリック]→[Enter]キーを押す ←わかりにくい
+1. 終点（始点と同じ）で[ダブルクリック]→[Enter]キーを押す ←わかりにくい  
     ![014_008_2](https://mubirou.github.io/Blender/introduction/jpg/014_008_2.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
