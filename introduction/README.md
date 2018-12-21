@@ -420,7 +420,7 @@ sudo apt-get install blender
 |005|[壁にパイプを結合](#014_005)|2018-12-19|
 |006|[歯車](#014_006)|2018-12-20|
 |007|[ネジ山](#014_007)|2018-12-21|
-|008|[ハート型を掘る](#014_008)|2018-12-21|
+|008|[ハート型に掘る](#014_008)|2018-12-21|
 
 <a name="014_001"></a>
 ### 001 星型
@@ -602,7 +602,7 @@ sudo apt-get install blender
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_007.blend)
 
 <a name="014_008"></a>
-### 008 ハート型を掘る
+### 008 ハート型に掘る
 
 ![014_008_1](https://mubirou.github.io/Blender/introduction/jpg/014_008_1.jpg)
 
