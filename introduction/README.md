@@ -644,7 +644,9 @@ sudo apt-get install blender
 
 ![014_009_1](https://mubirou.github.io/Blender/introduction/jpg/014_009_1.jpg)
 
-1. XXXX
+1. 方眼罫ノートなどを利用して「正面」と「右横」から見たイラストを作成しスキャニング
+    ![014_009_2](https://mubirou.github.io/Blender/introduction/jpg/014_009_2.jpg)
+1. 
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
