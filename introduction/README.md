@@ -424,6 +424,8 @@ sudo apt-get install blender
 |006|[歯車](#014_006)|2018-12-20|
 |007|[ネジ山](#014_007)|2018-12-21|
 |008|[ハート型に掘る](#014_008)|2018-12-21|
+|009|[下絵の利用](#014_009)|2018-12-25|
+
 
 <a name="014_001"></a>
 ### 001 星型
@@ -440,6 +442,7 @@ sudo apt-get install blender
 
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_001.blend)
 
+
 <a name="014_002"></a>
 ### 002 角丸･面取り･ひし形･楕円形
 
@@ -454,6 +457,7 @@ sudo apt-get install blender
     * セグメント：値を大きくすると滑らかになる
 
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_002.blend)
+
 
 <a name="014_003"></a>
 ### 003 蛇腹
@@ -481,6 +485,7 @@ sudo apt-get install blender
 
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_003.blend)
 
+
 <a name="014_004"></a>
 ### 004 バネ
 
@@ -500,6 +505,7 @@ sudo apt-get install blender
         * 反復：5
 
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_004.blend)
+
 
 <a name="014_005"></a>
 ### 005 壁にパイプを結合
@@ -541,6 +547,7 @@ sudo apt-get install blender
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_005.blend)
 
+
 <a name="014_006"></a>
 ### 006 歯車
 
@@ -575,6 +582,7 @@ sudo apt-get install blender
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_006.blend)
 
+
 <a name="014_007"></a>
 ### 007 ネジ山
 
@@ -604,6 +612,7 @@ sudo apt-get install blender
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_007.blend)
 
+
 <a name="014_008"></a>
 ### 008 ハート型に掘る
 
@@ -628,6 +637,15 @@ sudo apt-get install blender
         * Z: **0.000**
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_008.blend)
+
+
+<a name="014_009"></a>
+### 009 下絵の利用
+
+![014_009_1](https://mubirou.github.io/Blender/introduction/jpg/014_009_1.jpg)
+
+1. XXXX
+
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
