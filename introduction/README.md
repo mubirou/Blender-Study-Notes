@@ -665,7 +665,7 @@ sudo apt-get install blender
     ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
     -[追加]-[ミラー]を選択し各種設定
     * 軸：X
-    * クリッピング：✔ ←鏡像との境界からメッシュがはみ出ないようにする
+    * クリッピング：✔ ←鏡像との境界からメッシュがはみ出ないようになる
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/014_009.zip)
 
