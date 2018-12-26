@@ -424,7 +424,7 @@ sudo apt-get install blender
 |006|[歯車](#014_006)|2018-12-20|
 |007|[ネジ山](#014_007)|2018-12-21|
 |008|[ハート型に掘る](#014_008)|2018-12-21|
-|009|[下絵の利用](#014_009)|2018-XX-XX|
+|009|[下絵の利用](#014_009)|2018-12-26|
 
 
 <a name="014_001"></a>
@@ -646,7 +646,7 @@ sudo apt-get install blender
 
 #### ◆下絵の用意
 1. 方眼罫ノートなどを利用して「正面」と「右横」から見たイラストを作成
-1. スキャニング（.pngファイルで保存）  
+1. スキャニング（[.pngファイル](https://mubirou.github.io/Blender/introduction/png/014_009_roughSketch.png)で保存）  
     ![014_009_2](https://mubirou.github.io/Blender/introduction/jpg/014_009_2.jpg)
 
 #### ◆下絵の読込み
@@ -659,10 +659,20 @@ sudo apt-get install blender
 1. 同様に同じ設定画面で位置･角度を調整（スケールは変更しない）  
     ![014_009_3](https://mubirou.github.io/Blender/introduction/jpg/014_009_3.jpg)
 
+#### ◆モデリング
+1. 下絵を参考にモデリング
+1. モデリング途中の[編集モード]でスパナアイコン
+    ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
+    -[追加]-[ミラー]を選択し各種設定
+    * 軸：X
+    * クリッピング：✔ ←鏡像との境界からメッシュがはみ出ないようにする
+
+※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_009.blend)
+
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
 作成日：2018年12月17日  
-更新日：2018年12月21日
+更新日：2018年12月26日
 
 
 © 2018 夢寐郎
