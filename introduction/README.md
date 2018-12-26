@@ -676,7 +676,15 @@ sudo apt-get install blender
 
 ![014_010_1](https://mubirou.github.io/Blender/introduction/jpg/014_010_1.jpg)
 
-1. XXXX
+#### フォントの用意
+1. https://www.1001freefonts.com/ 等から任意のフォントを選択
+1. ダウンロードしたら解凍（.TTFファイルのみ必要 / インストールは不要）
+
+#### テキストオブジェクトの作成
+1. [追加]-[テキスト]を選択
+1. [オブジェクトモード]→[編集モード]に変更
+1. 表示文字を "Text" から任意の文字に変更
+1. プロパティエディターの[F]アイコンをクリック
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
