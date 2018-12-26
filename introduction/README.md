@@ -674,7 +674,7 @@ sudo apt-get install blender
 <a name="014_010"></a>
 ### 010 テキストオブジェクト
 
-![014_010_1](https://mubirou.github.io/Blender/introduction/jpg/014_010_1.jpg)
+![014_010](https://mubirou.github.io/Blender/introduction/jpg/014_010.jpg)
 
 #### フォントの用意
 1. https://www.1001freefonts.com/ から任意のフォントを選択
@@ -693,6 +693,8 @@ sudo apt-get install blender
 
 ※[オブジェクトモード]に変更後[テキストからカーブ](#ショートカットキー)や[テキストからメッシュ](#ショートカットキー)で編集も可能  
 ※カーブに沿って文字を並べることも可能
+
+※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/014_010.zip)
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
