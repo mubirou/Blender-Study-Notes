@@ -667,7 +667,7 @@ sudo apt-get install blender
     * 軸：X
     * クリッピング：✔ ←鏡像との境界からメッシュがはみ出ないようにする
 
-※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_009.blend)
+※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/014_009.zip)
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
