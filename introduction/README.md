@@ -677,7 +677,7 @@ sudo apt-get install blender
 ![014_010_1](https://mubirou.github.io/Blender/introduction/jpg/014_010_1.jpg)
 
 #### フォントの用意
-1. https://www.1001freefonts.com/ 等から任意のフォントを選択
+1. https://www.1001freefonts.com/ から任意のフォントを選択
 1. ダウンロードしたら解凍（**.TTF**ファイルのみ必要 / インストールは不要）
 
 #### テキストオブジェクトの作成
