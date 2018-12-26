@@ -646,7 +646,7 @@ sudo apt-get install blender
 
 #### ◆下絵の用意
 1. 方眼罫ノートなどを利用して「正面」と「右横」から見たイラストを作成
-1. スキャニング（[.pngファイル](https://mubirou.github.io/Blender/introduction/png/014_009_roughSketch.png)で保存）  
+1. スキャニング（.pngファイルで保存）  
     ![014_009_2](https://mubirou.github.io/Blender/introduction/jpg/014_009_2.jpg)
 
 #### ◆下絵の読込み
