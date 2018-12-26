@@ -425,6 +425,7 @@ sudo apt-get install blender
 |007|[ネジ山](#014_007)|2018-12-21|
 |008|[ハート型に掘る](#014_008)|2018-12-21|
 |009|[下絵の利用](#014_009)|2018-12-26|
+|010|[テキストオブジェクト](#014_010)|2018-12-XX|
 
 
 <a name="014_001"></a>
@@ -668,6 +669,15 @@ sudo apt-get install blender
     * クリッピング：✔ ←鏡像との境界からメッシュがはみ出ないようになる
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/014_009.zip)
+
+
+<a name="014_010"></a>
+### 010 テキストオブジェクト
+
+![014_010_1](https://mubirou.github.io/Blender/introduction/jpg/014_010_1.jpg)
+
+1. XXXX
+
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
