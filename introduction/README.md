@@ -721,9 +721,13 @@ sudo apt-get install blender
 1. [オブジェクトモード]で[Alt]+[C]→[カーブからメッシュ]に変更
 1. [編集モード]にして[プロパティエディタ]-[
 ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
-]-[追加]-[厚み付け]を選択し設定
+]-[追加]-[厚み付け]を選択し設定  
         * 幅：0.0500
-1. 
+
+#### ◆途中の太さを変更する（オプション）
+1. [編集モード]で[ツール]-[ループカットとスライド]で太くしたい場所をカット  
+    ![014_011_4](https://mubirou.github.io/Blender/introduction/jpg/014_011_4.jpg)
+1. XXXX
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
