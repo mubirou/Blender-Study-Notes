@@ -727,7 +727,7 @@ sudo apt-get install blender
 #### ◆途中の太さを変更する（オプション）
 1. [編集モード]で[ツール]-[ループカットとスライド]で太くしたい場所をカット  
     ![014_011_4](https://mubirou.github.io/Blender/introduction/jpg/014_011_4.jpg)
-1. 太くしたい部分を選択した状態で（面選択）、[押し出し](#ショートカット)→[Enter]
+1. 太くしたい部分を選択した状態で（面選択）、[押し出し](#ショートカットキー)→[Enter]
 1. 引き続き、[メッシュ]-[トランスフォーム]-[収縮/膨張]
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/014_011.blend)
