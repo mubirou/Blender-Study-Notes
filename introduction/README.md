@@ -699,12 +699,13 @@ sudo apt-get install blender
 
 
 <a name="014_011"></a>
-### 011 配管
+### 011 パイプ
 
-![014_011](https://mubirou.github.io/Blender/introduction/jpg/014_011.jpg)
+![014_011_1](https://mubirou.github.io/Blender/introduction/jpg/014_011_1.jpg)
 
+1. [円]や[平面]などを編集してパイプとなる[頂点]と[辺]で構成されるオブジェクトを作成  
+    ![014_011_2](https://mubirou.github.io/Blender/introduction/jpg/014_011_2.jpg)
 1. XXXX
-
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
