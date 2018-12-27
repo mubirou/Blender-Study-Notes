@@ -703,13 +703,13 @@ sudo apt-get install blender
 
 ![014_011_1](https://mubirou.github.io/Blender/introduction/jpg/014_011_1.jpg)
 
-#### カーブの作成
+#### ◆カーブの作成
 1. [円]や[平面]などを編集してパイプとなる[頂点]と[辺]で構成されるオブジェクトを作成  
     ![014_011_2](https://mubirou.github.io/Blender/introduction/jpg/014_011_2.jpg)
 1. [編集モード]→[オブジェクトモード]に変更して、[Alt]+[C]で[メッシュ/テキストからカーブ]で "カーブ" に変換  
     ※いきなり[追加]-[カーブ]で作成してもよい
 
-#### カーブをパイプ形状にする
+#### ◆カーブをパイプ形状にする
 1. XXXX
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
