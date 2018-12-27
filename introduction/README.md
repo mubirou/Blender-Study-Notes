@@ -719,8 +719,9 @@ sudo apt-get install blender
 
 #### ◆パイプに厚みを付ける（オプション）
 1. [オブジェクトモード]で[Alt]+[C]→[カーブからメッシュ]に変更
-1. [編集モード]にして[プロパティエディタ]のスパナアイコン
-![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)-[追加]-[厚み付け]を選択し設定
+1. [編集モード]にして[プロパティエディタ]-[
+![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
+]-[追加]-[厚み付け]を選択し設定
         * 幅：0.0500
 1. 
 
