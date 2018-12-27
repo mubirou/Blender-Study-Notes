@@ -730,7 +730,7 @@ sudo apt-get install blender
 1. 太くしたい部分を選択した状態で（面選択）、[押し出し](#ショートカットキー)→[Enter]
 1. 引き続き、[メッシュ]-[トランスフォーム]-[収縮/膨張]
 
-※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/014_011.blend)
+※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_011.blend)
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
