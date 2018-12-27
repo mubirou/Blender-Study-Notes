@@ -705,7 +705,7 @@ sudo apt-get install blender
 
 1. [円]や[平面]などを編集してパイプとなる[頂点]と[辺]で構成されるオブジェクトを作成  
     ![014_011_2](https://mubirou.github.io/Blender/introduction/jpg/014_011_2.jpg)
-1. XXXX
+1. [編集モード]→[オブジェクトモード]に変更して、[Alt]+[C]で[メッシュ/テキストからカーブ]で "カーブ" に変換（いきなり[追加]-[カーブ]で作成してもよい）
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
