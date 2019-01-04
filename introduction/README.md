@@ -781,7 +781,7 @@ sudo apt-get install blender
 
 |No.|内容|作成日|
 |:--|:--|:--:|
-|001|[XXXX](#015_001)|2019-XX-XX|
+|001|[ブロック](#015_001)|2019-XX-XX|
 
 
 <a name="015_001"></a>
@@ -789,7 +789,7 @@ sudo apt-get install blender
 
 ![015_001](https://mubirou.github.io/Blender/introduction/jpg/015_001.jpg)
 
-1. XXXX
+1. ブロック
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
