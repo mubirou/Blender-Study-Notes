@@ -751,8 +751,10 @@ sudo apt-get install blender
 1. UV球を選択し[編集モード]にして半分削除
 1. 上記の下部に小さなUV球を4つ追加
     ![014_012_2](https://mubirou.github.io/Blender/introduction/jpg/014_012_2.jpg)
+1. 上記の全てを選択した状態で[オブジェクト]-[統合]
 
-
+#### ◆滑らかにて一部をシャープなエッジにする
+1. XXXXX
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
