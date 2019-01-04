@@ -768,7 +768,7 @@ sudo apt-get install blender
 1. [辺選択]でシャープなエッジにしたい辺を選択
 1. [ビュー]-[ビュープロパティ]-[トランスフォーム]を変更
     * 辺データ：平均クリース：1.00  
-  ![014_012_4](https://mubirou.github.io/Blender/introduction/jpg/014_012_4.jpg)
+    ![014_012_4](https://mubirou.github.io/Blender/introduction/jpg/014_012_4.jpg)
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_012.blend)
 
