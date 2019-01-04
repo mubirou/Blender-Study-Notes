@@ -21,6 +21,7 @@
 |012|[『Blender 3DCG モデリング･マスター』](#『モデリングマスター』)|参考書の勉強|[●](#『モデリングマスター』)|[●](https://amzn.to/2A2595W)|
 |013|[『ブレンダーからはじめよう!』](#『ブレンダーからはじめよう!』)|参考書の勉強|[●](#『ブレンダーからはじめよう!』)|[●](https://amzn.to/2vzog2t)|
 |014|[テクニック･ヒント](#テクニック･ヒント)|参考：[『Blender モデリング･マスター』](#『モデリングマスター』)|[●](#テクニック･ヒント)|[●](https://amzn.to/2A2595W)|
+|015|[テクニック･ヒント2](#テクニック･ヒント2)|参考：[『Blender CGイラストテクニック』](#『CGイラストテクニック』)|[●](#テクニック･ヒント2)|[●](https://amzn.to/2HUNroF)|
 ***
 
 
@@ -773,6 +774,22 @@ sudo apt-get install blender
     ![014_012_4](https://mubirou.github.io/Blender/introduction/jpg/014_012_4.jpg)
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_012.blend)
+
+
+<a name="テクニック･ヒント2"></a>
+# <b>015 テクニック･ヒント2</b>
+
+|No.|内容|作成日|
+|:--|:--|:--:|
+|001|[XXXX](#015_001)|2019-XX-XX|
+
+
+<a name="015_001"></a>
+### 001 XXX
+
+![015_001](https://mubirou.github.io/Blender/introduction/jpg/015_001.jpg)
+
+1. XXXX
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
