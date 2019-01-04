@@ -427,6 +427,7 @@ sudo apt-get install blender
 |009|[下絵の利用](#014_009)|2018-12-26|
 |010|[テキストオブジェクト](#014_010)|2018-12-26|
 |011|[パイプ](#014_011)|2018-12-27|
+|012|[タイヤ](#014_012)|2019-01-XX|
 
 
 <a name="014_001"></a>
@@ -732,10 +733,19 @@ sudo apt-get install blender
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_011.blend)
 
 
+<a name="014_012"></a>
+### 012 タイヤ
+
+![014_012_1](https://mubirou.github.io/Blender/introduction/jpg/014_012_1.jpg)
+
+#### ◆XXX
+1. XXX
+
+
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
 作成日：2018年12月17日  
-更新日：2018年12月27日
+更新日：2019年01月XX日
 
 
-© 2018 夢寐郎
+© 2018-2019 夢寐郎
