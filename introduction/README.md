@@ -766,8 +766,7 @@ sudo apt-get install blender
 1. [編集モード]に変更
 1. [全選択解除](#ショートカットキー)する
 1. [辺選択]でシャープなエッジにしたい辺を選択  
-    ※辺が見えない場合はパナアイコン
-    ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)-
+    ※辺が見えない場合は
     ![014_012_5](https://mubirou.github.io/Blender/introduction/jpg/014_012_5.jpg)アイコンをオフにする
 1. [ビュー]-[ビュープロパティ]-[トランスフォーム]を変更
     * 辺データ：平均クリース：1.00  
