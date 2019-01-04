@@ -759,7 +759,7 @@ sudo apt-get install blender
     -[追加]-[細分割曲面]→各種設定
         * ビュー：2
         * レンダー：2
-1. [ツール]-[編集]-[シェーディング]-[スムーズ]を選択
+1. [ツール]-[編集]-[シェーディング]-[スムーズ]を選択  
     ![014_012_3](https://mubirou.github.io/Blender/introduction/jpg/014_012_3.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
