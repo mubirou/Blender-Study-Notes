@@ -749,7 +749,7 @@ sudo apt-get install blender
     * リング：12
 1. 円の厚み弱、UV球を上に移動
 1. UV球を選択し[編集モード]にして半分削除
-1. 上記の下部に小さなUV球を4つ追加
+1. 上記の下部に小さなUV球を4つ追加  
     ![014_012_2](https://mubirou.github.io/Blender/introduction/jpg/014_012_2.jpg)
 1. 上記の全てを選択した状態で[オブジェクト]-[統合]
 
