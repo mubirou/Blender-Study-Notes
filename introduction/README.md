@@ -754,7 +754,13 @@ sudo apt-get install blender
 1. 上記の全てを選択した状態で[オブジェクト]-[統合]
 
 #### ◆滑らかにて一部をシャープなエッジにする
-1. XXXXX
+1. [オブジェクトモード]でスパナアイコン
+    ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
+    -[追加]-[細分割曲面]→各種設定
+        * ビュー：2
+        * レンダー：2
+1. [ツール]-[編集]-[シェーディング]-[スムーズ]を選択
+    ![014_012_3](https://mubirou.github.io/Blender/introduction/jpg/014_012_3.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
