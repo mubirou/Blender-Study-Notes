@@ -816,15 +816,17 @@ sudo apt-get install blender
     -[追加]-[配列複製]→各種設定  
         * 数：2  
         * オフセット（倍率）  
-            * 1.000  
+            * **1.000**  
             * 0.000  
             * 0.000  
 1. もう一度[配列複製]→各種設定  
         * 数：3  
         * オフセット（倍率）  
             * 0.000  
-            * 1.000  
+            * **1.000**  
             * 0.000  
+
+※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/015_001.blend)
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
