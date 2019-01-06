@@ -789,7 +789,7 @@ sudo apt-get install blender
 
 ![015_001](https://mubirou.github.io/Blender/introduction/jpg/015_001_1.jpg)
 
-### ブロックのパーツを作成
+### ◆ブロックのパーツを作成
 1. [作成]-[立方体]で立方体を1つ作成
 1. [編集モード]に変更
 1. 上の面だけ選択して[メッシュ]-[面]-[面を差し込む]  
@@ -802,7 +802,7 @@ sudo apt-get install blender
         * レンダー：2
 1. [ツール]-[編集]-[シェーディング]-[スムーズ]を選択  
 
-### エッジのシャープ化
+### ◆エッジの超シャープ化
 1. [編集モード]に戻す
 1. エッジをシャープにしたい辺を選択  
     ![015_001_3](https://mubirou.github.io/Blender/introduction/jpg/015_001_3.jpg)
@@ -811,7 +811,7 @@ sudo apt-get install blender
 1. シャープさが不足している場合、[ツール]-[追加]-[ループカットとスライド]を使って、分割線をシャープにしたいエッジ部分で重ねる  
     ![015_001_4](https://mubirou.github.io/Blender/introduction/jpg/015_001_4.jpg)
 
-### 複製
+### ◆配列複製
 1. [編集モード]のまま、スパナアイコン![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
     -[追加]-[配列複製]→各種設定  
         * 数：2  
