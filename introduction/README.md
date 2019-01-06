@@ -805,7 +805,7 @@ sudo apt-get install blender
     ![015_001_3](https://mubirou.github.io/Blender/introduction/jpg/015_001_3.jpg)
 1. [ビュー]-[ビュープロパティ]-[トランスフォーム]を変更
     * 辺データ：平均クリース：1.00  
-1. シャープさが不足している場合、[ツール]-[追加]-[ループカットとスライド]を使って分割線を根本で重ねる  
+1. シャープさが不足している場合、[ツール]-[追加]-[ループカットとスライド]を使って、分割線をシャープにしたいエッジ部分で重ねる  
     ![015_001_4](https://mubirou.github.io/Blender/introduction/jpg/015_001_4.jpg)
 
 
