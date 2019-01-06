@@ -795,7 +795,19 @@ sudo apt-get install blender
     ![015_001_2](https://mubirou.github.io/Blender/introduction/jpg/015_001_2.jpg)
 1. 引き続き[メッシュ]-[押し出し]-[領域]
 1. [オブジェクトモード]に変更
-1. XXXX
+1. スパナアイコン![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
+    -[追加]-細分割曲面]→各種設定  
+        * ビュー：2
+        * レンダー：2
+1. [ツール]-[編集]-[シェーディング]-[スムーズ]を選択  
+1. [編集モード]に戻す
+1. エッジをシャープにしたい辺を選択  
+    ![015_001_3](https://mubirou.github.io/Blender/introduction/jpg/015_001_3.jpg)
+1. [ビュー]-[ビュープロパティ]-[トランスフォーム]を変更
+    * 辺データ：平均クリース：1.00  
+1. シャープさが不足している場合、[ツール]-[追加]-[ループカットとスライド]を使って分割線を根本で重ねる  
+    ![015_001_4](https://mubirou.github.io/Blender/introduction/jpg/015_001_4.jpg)
+
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
