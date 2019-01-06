@@ -785,11 +785,14 @@ sudo apt-get install blender
 
 
 <a name="015_001"></a>
-### 001 XXX
+### 001 ブロック
 
-![015_001](https://mubirou.github.io/Blender/introduction/jpg/015_001.jpg)
+![015_001](https://mubirou.github.io/Blender/introduction/jpg/015_001_1.jpg)
 
-1. ブロック
+1. [作成]-[立方体]で立方体を1つ作成
+1. [編集モード]に変更
+1. 上の面だけ選択して[メッシュ]-[面]-[面を差し込む]  
+    ![015_001_2](https://mubirou.github.io/Blender/introduction/jpg/015_001_2.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
