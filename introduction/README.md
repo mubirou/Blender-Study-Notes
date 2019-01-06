@@ -790,12 +790,10 @@ sudo apt-get install blender
 ![015_001](https://mubirou.github.io/Blender/introduction/jpg/015_001_1.jpg)
 
 1. [作成]-[立方体]で立方体を1つ作成
-
 1. [編集モード]に変更
 1. 上の面だけ選択して[メッシュ]-[面]-[面を差し込む]  
     ![015_001_2](https://mubirou.github.io/Blender/introduction/jpg/015_001_2.jpg)
 1. 引き続き[メッシュ]-[押し出し]-[領域]
-
 1. [オブジェクトモード]に変更
 1. XXXX
 
