@@ -837,7 +837,13 @@ sudo apt-get install blender
 
 ### ◆ドロー系ソフトからの読み込み
 1. [Inkscape](https://github.com/mubirou/Inkscape)などでワインの断面を[作成](https://mubirou.github.io/Blender/introduction/svg/wineglass.svg)
-1. XXX
+1. Blender上で[ファイル]-[インポート]-[ScalableVectorGraphics（.svg）]から上記の.svgファイルをインポート
+1. [ビュー]-[プロパティ]-[トランスフォーム]-[回転]の調整  
+    * X：**90**°
+    * Y：0°
+    * Z：0°
+
+### ◆
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
