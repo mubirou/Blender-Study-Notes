@@ -783,6 +783,7 @@ sudo apt-get install blender
 |:--|:--|:--:|
 |001|[ブロック（エッジの超シャープ化と配列複製）](#015_001)|2019-01-06|
 |002|[ワイングラス](#015_002)|2019-01-08|
+|003|[額縁](#015_003)|2019-01-08|
 
 
 <a name="015_001"></a>
@@ -852,6 +853,20 @@ sudo apt-get install blender
     -[追加]-[スクリュー]→各種設定  
         * 座標軸：Y  
 
+
+<a name="015_003"></a>
+### 003 額縁
+
+![015_003](https://mubirou.github.io/Blender/introduction/jpg/015_003.jpg)
+
+### ◆ドロー系ソフトからの読み込み
+1. [Inkscape](https://github.com/mubirou/Inkscape)などで額縁の断面を[作成](https://mubirou.github.io/Blender/introduction/svg/frameDesign.svg)（プレーンSVGファイル）
+1. 同様に額縁のサイズとなる矩形を[作成](https://mubirou.github.io/Blender/introduction/svg/frameSize.svg)（プレーンSVGファイル）
+1. Blender上で[ファイル]-[インポート]-[ScalableVectorGraphics（.svg）]から上記の.svgファイルをインポート
+1. [編集モード]に変更して位置やサイズを調整
+1. [オブジェクトモード]に変更して[プロパティエディタ]-
+![014_011_3](https://mubirou.github.io/Blender/introduction/jpg/014_011_3.jpg)
+で[ベベルオブジェクト]を上記の額縁の断面のオブジェクトを指定
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
