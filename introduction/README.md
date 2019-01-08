@@ -836,7 +836,7 @@ sudo apt-get install blender
 ![015_002_1](https://mubirou.github.io/Blender/introduction/jpg/015_002_1.jpg)
 
 ### ◆ドロー系ソフトからの読み込み
-1. [Inkscape](https://github.com/mubirou/Inkscape)などでワインの断面を[作成](https://mubirou.github.io/Blender/introduction/svg/wineglass.svg)
+1. [Inkscape](https://github.com/mubirou/Inkscape)などでワインの断面を[作成](https://mubirou.github.io/Blender/introduction/svg/wineglass.svg)（プレーンSVGファイル）
 1. Blender上で[ファイル]-[インポート]-[ScalableVectorGraphics（.svg）]から上記の.svgファイルをインポート
 1. [ビュー]-[プロパティ]-[トランスフォーム]-[回転]の調整  
     * X：**90**°
