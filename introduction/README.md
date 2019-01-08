@@ -782,6 +782,7 @@ sudo apt-get install blender
 |No.|内容|作成日|
 |:--|:--|:--:|
 |001|[ブロック（エッジの超シャープ化と配列複製）](#015_001)|2019-01-06|
+|002|[ワイングラス](#015_002)|2019-01-XX|
 
 
 <a name="015_001"></a>
@@ -827,6 +828,16 @@ sudo apt-get install blender
             * 0.000  
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/015_001.blend)
+
+
+<a name="015_002"></a>
+### 002 ワイングラス
+
+![015_002](https://mubirou.github.io/Blender/introduction/jpg/015_002_1.jpg)
+
+### ◆ドロー系ソフトからの読み込み
+1. 
+
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
