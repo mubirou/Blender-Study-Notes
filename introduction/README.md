@@ -866,7 +866,7 @@ sudo apt-get install blender
 1. [編集モード]に変更して位置やサイズを調整
 1. [オブジェクトモード]に変更して[プロパティエディタ]-
 ![014_011_3](https://mubirou.github.io/Blender/introduction/jpg/014_011_3.jpg)
-で[ベベルオブジェクト]を上記の額縁の断面のオブジェクトを指定
+で[ベベルオブジェクト]を上記の額縁の断面のオブジェクトにする
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
