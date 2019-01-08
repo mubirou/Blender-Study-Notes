@@ -782,7 +782,7 @@ sudo apt-get install blender
 |No.|内容|作成日|
 |:--|:--|:--:|
 |001|[ブロック（エッジの超シャープ化と配列複製）](#015_001)|2019-01-06|
-|002|[ワイングラス](#015_002)|2019-01-XX|
+|002|[ワイングラス](#015_002)|2019-01-08|
 
 
 <a name="015_001"></a>
@@ -833,7 +833,7 @@ sudo apt-get install blender
 <a name="015_002"></a>
 ### 002 ワイングラス
 
-![015_002](https://mubirou.github.io/Blender/introduction/jpg/015_002_1.jpg)
+![015_002_1](https://mubirou.github.io/Blender/introduction/jpg/015_002_1.jpg)
 
 ### ◆ドロー系ソフトからの読み込み
 1. [Inkscape](https://github.com/mubirou/Inkscape)などでワインの断面を[作成](https://mubirou.github.io/Blender/introduction/svg/wineglass.svg)
@@ -843,13 +843,20 @@ sudo apt-get install blender
     * Y：0°
     * Z：0°
 
-### ◆
+### ◆カーブの回転体を作る
+1. [編集モード]に変更
+1. Z軸がワインの中心軸になるように移動  
+    ![015_002_2](https://mubirou.github.io/Blender/introduction/jpg/015_002_2.jpg)
+
+1. スパナアイコン![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
+    -[追加]-[スクリュー]→各種設定  
+        * 座標軸：Y  
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
 作成日：2018年12月17日  
-更新日：2019年01月06日
+更新日：2019年01月08日
 
 
 © 2018-2019 夢寐郎
