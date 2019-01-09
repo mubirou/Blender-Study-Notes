@@ -785,6 +785,7 @@ sudo apt-get install blender
 |002|[ワイングラス](#015_002)|2019-01-08|
 |003|[額縁](#015_003)|2019-01-08|
 |004|[窓（正確なUVマッピング）](#015_004)|2019-01-09|
+|005|[サイコロ](#015_005)|2019-01-09|
 
 
 <a name="015_001"></a>
@@ -909,6 +910,20 @@ sudo apt-get install blender
 ※Unityで利用する場合は.fbxファイルとしてエクスポートし、テクスチャ（.png）と一緒に（相対的階層を維持したまま）Unityプロジェクトの[Assets]フォルダに保存して下さい
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/015_004.zip)
+
+
+<a name="015_005"></a>
+### 005 サイコロ
+
+![015_005](https://mubirou.github.io/Blender/introduction/jpg/015_005.jpg)
+
+1. [展開図](https://mubirou.github.io/Blender/introduction/png/dice.png)を用意
+1. [作成]-[立方体]で作成
+1. [編集モード]に変更
+1. 上の展開図を参考に、立方体の上がサイコロの1になるように、辺選択で切れ目（シーム）を入れる  
+    ![015_005_2](https://mubirou.github.io/Blender/introduction/jpg/015_005_2.jpg)
+1. [シェーディング/UV]タブを開く
+1. 
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
