@@ -884,7 +884,7 @@ sudo apt-get install blender
 1. [編集モード]に変更して[ツール]-[ループカットとスライド]で窓の位置に合わせて分割
 1. テクスチャを貼りたい面を選択  
     ![015_004_1](https://mubirou.github.io/Blender/introduction/jpg/015_004_2.jpg)
-1. 
+1. XXX
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
