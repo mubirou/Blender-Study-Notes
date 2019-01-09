@@ -881,6 +881,10 @@ sudo apt-get install blender
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/015_001.blend)
 
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2019年01月06日
+
 
 <a name="015_002"></a>
 ### 002 ワイングラス
@@ -906,6 +910,10 @@ sudo apt-get install blender
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/015_002.blend)
 
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2019年01月08日
+
 
 <a name="015_003"></a>
 ### 003 額縁
@@ -922,6 +930,10 @@ sudo apt-get install blender
 で[ベベルオブジェクト]を上記の額縁の断面のオブジェクトにする
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/015_003.blend)
+
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2019年01月08日
 
 
 <a name="015_004"></a>
@@ -960,6 +972,10 @@ sudo apt-get install blender
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/015_004.zip)
 
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2019年01月09日
+
 
 <a name="015_005"></a>
 ### 005 サイコロ
@@ -996,7 +1012,6 @@ sudo apt-get install blender
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
-作成日：2019年01月06日  
 更新日：2019年01月09日
 
 
@@ -1016,8 +1031,7 @@ sudo apt-get install blender
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
-作成日：2019年01月XX日  
-更新日：2019年01月XX日
+作成日：2019年01月XX日
 
 
 © 2018-2019 夢寐郎
