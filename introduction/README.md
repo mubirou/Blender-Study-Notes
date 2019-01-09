@@ -925,7 +925,7 @@ sudo apt-get install blender
 1. [シェーディング/UV]タブを開く
 1. 何れかの3Dビュー画面の[エディター]タイプを[UV画像エディター]に変更
 1. [面選択]で立方体の全ての面を選択
-1. [UV]-[シームを付ける]→[展開]を選択
+1. [UV]-[シームを付ける]→[展開]を選択  
     ![015_005_3](https://mubirou.github.io/Blender/introduction/jpg/015_005_3.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
