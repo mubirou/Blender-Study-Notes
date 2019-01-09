@@ -939,7 +939,7 @@ sudo apt-get install blender
     ![015_004_6](https://mubirou.github.io/Blender/introduction/jpg/015_004_6.jpg)
 1. 引き続き各種設定  
     * [画像のマッピング]-[延長]：クリップ
-    * [マッピング]-[座標]：UV
+    * [マッピング]-[座標]：UV  
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
