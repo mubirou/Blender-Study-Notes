@@ -888,14 +888,21 @@ sudo apt-get install blender
 1. [シェーディング/UV]タブ-[UV]-[展開]-[スマートUV投影]→[OK]を選択
 1. [UV画像エディター]画面の[開く]から、上記の.pngファイルを選択  
     ![015_004_2](https://mubirou.github.io/Blender/introduction/jpg/015_004_2.jpg)
-1. テクスチャを貼りたい面を選択しているのを確認
+1. [編集モード]でテクスチャを貼りたい面を選択しているのを確認
+1. ![015_004_5](https://mubirou.github.io/Blender/introduction/jpg/015_004_5.jpg)
+    アイコンを押し→[新規]
 1. ![015_004_3](https://mubirou.github.io/Blender/introduction/jpg/015_004_3.jpg)
     アイコンを選択→[新規]→[画像]→
     ![015_004_4](https://mubirou.github.io/Blender/introduction/jpg/015_004_4.jpg)
     アイコンから上記で登録済みのPNGファイルを選択  
     ![015_004_6](https://mubirou.github.io/Blender/introduction/jpg/015_004_6.jpg)
-1. ![015_004_5](https://mubirou.github.io/Blender/introduction/jpg/015_004_5.jpg)
-    アイコンを押し→[+]
+1. 引き続き各種設定  
+    * [画像のマッピング]-[延長]：クリップ
+    * [マッピング]-[座標]：UV  
+1. 他の面を選択
+1. 
+
+
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
