@@ -447,6 +447,10 @@ sudo apt-get install blender
 
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_001.blend)
 
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2018年12月17日
+
 
 <a name="014_002"></a>
 ### 002 角丸･面取り･ひし形･楕円形
@@ -462,6 +466,10 @@ sudo apt-get install blender
     * セグメント：値を大きくすると滑らかになる
 
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_002.blend)
+
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2018年12月17日
 
 
 <a name="014_003"></a>
@@ -490,6 +498,10 @@ sudo apt-get install blender
 
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_003.blend)
 
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2018年12月18日
+
 
 <a name="014_004"></a>
 ### 004 バネ
@@ -510,6 +522,10 @@ sudo apt-get install blender
         * 反復：5
 
     ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_004.blend)
+
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2018年12月19日
 
 
 <a name="014_005"></a>
@@ -552,6 +568,10 @@ sudo apt-get install blender
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_005.blend)
 
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2018年12月19日
+
 
 <a name="014_006"></a>
 ### 006 歯車
@@ -587,6 +607,10 @@ sudo apt-get install blender
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_006.blend)
 
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2018年12月20日
+
 
 <a name="014_007"></a>
 ### 007 ネジ山
@@ -617,6 +641,10 @@ sudo apt-get install blender
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_007.blend)
 
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2018年12月21日
+
 
 <a name="014_008"></a>
 ### 008 ハート型に掘る
@@ -642,6 +670,10 @@ sudo apt-get install blender
         * Z: **0.000**
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_008.blend)
+
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2018年12月21日
 
 
 <a name="014_009"></a>
@@ -674,6 +706,10 @@ sudo apt-get install blender
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/014_009.zip)
 
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2018年12月26日
+
 
 <a name="014_010"></a>
 ### 010 テキストオブジェクト
@@ -699,6 +735,10 @@ sudo apt-get install blender
 ※カーブに沿って文字を並べることも可能
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/014_010.zip)
+
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2018年12月26日
 
 
 <a name="014_011"></a>
@@ -733,6 +773,10 @@ sudo apt-get install blender
 1. 引き続き、[メッシュ]-[トランスフォーム]-[収縮/膨張]
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/014_011.blend)
+
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2018年12月27日
 
 
 <a name="014_012"></a>
@@ -778,8 +822,7 @@ sudo apt-get install blender
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
-作成日：2018年12月17日  
-更新日：2019年01月04日
+作成日：2019年01月04日
 
 
 <a name="テクニック･ヒント2"></a>
