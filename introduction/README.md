@@ -969,7 +969,7 @@ sudo apt-get install blender
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
 作成日：2019年01月XX日  
-更新日：2019年01月xx日
+更新日：2019年01月XX日
 
 
 © 2018-2019 夢寐郎
