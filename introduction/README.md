@@ -893,8 +893,9 @@ sudo apt-get install blender
     アイコンを選択→[新規]→[画像]→
     ![015_004_4](https://mubirou.github.io/Blender/introduction/jpg/015_004_4.jpg)
     アイコンから上記で登録済みのPNGファイルを選択
+    ![015_004_6](https://mubirou.github.io/Blender/introduction/jpg/015_004_6.jpg)
 1. ![015_004_5](https://mubirou.github.io/Blender/introduction/jpg/015_004_5.jpg)
-    アイコンを選
+    アイコンを押し→[+]
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
