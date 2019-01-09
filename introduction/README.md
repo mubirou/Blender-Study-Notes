@@ -880,7 +880,8 @@ sudo apt-get install blender
 ![015_004_1](https://mubirou.github.io/Blender/introduction/jpg/015_004_1.jpg)
 
 #### テクスチャの用意
-1. テクスチャを用意（[window.png](https://mubirou.github.io/Blender/introduction/png/window.png)）
+1. テクスチャを用意（[window.png](https://mubirou.github.io/Blender/introduction/png/window.png)）  
+    ※テクスチャは[textures.com](https://www.textures.com/)を利用するとよいでしょう
 1. [作成]-[立方体]で立方体を作成
 1. [編集モード]に変更して[ツール]-[ループカットとスライド]で窓の位置に合わせて分割
 1. 何れかの3Dビュー画面左下アイコンから[エディター]タイプを[UV画像エディター]に変更
