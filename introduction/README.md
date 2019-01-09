@@ -915,7 +915,7 @@ sudo apt-get install blender
 <a name="015_005"></a>
 ### 005 サイコロ
 
-![015_005_1](https://mubirou.github.io/Blender/introduction/jpg/015_005_1.jpg)
+![015_005_1](https://mubirou.github.io/Blender/introduction/jpg/015_005_1.jpg) 
 
 1. [展開図](https://mubirou.github.io/Blender/introduction/png/dice.png)を用意
 1. [作成]-[立方体]で作成
