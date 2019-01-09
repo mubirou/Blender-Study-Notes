@@ -920,11 +920,13 @@ sudo apt-get install blender
 1. [展開図](https://mubirou.github.io/Blender/introduction/png/dice.png)を用意
 1. [作成]-[立方体]で作成
 1. [編集モード]に変更
-1. 上の展開図を参考に、立方体の上がサイコロの1になるように、辺選択で切れ目（シーム）を入れる  
+1. 上の展開図を参考に、立方体の上がサイコロの1になるように、辺選択で切れ目（シーム）を選択  
     ![015_005_2](https://mubirou.github.io/Blender/introduction/jpg/015_005_2.jpg)
 1. [シェーディング/UV]タブを開く
-1. XXX
-
+1. 何れかの3Dビュー画面の[エディター]タイプを[UV画像エディター]に変更
+1. [面選択]で立方体の全ての面を選択
+1. [UV]-[シームを付ける]→[展開]を選択
+    ![015_005_3](https://mubirou.github.io/Blender/introduction/jpg/015_005_3.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
