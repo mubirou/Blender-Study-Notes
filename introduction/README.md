@@ -890,7 +890,7 @@ sudo apt-get install blender
 1. [UV画像エディター]画面の[開く]から、上記の.pngファイルを選択  
     ![015_004_2](https://mubirou.github.io/Blender/introduction/jpg/015_004_2.jpg)  
     ※この画面で範囲の変更や角度を調整します
-1. [編集モード]でテクスチャを貼りたい面を選択しているのを確認
+1. [編集モード]で、テクスチャを貼りたい面を選択している事を確認
 1. ![015_004_5](https://mubirou.github.io/Blender/introduction/jpg/015_004_5.jpg)
     アイコンを押し→[新規]
 1. ![015_004_3](https://mubirou.github.io/Blender/introduction/jpg/015_004_3.jpg)
