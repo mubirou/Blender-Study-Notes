@@ -923,7 +923,7 @@ sudo apt-get install blender
 1. 上の展開図を参考に、立方体の上がサイコロの1になるように、辺選択で切れ目（シーム）を入れる  
     ![015_005_2](https://mubirou.github.io/Blender/introduction/jpg/015_005_2.jpg)
 1. [シェーディング/UV]タブを開く
-1. 
+1. XXX
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
