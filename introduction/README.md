@@ -905,6 +905,8 @@ sudo apt-get install blender
     アイコンを押し→[+]→[新規]→[ディフューズ]の色（任意）を変更→[割り当て]
 1. [3Dビューのシェーディング]を[ソリッド]→[マテリアル]に変更するなどして、テクスチャのマッピング具合を確認
 
+※Unityで利用する場合は.fbxファイルとしてエクスポートし、テクスチャ（.png）と一緒に（相対的階層を維持したまま）Unityプロジェクトの[Assets]フォルダに保存して下さい
+
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/015_004.zip)
 
 
