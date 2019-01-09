@@ -927,6 +927,23 @@ sudo apt-get install blender
 1. [面選択]で立方体の全ての面を選択
 1. [UV]-[シームを付ける]→[展開]を選択  
     ![015_005_3](https://mubirou.github.io/Blender/introduction/jpg/015_005_3.jpg)
+1. [UV画像エディター]画面の[開く]から、上記の展開図（.pngファイル）を選択
+1. パスの全てを選択後、[ツール]-[UV整列]-[90度回転]や、ポイントを選択して移動するなどして、テクスチャと展開図を合わせる
+1. [編集モード]で、テクスチャを貼りたい面を選択している事を確認
+1. ![015_004_5](https://mubirou.github.io/Blender/introduction/jpg/015_004_5.jpg)
+    アイコンを押し→[新規]
+1. ![015_004_3](https://mubirou.github.io/Blender/introduction/jpg/015_004_3.jpg)
+    アイコンを選択→[新規]→[画像]→
+    ![015_004_4](https://mubirou.github.io/Blender/introduction/jpg/015_004_4.jpg)
+    アイコンから上記で登録済みのPNGファイルを選択  
+    ![015_004_6](https://mubirou.github.io/Blender/introduction/jpg/015_004_6.jpg)
+1. 引き続き各種設定  
+    * [画像のマッピング]-[延長]：クリップ
+    * [マッピング]-[座標]：UV  
+1. 他の面を選択
+1. ![015_004_5](https://mubirou.github.io/Blender/introduction/jpg/015_004_5.jpg)
+    アイコンを押し→[+]→[新規]→[ディフューズ]の色（任意）を変更→[割り当て]
+1. [3Dビューのシェーディング]を[ソリッド]→[マテリアル]に変更するなどして、テクスチャのマッピング具合を確認
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
