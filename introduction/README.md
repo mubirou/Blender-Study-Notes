@@ -784,6 +784,7 @@ sudo apt-get install blender
 |001|[ブロック（エッジの超シャープ化と配列複製）](#015_001)|2019-01-06|
 |002|[ワイングラス](#015_002)|2019-01-08|
 |003|[額縁](#015_003)|2019-01-08|
+|004|[窓（正確なUVマッピング）](#015_004)|2019-01-XX|
 
 
 <a name="015_001"></a>
@@ -871,6 +872,15 @@ sudo apt-get install blender
 で[ベベルオブジェクト]を上記の額縁の断面のオブジェクトにする
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/015_003.blend)
+
+
+<a name="015_004"></a>
+### 004 窓（正確なUVマッピング）
+
+![015_004_1](https://mubirou.github.io/Blender/introduction/jpg/015_004_1.jpg)
+
+1. テクスチャを用意（[window.png]((https://mubirou.github.io/Blender/introduction/png/window.png)）
+1.
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
