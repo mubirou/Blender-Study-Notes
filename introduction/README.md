@@ -946,13 +946,18 @@ sudo apt-get install blender
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/015_005.zip)
 
+実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+作成者：夢寐郎  
+作成日：2018年12月17日  
+更新日：2019年01月09日
+
 
 <a name="テクニック･ヒント3"></a>
 # <b>016 テクニック･ヒント3</b>
 
 |No.|内容|作成日|
 |:--|:--|:--:|
-|001|[XXXX](#016_001)|2019-XX-XX|
+|001|[XXXX](#016_001)|2019-01-XX|
 
 
 <a name="016_001"></a>
@@ -963,8 +968,8 @@ sudo apt-get install blender
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
-作成日：2018年12月17日  
-更新日：2019年01月09日
+作成日：2019年01月XX日  
+更新日：2019年01月xx日
 
 
 © 2018-2019 夢寐郎
