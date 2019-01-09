@@ -915,7 +915,7 @@ sudo apt-get install blender
 <a name="015_005"></a>
 ### 005 サイコロ
 
-![015_005](https://mubirou.github.io/Blender/introduction/jpg/015_005.jpg)
+![015_005_1](https://mubirou.github.io/Blender/introduction/jpg/015_005_1.jpg)
 
 1. [展開図](https://mubirou.github.io/Blender/introduction/png/dice.png)を用意
 1. [作成]-[立方体]で作成
@@ -939,11 +939,7 @@ sudo apt-get install blender
     ![015_004_6](https://mubirou.github.io/Blender/introduction/jpg/015_004_6.jpg)
 1. 引き続き各種設定  
     * [画像のマッピング]-[延長]：クリップ
-    * [マッピング]-[座標]：UV  
-1. 他の面を選択
-1. ![015_004_5](https://mubirou.github.io/Blender/introduction/jpg/015_004_5.jpg)
-    アイコンを押し→[+]→[新規]→[ディフューズ]の色（任意）を変更→[割り当て]
-1. [3Dビューのシェーディング]を[ソリッド]→[マテリアル]に変更するなどして、テクスチャのマッピング具合を確認
+    * [マッピング]-[座標]：UV
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
