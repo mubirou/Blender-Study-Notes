@@ -879,7 +879,7 @@ sudo apt-get install blender
 
 ![015_004_1](https://mubirou.github.io/Blender/introduction/jpg/015_004_1.jpg)
 
-1. テクスチャを用意（[window.png]((https://mubirou.github.io/Blender/introduction/png/window.png)）
+1. テクスチャを用意（[window.png](https://mubirou.github.io/Blender/introduction/png/window.png)）
 1.
 
 
