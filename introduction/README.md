@@ -941,7 +941,7 @@ sudo apt-get install blender
     * [画像のマッピング]-[延長]：クリップ
     * [マッピング]-[座標]：UV
 
-※Unityで利用する場合は.fbxファイルでエクスポートし、テクスチャ（.png）と一緒に（相対的階層を維持したまま）Unityプロジェクトの[Assets]フォルダに保存して下さい
+※Unityで利用する場合は.fbxファイルの他、テクスチャ（.png）も必要です
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/015_005.zip)
 
