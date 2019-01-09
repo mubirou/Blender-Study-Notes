@@ -897,7 +897,7 @@ sudo apt-get install blender
 1. ![015_004_3](https://mubirou.github.io/Blender/introduction/jpg/015_004_3.jpg)
     アイコンを選択→[新規]→[画像]→
     ![015_004_4](https://mubirou.github.io/Blender/introduction/jpg/015_004_4.jpg)
-    アイコンから上記で登録済みのPNGファイルを選択  
+    アイコンから上記で登録済みの.pngファイルを選択  
     ![015_004_6](https://mubirou.github.io/Blender/introduction/jpg/015_004_6.jpg)
 1. 引き続き各種設定  
     * [画像のマッピング]-[延長]：クリップ
@@ -935,7 +935,7 @@ sudo apt-get install blender
 1. ![015_004_3](https://mubirou.github.io/Blender/introduction/jpg/015_004_3.jpg)
     アイコンを選択→[新規]→[画像]→
     ![015_004_4](https://mubirou.github.io/Blender/introduction/jpg/015_004_4.jpg)
-    アイコンから上記で登録済みのPNGファイルを選択  
+    アイコンから上記で登録済みの展開図（.pngファイル）を選択  
     ![015_004_6](https://mubirou.github.io/Blender/introduction/jpg/015_004_6.jpg)
 1. 引き続き各種設定  
     * [画像のマッピング]-[延長]：クリップ
