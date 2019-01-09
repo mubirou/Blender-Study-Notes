@@ -880,7 +880,11 @@ sudo apt-get install blender
 ![015_004_1](https://mubirou.github.io/Blender/introduction/jpg/015_004_1.jpg)
 
 1. テクスチャを用意（[window.png](https://mubirou.github.io/Blender/introduction/png/window.png)）
-1.
+1. [作成]-[立方体]で立方体を作成
+1. [編集モード]に変更して[ツール]-[ループカットとスライド]で窓の位置に合わせて分割
+1. テクスチャを貼りたい面を選択  
+    ![015_004_1](https://mubirou.github.io/Blender/introduction/jpg/015_004_2.jpg)
+1. 
 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
