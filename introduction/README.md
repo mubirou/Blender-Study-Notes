@@ -1036,6 +1036,8 @@ sudo apt-get install blender
 1. 上記のオブジェクトを選択し[オブジェクトモード]にする
 1. [ワイヤーフレーム表示](#ショートカットキー)にする
 1. [追加]-[アーマチュア]-[単一ボーン]を選択（手首用）
+    ![016_001_3](https://mubirou.github.io/Blender/introduction/jpg/016_001_3.jpg)
+1.
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
