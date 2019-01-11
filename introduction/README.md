@@ -1039,7 +1039,8 @@ sudo apt-get install blender
     ![016_001_3](https://mubirou.github.io/Blender/introduction/jpg/016_001_3.jpg)
 1. プロパティエディタの![016_001_4](https://mubirou.github.io/Blender/introduction/jpg/016_001_4.jpg)
     アイコンを選択→[表示]→[レントゲン]を✔  
-    ※ワイヤーフレームでなくてもボーンが見えるようになる
+    ※ワイヤーフレームでなくてもボーンが見えるようになる  
+    ![016_001_5](https://mubirou.github.io/Blender/introduction/jpg/016_001_5.jpg)
 1. XXX
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
