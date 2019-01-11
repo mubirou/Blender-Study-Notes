@@ -1053,6 +1053,7 @@ sudo apt-get install blender
     1. [押し出し](#ショートカットキー)で下向きのボーンを作成
     1. [アウトライナー]（オブジェクトのツリー）上で名前を"root"に変更  
     ![016_001_8](https://mubirou.github.io/Blender/introduction/jpg/016_001_8.jpg)
+1. XXXX
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
