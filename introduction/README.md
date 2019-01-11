@@ -1059,7 +1059,7 @@ sudo apt-get install blender
     1. [アウトライナー]（オブジェクトのツリー）上でネストになったことを確認
     1. 同様に5本の指の付け根のボーンを選択→"root"ボーンの順で選択  
     ![016_001_9](https://mubirou.github.io/Blender/introduction/jpg/016_001_9.jpg)
-
+1. XXX
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
