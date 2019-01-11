@@ -1024,10 +1024,11 @@ sudo apt-get install blender
 
 
 <a name="016_001"></a>
-### 001 XXXX
+### 001 グーチョキパー
 
 ![016_001](https://mubirou.github.io/Blender/introduction/jpg/016_001_1.jpg)
 
+1. 立方体から、[ループカット][ナイフ][押し出し][拡大縮小][細分割曲面]などを使って手を作成（[.blendファイル](https://mubirou.github.io/Blender/introduction/blend/016_001_1.blend)）
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
