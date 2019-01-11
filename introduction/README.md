@@ -1065,7 +1065,7 @@ sudo apt-get install blender
     ※ここまでの参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blender/016_001_2.blend)
 
 ### ◆変形のテスト
-1. XXX
+1. XXXX
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
