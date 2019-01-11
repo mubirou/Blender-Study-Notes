@@ -1046,7 +1046,8 @@ sudo apt-get install blender
 1. ボーンの選択のみ（丸い部分）選択→[押し出し](#ショートカットキー)→第二関節まで伸ばす（ボーンの関節をモデルの関節に合わせます）
 1. 引き続き、同様に第一関節まで伸ばす  
     ![016_001_6](https://mubirou.github.io/Blender/introduction/jpg/016_001_6.jpg)
-1. 同様に全ての指にボーンを作成する
+1. 同様に全ての指にボーンを作成する  
+    ![016_001_7](https://mubirou.github.io/Blender/introduction/jpg/016_001_7.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
