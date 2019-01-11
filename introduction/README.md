@@ -1041,7 +1041,12 @@ sudo apt-get install blender
     アイコンを選択→[表示]→[レントゲン]を✔  
     ※ワイヤーフレームでなくてもボーンが見えるようになる  
     ![016_001_5](https://mubirou.github.io/Blender/introduction/jpg/016_001_5.jpg)
-1. XXX
+1. 上記で作成した[アーマチュア]を選択した状態で[編集モード]にする
+1. [追加]-[単一ボーン]→何れかの指の根元（第三関節）に移動
+1. ボーンの選択のみ（丸い部分）選択→[押し出し](#ショートカットキー)→第二関節まで伸ばす
+1. 引き続き、同様に第一関節まで伸ばす  
+    ![016_001_6](https://mubirou.github.io/Blender/introduction/jpg/016_001_6.jpg)
+1.
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
