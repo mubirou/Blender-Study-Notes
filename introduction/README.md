@@ -1048,7 +1048,11 @@ sudo apt-get install blender
     ![016_001_6](https://mubirou.github.io/Blender/introduction/jpg/016_001_6.jpg)
 1. 同様に全ての指にボーンを作成する  
     ![016_001_7](https://mubirou.github.io/Blender/introduction/jpg/016_001_7.jpg)
-1. XXXX
+1. ルート･ボーンを作成する
+    1. 今回は最初に作ったボーンの根元を選択
+    1. [押し出し](#ショートカットキー)で下向きのボーンを作成
+    1. [アウトライナー]（オブジェクトのツリー）上で名前を"root"に変更  
+    ![016_001_8](https://mubirou.github.io/Blender/introduction/jpg/016_001_8.jpg)
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
