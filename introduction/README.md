@@ -1062,7 +1062,7 @@ sudo apt-get install blender
     1. 上記と同様に[アーマチュア]-[親]-[作成]-[オフセットを保持]を選択でペアレントする  
     ![016_001_10](https://mubirou.github.io/Blender/introduction/jpg/016_001_10.jpg)  
 
-    ※ここまでの参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blender/016_001_2.blend)
+    ※ここまでの参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_001_2.blend)
 
 ### ◆変形のテスト
 1. XXXX
