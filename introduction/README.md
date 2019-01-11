@@ -1062,6 +1062,7 @@ sudo apt-get install blender
     1. 上記と同様に[アーマチュア]-[親]-[作成]-[オフセットを保持]を選択でペアレントする  
     ![016_001_10](https://mubirou.github.io/Blender/introduction/jpg/016_001_10.jpg)
 
+### ◆変形のテスト
 1. XXX
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
