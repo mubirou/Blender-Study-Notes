@@ -1061,6 +1061,16 @@ sudo apt-get install blender
     ![016_001_9](https://mubirou.github.io/Blender/introduction/jpg/016_001_9.jpg)
     1. 上記と同様に[アーマチュア]-[親]-[作成]-[オフセットを保持]を選択でペアレントする  
     ![016_001_10](https://mubirou.github.io/Blender/introduction/jpg/016_001_10.jpg)  
+1. オブジェクトのメッシュ化
+    1. 上記で作成したオブジェクト（手型）を選択
+    1. [Alt]+[C]でメッシュに変換  
+    ※[編集モード]にして[ツール]-[削除]-[重複頂点を削除]で無駄な頂点を削除しておきます
+1. オブジェクトとアーマチュアの関連付け
+    1. オブジェクト（手型）→アーマチュアの順番に[Shift]キーを押しながら選択
+    1. [オブジェクト]-[親]-[自動のウェイトで]-[自動のウェイトで]を選択
+
+#### ◆ウェイト設定
+1. [アーマチュア部分
 
     ※ここまでの参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_001_2.blend)
 
