@@ -1030,7 +1030,8 @@ sudo apt-get install blender
 
 #### ◆モデリング
 立方体から、[ループカット][ナイフ][押し出し][拡大縮小][細分割曲面]などを使って手をモデリング（[.blendファイル](https://mubirou.github.io/Blender/introduction/blend/016_001_1.blend)）  
-    ![016_001_2](https://mubirou.github.io/Blender/introduction/jpg/016_001_2.jpg)
+    ![016_001_2](https://mubirou.github.io/Blender/introduction/jpg/016_001_2.jpg)  
+    ※後のウェイト調整がやりやすいようにできるだけ広がっている状態にしてモデリング
 
 #### ◆アーマチュアの作成
 1. 上記のオブジェクトを選択し[オブジェクトモード]にする
@@ -1077,7 +1078,7 @@ sudo apt-get install blender
     1. 任意のボーンを選択し[回転](#ショートカットキー)等で動かしてみる  
         ![016_001_11](https://mubirou.github.io/Blender/introduction/jpg/016_001_11.jpg)
     1. 全てのボーンを選択→[ポーズ]→[トランスフォームをクリア]→[すべて]でポーズを元に戻す
-1. XXX
+1. アーマチュア＝[ポーズモード]の状態で、オブジェクト（手型）を[ウェイトペイントモード]に変更
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
