@@ -1029,10 +1029,12 @@ sudo apt-get install blender
 ![016_001](https://mubirou.github.io/Blender/introduction/jpg/016_001_1.jpg)
 
 #### ◆モデリング
-円柱から、[ループカット][ナイフ][押し出し]などを使ってモデリング（[.blendファイル](https://mubirou.github.io/Blender/introduction/blend/016_001_1.blend)）  
+円柱から、[ループカット][ナイフ][押し出し]などを使ってモデリング  
     ![016_001_2](https://mubirou.github.io/Blender/introduction/jpg/016_001_2.jpg)  
     ※パーツ毎に作成した場合は[オブジェクト]-[統合]で1つのオブジェクトにする  
     ※後で細かいウェイト調整がやりやすいようにできるだけ広がっている状態にしてモデリング
+
+※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_001_1.blend)
 
 #### ◆アーマチュアの作成
 1. 上記のオブジェクトを選択し[オブジェクトモード]にする
