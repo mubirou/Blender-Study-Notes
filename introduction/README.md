@@ -1075,7 +1075,7 @@ sudo apt-get install blender
     1. 任意のボーンを選択し[回転](#ショートカットキー)等で動かしてみる  
         ![016_001_11](https://mubirou.github.io/Blender/introduction/jpg/016_001_11.jpg)
     1. 全てのボーンを選択→[ポーズ]→[トランスフォームをクリア]→[すべて]でポーズを元に戻す
-1. 
+1. XXX
 
     ※ここまでの参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_001_2.blend)
 
