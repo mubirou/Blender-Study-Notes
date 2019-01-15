@@ -1050,6 +1050,8 @@ sudo apt-get install blender
     ![016_001_6](https://mubirou.github.io/Blender/introduction/jpg/016_001_6.jpg)  
     ※ボーンの関節をモデルの関節に合わせます（合わせないとポーズ時に不具合が生じます）  
     ※"ルート･ボーン"が必要な場合は[アーマチュア]-[親]-[作成]-[オフセットを保持]で関連付けます  
+※ここまでの参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_001_2.blend)
+
 ----------------------------
 1. オブジェクトのメッシュ化
     1. 上記で作成したオブジェクト（手型）を選択
