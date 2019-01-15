@@ -1069,6 +1069,8 @@ sudo apt-get install blender
     1. オブジェクト（手型）→アーマチュアの順番に[Shift]キーを押しながら選択
     1. [オブジェクト]-[親]-[自動のウェイトで]-[自動のウェイトで]を選択
 
+※ここまでの参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_001_2.blend)
+
 #### ◆ウェイト設定
 1. 変形のテスト
     1. [オブジェクトモード]でアーマチュアを選択→[ポーズモード]に変更
@@ -1076,9 +1078,6 @@ sudo apt-get install blender
         ![016_001_11](https://mubirou.github.io/Blender/introduction/jpg/016_001_11.jpg)
     1. 全てのボーンを選択→[ポーズ]→[トランスフォームをクリア]→[すべて]でポーズを元に戻す
 1. XXX
-
-    ※ここまでの参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_001_2.blend)
-
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
