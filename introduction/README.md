@@ -1101,7 +1101,7 @@ sudo apt-get install blender
     （ここでは上記の[スタンドライト](#016_001)を使用します）
 1. 任意のエリアを[3Dビュー]→[ドープシート]に変更  
     ![016_002_2](https://mubirou.github.io/Blender/introduction/jpg/016_002_2.jpg)
-1.
+1. XXX
 
 
 
