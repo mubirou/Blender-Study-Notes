@@ -1081,7 +1081,7 @@ sudo apt-get install blender
         * ウェイト：0.000  
         * 強さ：1.000
     * マスクを利用する＝ペンマスク用のアイコン
-    ![016_001_10](https://mubirou.github.io/Blender/introduction/jpg/016_001_10.jpg)を使う
+    ![016_001_10](https://mubirou.github.io/Blender/introduction/jpg/016_001_10.jpg)で選択
     * [ワイヤーフレーム](#ショートカットキー)で作業するとわかりやすい  
     ![016_001_8](https://mubirou.github.io/Blender/introduction/jpg/016_001_8.jpg)  
 1. 
