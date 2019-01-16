@@ -1039,7 +1039,8 @@ sudo apt-get install blender
         * ビュー：2  
         * レンダー：2
 1. [ツール]-[シェーディング]-[スムーズ]を選択   
-    ※ここまでの参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_001_1.blend)
+
+※ここまでの参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_001_1.blend)
 
 #### ◆アーマチュアの作成
 1. 上記のオブジェクトを選択し[オブジェクトモード]にする
