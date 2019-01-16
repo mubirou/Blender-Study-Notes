@@ -1068,7 +1068,7 @@ sudo apt-get install blender
 ※ここまでの参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_001_2.blend)
 
 #### ◆ウェイト設定
-1. 変形のテスト
+1. 変形のテスト（この作業を繰り返す）
     1. [オブジェクトモード]でアーマチュアを選択→[ポーズモード]に変更
     1. 任意のボーンを選択し[回転](#ショートカットキー)等で動かしてみる
     1. 不具合を確認（一番下のボーンと土台が一緒に曲がってしまう）  
@@ -1083,7 +1083,6 @@ sudo apt-get install blender
     ![016_001_9](https://mubirou.github.io/Blender/introduction/jpg/016_001_9.jpg)で選択
     * [ワイヤーフレーム](#ショートカットキー)で作業するとわかりやすい  
     ![016_001_8](https://mubirou.github.io/Blender/introduction/jpg/016_001_8.jpg)  
-1. XXX
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
