@@ -1080,9 +1080,9 @@ sudo apt-get install blender
     * [ツール]-[ブラシ]を次の通りに設定  
         * ウェイト：0.000  
         * 強さ：1.000
-    * [ワイヤーフレーム](#ショートカットキー)で作業すること  
     * ペンマスク用のアイコン
     ![016_001_10](https://mubirou.github.io/Blender/introduction/jpg/016_001_10.jpg)を利用する  
+    * [ワイヤーフレーム](#ショートカットキー)で作業するとわかりやすい  
     ![016_001_8](https://mubirou.github.io/Blender/introduction/jpg/016_001_8.jpg)  
 1. 
 
