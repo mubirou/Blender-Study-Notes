@@ -1097,6 +1097,7 @@ sudo apt-get install blender
 
 ![016_002](https://mubirou.github.io/Blender/introduction/jpg/016_002_1.jpg)
 
+#### ◆準備
 1. アーマチュアを関連付けたオブジェクト（.blendファイル）を用意する  
     （ここでは上記の[スタンドライト](#016_001)を使用します）
 1. 任意のエリアを[3Dビュー]→[ドープシート]に変更  
@@ -1108,9 +1109,9 @@ sudo apt-get install blender
 1. 引き続き[+]ボタンを選択し、"Down.001"→"**Up**"に変更 ←3つめのポーズ名  
     3つのポーズ名（ポージングはこれから行う）が決まりました  
     ![016_002_4](https://mubirou.github.io/Blender/introduction/jpg/016_002_4.jpg)
-1. XXX
 
-
-
+#### ◆ポージング
+1. [**Down**]を選択
+1. 
 
 © 2018-2019 夢寐郎
