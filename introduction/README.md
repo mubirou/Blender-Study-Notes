@@ -1098,7 +1098,7 @@ sudo apt-get install blender
 ![016_002](https://mubirou.github.io/Blender/introduction/jpg/016_002_1.jpg)
 
 1. アーマチュアを関連付けたオブジェクト（.blendファイル）を用意する  
-    （ここでは上記の[スタンドライト](https://mubirou.github.io/Blender/introduction/blend/016_001_3.blend)を使用します）
+    （ここでは上記の[スタンドライト](#016_001)を使用します）
 1. XXX
 
 
