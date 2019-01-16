@@ -1133,5 +1133,6 @@ sudo apt-get install blender
 1. **Up**用のポージング  
     上記と同じように[**Up**]を選択してポージングを行う  
     ![016_002_7](https://mubirou.github.io/Blender/introduction/jpg/016_002_7.jpg)
+1. [**Normal**][**Down**][**Up**]と切り替えてみて、想定通りポージングが出来ているか確認する
 
 © 2018-2019 夢寐郎
