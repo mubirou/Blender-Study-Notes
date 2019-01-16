@@ -1103,7 +1103,13 @@ sudo apt-get install blender
     ![016_002_2](https://mubirou.github.io/Blender/introduction/jpg/016_002_2.jpg)
 1. 引き続き[ドープシート]→[アクション]に変更  
     ![016_002_3](https://mubirou.github.io/Blender/introduction/jpg/016_002_3.jpg)
+1. [新規]ボタンを選択し、"Action"→"**Normal**"に変更 ←1つめのポーズ名
+1. 引き続き[+]ボタンを選択し、"Normal.001"→"**Down**"に変更 ←2つめのポーズ名
+1. 引き続き[+]ボタンを選択し、"Down.001"→"**Up**"に変更 ←3つめのポーズ名  
+    3つのポーズ名（ポージングは未だ）が決まりました  
+    ![016_002_4](https://mubirou.github.io/Blender/introduction/jpg/016_002_4.jpg)
 1. XXX
+
 
 
 
