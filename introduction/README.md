@@ -1095,15 +1095,11 @@ sudo apt-get install blender
 <a name="016_002"></a>
 ### 002 スタンドライト･ポージング
 
-![016_002](https://mubirou.github.io/Blender/introduction/jpg/016_002_1.jpg)
+![016_002_1](https://mubirou.github.io/Blender/introduction/jpg/016_002_1.jpg)
 
 #### ◆準備
 1. アーマチュアを関連付けたオブジェクト（.blendファイル）を用意する  
     （ここでは上記の[スタンドライト](#016_001)を使用します）
-
-
-
-
 1. 任意のエリアを[3Dビュー]→[ドープシート]に変更  
     ![016_002_2](https://mubirou.github.io/Blender/introduction/jpg/016_002_2.jpg)
 1. 引き続き[ドープシート]→[アクション]に変更  
