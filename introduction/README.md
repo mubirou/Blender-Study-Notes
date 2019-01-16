@@ -1078,8 +1078,7 @@ sudo apt-get install blender
 1. マウスの右ボタンでボーンを選択→[ツール]-[ブラシ]で影響する範囲を修正（以下注意点）  
     * [ワイヤーフレーム](#ショートカットキー)で作業すること  
     * XXXX  
-    ![016_001_8]
-    (https://mubirou.github.io/Blender/introduction/jpg/016_001_8.jpg)
+    ![016_001_8](https://mubirou.github.io/Blender/introduction/jpg/016_001_8.jpg)  
 1. 
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
