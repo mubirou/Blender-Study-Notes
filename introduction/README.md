@@ -1108,7 +1108,7 @@ sudo apt-get install blender
 1. 引き続き[**+**]ボタンを選択し、"Normal.001"→"**Down**"に変更 ←2つめのポーズ名
 1. 引き続き[**+**]ボタンを選択し、"Down.001"→"**Up**"に変更 ←3つめのポーズ名  
     3つのポーズ名（ポージングはこれから行う）が決まりました  
-    ![016_002_4](https://mubirou.github.io/Blender/introduction/jpg/016_002_4.jpg)
+    ![016_002_4](https://mubirou.github.io/Blender/introduction/jpg/016_002_4.jpg)  
     ※この段階で各ポーズ毎に[ポーズ]-[アニメーション]-[キーフレーム挿入]-[キャラクター全体]でキーフレームを打っておくと良い
 
 #### ◆ポージング
