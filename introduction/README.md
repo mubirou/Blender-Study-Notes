@@ -1021,6 +1021,7 @@ sudo apt-get install blender
 |No.|内容|作成日|
 |:--|:--|:--:|
 |001|[スタンドライト](#016_001)|2019-01-16|
+|002|[スタンドライト･ポージング](#016_002)|2019-01-XX|
 
 
 <a name="016_001"></a>
@@ -1089,6 +1090,16 @@ sudo apt-get install blender
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
 作成日：2019年01月16日
+
+
+<a name="016_002"></a>
+### 002 スタンドライト･ポージング
+
+![016_002](https://mubirou.github.io/Blender/introduction/jpg/016_002_1.jpg)
+
+1. アーマチュアを関連付けたオブジェクト（.blendファイル）を用意する  
+    （ここでは上記の[スタンドライト](https://mubirou.github.io/Blender/introduction/blend/016_001_3.blend)を使用します）
+1. XXX
 
 
 © 2018-2019 夢寐郎
