@@ -1076,13 +1076,13 @@ sudo apt-get install blender
     1. 全てのボーンを選択→[ポーズ]→[トランスフォームをクリア]→[すべて]でポーズを元に戻す
 1. アーマチュア＝[ポーズモード]の状態で、オブジェクト（スタンドライト）を[ウェイトペイントモード]に変更
 1. マウスの右ボタンでボーンを選択→[ツール]-[ブラシ]で影響する範囲を修正（以下注意点）  
-    ![016_001_8](https://mubirou.github.io/Blender/introduction/jpg/016_001_8.jpg)  
     * [ツール]-[ブラシ]を次の通りに設定  
         * ウェイト：0.000  
         * 強さ：1.000
     * マスクを利用する＝ペンマスク用のアイコン
     ![016_001_9](https://mubirou.github.io/Blender/introduction/jpg/016_001_9.jpg)で選択
     * [ワイヤーフレーム](#ショートカットキー)で作業するとわかりやすい  
+    ![016_001_8](https://mubirou.github.io/Blender/introduction/jpg/016_001_8.jpg)  
 1. XXX
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
