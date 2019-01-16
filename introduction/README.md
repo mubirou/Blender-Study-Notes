@@ -1083,7 +1083,7 @@ sudo apt-get install blender
     * マスクを利用する＝ペンマスク用のアイコン
     ![016_001_9](https://mubirou.github.io/Blender/introduction/jpg/016_001_9.jpg)で選択
     * [ワイヤーフレーム](#ショートカットキー)で作業するとわかりやすい  
-1. 
+1. XXX
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
