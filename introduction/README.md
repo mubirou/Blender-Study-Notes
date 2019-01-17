@@ -1066,8 +1066,6 @@ sudo apt-get install blender
     1. [オブジェクト]-[親]-[自動のウェイトで]-[自動のウェイトで]を選択  
     ※親子関係を解除する場合は、オブジェクトとアーマチュアを選択した状態で、[オブジェクト]-[親]-[親子関係をクリア]を選択
 
-※ここまでの参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_001_2.blend)
-
 #### ◆ウェイトの調整（オプション）
 1. 変形のテスト
     1. [オブジェクトモード]でアーマチュアを選択→[ポーズモード]に変更
@@ -1085,7 +1083,7 @@ sudo apt-get install blender
     * [ワイヤーフレーム](#ショートカットキー)で作業するとわかりやすい  
     ![016_001_8](https://mubirou.github.io/Blender/introduction/jpg/016_001_8.jpg)  
 
-※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_001_3.blend)
+※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_001_2.blend)
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
