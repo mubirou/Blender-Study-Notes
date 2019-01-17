@@ -1133,7 +1133,7 @@ sudo apt-get install blender
 
 #### ◆Unityでの利用
 1. [ファイル]-[エクスポート]-[FBX（.fbx）]を選択し出力（出力の設定はデフォルト）
-1. 続きは[こちら](https://github.com/mubirou/Unity/tree/master/introduction#017)
+1. 続きは[こちら](https://github.com/mubirou/Unity/tree/master/introduction#016)と同じように処理します
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
