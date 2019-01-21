@@ -1185,6 +1185,12 @@ sudo apt-get install blender
     * Z：**0**°
 …上記の通りになっていればエクスポートの準備完了
 
+#### ◆FBXエクスポート
+
+1. [ファイル]-[エクスポート]-[FBX（.fbx）]を選択
+1. [FBXをエクスポート]設定で[アーマチュア][メッシュ]のみ選択
+1. 続きは[こちら](https://github.com/mubirou/Unity/tree/master/introduction#016)と同じように作業します
+
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
 作成日：2019年01月XX日
