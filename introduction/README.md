@@ -1134,8 +1134,7 @@ sudo apt-get install blender
 
 #### ◆Unityでの利用
 1. [ファイル]-[エクスポート]-[FBX（.fbx）]を選択
-1. [FBXをエクスポート]設定は次の通り  
-    * [アーマチュア][メッシュ]のみ選択
+1. [FBXをエクスポート]の設定で[アーマチュア][メッシュ]のみ選択
 1. 続きは[こちら](https://github.com/mubirou/Unity/tree/master/introduction#016)と同じように作業します
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
