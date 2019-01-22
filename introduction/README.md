@@ -1173,9 +1173,9 @@ sudo apt-get install blender
 #### ◆FBXエクスポートの準備③
 
 1. [オブジェクト]を選択（オブジェクトモード）  
-    ※[回転]のXの値が-90°になっているのを確認
+    ※[回転]のXの値が **-90**° になっているのを確認
 1. [オブジェクト]-[適用]-[回転]を選択  
-    ※上記のXの値が0°になる
+    ※上記のXの値が **0**° になる
 
 #### ◆FBXエクスポートの最終確認
 
@@ -1188,12 +1188,16 @@ sudo apt-get install blender
     * X：**0**°
     * Y：**0**°
     * Z：**0**°
-…上記の通りになっていればエクスポートの準備完了
+…上記の通りになっていればエクスポートの準備完了  
+
+※ここまでの参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_003_1.blend)  
 
 #### ◆FBXエクスポート
 
 1. [ファイル]-[エクスポート]-[FBX（.fbx）]を選択
 1. [FBXをエクスポート]設定で[アーマチュア][メッシュ]のみ選択
+
+※ここまでの参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_003_2.blend)  
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
