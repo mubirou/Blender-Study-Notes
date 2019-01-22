@@ -1147,7 +1147,7 @@ sudo apt-get install blender
     ![016_003_1](https://mubirou.github.io/Blender/introduction/jpg/016_003_1.jpg)
 1. つま先もボーンをつける  
     ![016_003_3](https://mubirou.github.io/Blender/introduction/jpg/016_003_3.jpg)
-1. Unityの[Humanoid]に合わせてボーン名を変更する  
+1. Unityの[Humanoid]に合わせてボーン名を変更する（ボーン名は次の通り）  
     [Hips]-[Spine]-[Chest]-[UpperChest]-[Neck]-[Head]  
     ...[Shoulder.L]-[UpperArm.L]-[LowerArm.L]-[Hand.L]  
     ...[Shoulder.R]-[UpperArm.R]-[LowerArm.R]-[Hand.R]  
@@ -1156,7 +1156,7 @@ sudo apt-get install blender
     ![016_003_2](https://mubirou.github.io/Blender/introduction/jpg/016_003_2.jpg)
 * 注意点
     * ボーンの作成は[Hips]から行う
-    * [UpperLeg.L]→[Hips]の順序で選択後→[アーマチュア]-[親]-[作成]-[オフセットを保持]して足と尻をペアリングする
+    * [UpperLeg.L]→[Hips]の順序で選択後、[アーマチュア]-[親]-[作成]-[オフセットを保持]してペアリングする
 
 #### ◆FBXエクスポートの準備①
 
