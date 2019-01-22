@@ -1022,7 +1022,7 @@ sudo apt-get install blender
 |:--|:--|:--:|
 |001|[スタンドライト（モデリング〜アーマチュアの設定）](#016_001)|2019-01-16|
 |002|[スタンドライト（ポージング〜FBX出力）](#016_002)|2019-01-17|
-|003|[XXX](#016_003)|2019-01-XX|
+|003|[Unity Humanoid用モデリング](#016_003)|2019-01-22|
 
 
 <a name="016_001"></a>
@@ -1139,9 +1139,14 @@ sudo apt-get install blender
 
 
 <a name="016_003"></a>
-### 003 XXXX
+### 003 Unity Humanoid用モデリング
 
-#### ◆XXXXXX
+#### ◆モデリングとアーマチュアの関連付け
+
+1. オブジェクトとアーマチュアを関連付ける  
+    ![016_003_1](https://mubirou.github.io/Blender/introduction/jpg/016_003_1.jpg)
+1. Unityの[Humanoid]に合わせてボーン名を変更する  
+    ![016_003_2](https://mubirou.github.io/Blender/introduction/jpg/016_003_2.jpg)
 
 #### ◆FBXエクスポートの準備①
 
@@ -1192,7 +1197,7 @@ sudo apt-get install blender
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
-作成日：2019年01月XX日
+作成日：2019年01月22日
 
 
 © 2018-2019 夢寐郎
