@@ -1130,7 +1130,7 @@ sudo apt-get install blender
     ![016_002_7](https://mubirou.github.io/Blender/introduction/jpg/016_002_7.jpg)
 1. [**Normal**][**Down**][**Up**]と切り替えてみて、想定通りポージングが出来ているか確認する
 
-※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_002.blend)
+※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_002.blend)  
 ※Unityでの作業は[こちら](https://github.com/mubirou/Unity/tree/master/introduction#016)を参考
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
