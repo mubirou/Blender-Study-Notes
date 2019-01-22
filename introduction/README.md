@@ -1131,12 +1131,7 @@ sudo apt-get install blender
 1. [**Normal**][**Down**][**Up**]と切り替えてみて、想定通りポージングが出来ているか確認する
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_002.blend)
-
-#### ◆Unityでの利用
-1. [ファイル]-[エクスポート]-[FBX（.fbx）]を選択
-1. [FBXをエクスポート]設定で[アーマチュア][メッシュ][その他]のみ選択
-1. 続きは[こちら](https://github.com/mubirou/Unity/tree/master/introduction#016)と同じように作業します
-
+※Unityでの作業は[こちら](https://github.com/mubirou/Unity/tree/master/introduction#016)を参考
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
 作成日：2019年01月17日
