@@ -1197,7 +1197,7 @@ sudo apt-get install blender
 1. [ファイル]-[エクスポート]-[FBX（.fbx）]を選択
 1. [FBXをエクスポート]設定で[アーマチュア][メッシュ]のみ選択
 
-※ここまでの参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_003_2.blend)  
+※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/016_003_2.blend)  
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
