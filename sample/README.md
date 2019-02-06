@@ -15,6 +15,8 @@
 
 ![sample001_01](https://mubirou.github.io/Blender/sample/jpg/sample001_01.jpg)
 
+* 最終フレーム（22）と最初のフレーム（1）は同じポーズにする
+
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
 作成日：2019年0X月XX日
