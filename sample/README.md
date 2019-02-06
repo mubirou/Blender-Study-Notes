@@ -12,13 +12,9 @@
 ### 001 キャラクター（9ポーズ）
 
 ![sample001_04](https://mubirou.github.io/Blender/sample/jpg/sample001_04.jpg)  
-
 ![sample001_05](https://mubirou.github.io/Blender/sample/jpg/sample001_05.jpg)  
-
 ![sample001_01](https://mubirou.github.io/Blender/sample/jpg/sample001_01.jpg)  
-
 ![sample001_02](https://mubirou.github.io/Blender/sample/jpg/sample001_02.jpg)  
-
 ![sample001_03](https://mubirou.github.io/Blender/sample/jpg/sample001_03.jpg)  
 
 * 最初のフレーム（1）と最終フレーム（21）は同じポーズにする
@@ -27,6 +23,7 @@
 * 「JUMP」の場合、着地時のクッションを加える
 * IK（インバース･キネマティクス）は足のみ設定（ポーズの設定が楽になるだけ）
 
+![sample001_07](https://mubirou.github.io/Blender/sample/jpg/sample001_07.jpg)  
 ![sample001_06](https://mubirou.github.io/Blender/sample/jpg/sample001_06.jpg)  
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
