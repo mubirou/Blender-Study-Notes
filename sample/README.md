@@ -11,7 +11,7 @@
 <a name="001"></a>
 ### 001 キャラクター（9ポーズ）
 
-#### ◆XXXXX
+#### ◆ドープシート
 
 ![sample001_01](https://mubirou.github.io/Blender/sample/jpg/sample001_01.jpg)
 
