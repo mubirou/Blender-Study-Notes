@@ -20,9 +20,9 @@
 * 最初のフレーム（1）と最終フレーム（21）は同じポーズにする
 * 再生するフレームは開始（1）〜最終フレーム（21）-1 にする
 
-#### ◆ドープシート
+#### ◆ポーズ
 
-* XXX
+![sample001_03](https://mubirou.github.io/Blender/sample/jpg/sample001_03.jpg)  
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
