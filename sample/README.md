@@ -26,6 +26,8 @@
 * 「RUN」の場合、6〜11フレームと16〜21フレームの間は少し上方にジャンプさせる
 * 「JUMP」の場合、着地時のクッションを加える
 
+![sample001_06](https://mubirou.github.io/Blender/sample/jpg/sample001_06.jpg)  
+
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
 作成日：2019年0X月XX日
