@@ -15,16 +15,14 @@
 
 ![sample001_01](https://mubirou.github.io/Blender/sample/jpg/sample001_01.jpg)
 
-![sample001_02](https://mubirou.github.io/Blender/sample/jpg/sample001_02.jpg)  
-
 * 最初のフレーム（1）と最終フレーム（21）は同じポーズにする
 * 再生するフレームは開始（1）〜最終フレーム（21）-1 にする
 
-#### ◆ポーズ
+![sample001_02](https://mubirou.github.io/Blender/sample/jpg/sample001_02.jpg)  
 
 ![sample001_03](https://mubirou.github.io/Blender/sample/jpg/sample001_03.jpg)  
 
-* 6〜11フレームと16〜21フレームの間は少し上方にジャンプさせる
+* 「RUN」の場合、6〜11フレームと16〜21フレームの間は少し上方にジャンプさせる
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
