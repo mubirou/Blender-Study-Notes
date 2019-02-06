@@ -15,10 +15,10 @@
 
 ![sample001_01](https://mubirou.github.io/Blender/sample/jpg/sample001_01.jpg)
 
+![sample001_02](https://mubirou.github.io/Blender/sample/jpg/sample001_02.jpg)
+
 * 最初のフレーム（1）と最終フレーム（21）は同じポーズにする
 * 再生するフレームは開始（1）〜最終フレーム（21）-1 にする
-
-![sample001_02](https://mubirou.github.io/Blender/sample/jpg/sample001_02.jpg)
 
 * XXX
 
