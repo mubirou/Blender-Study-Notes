@@ -24,6 +24,8 @@
 
 ![sample001_03](https://mubirou.github.io/Blender/sample/jpg/sample001_03.jpg)  
 
+* 6〜11フレームと16〜21フレームの間は少し上方にジャンプさせる
+
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
 作成日：2019年0X月XX日
