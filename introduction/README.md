@@ -50,6 +50,7 @@ sudo apt-get install blender
 
 ### 参考：Blender 2.8 Betaの場合
 1. https://www.blender.org/ にアクセス
+1. [Get Blender 2.80-beta] をクリック
 1. [Download Blender 2.8 Beta] をクリック
 1. [2.80 Beta Linux 64bit] を選択→ダウンロード開始
 1. ダウンロードされた圧縮ファイルを解凍→展開
