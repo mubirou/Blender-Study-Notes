@@ -63,7 +63,7 @@ sudo apt-get install blender
         * NewData（新規データ）：✔
     1. 引き続き [Text Renderring] のフォントを次の通りにする（任意）
         * Interface Font（UI用フォント）：/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc
-        * Mono-space Font（等幅フォント）：/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc
+        * Mono-space Font（等幅フォント）：（空白）←設定によりPythonコンソールで不具合が生じる
 
 実行環境：Blender 2.79b、Ubuntu 18.04.1 LTS  
 作成者：夢寐郎  
