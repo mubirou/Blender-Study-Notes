@@ -48,7 +48,7 @@ sudo apt-get install blender
 1. [Translate] の [Interface]、[Tooltips]、[new Data] を選択。
 1. [ユーザー設定の保存] ボタンを押す
 
-### 参考：Blender 2.8 Betaの場合
+### 参考：Blender 2.80 Betaの場合
 1. https://www.blender.org/ にアクセス
 1. [Get Blender 2.80-beta] をクリック
 1. [Download Blender 2.8 Beta] をクリック
