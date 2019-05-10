@@ -1,7 +1,8 @@
 # Blender 入門
 
 * 制作環境 : Blender 2.79b 以降 / Ubuntu 16.04.4 LTS 以降
-* .blend ファイルを開くには [Blender](https://www.blender.org/) が必要です。
+* .blend ファイルを開くには [Blender](https://www.blender.org/) が必要です
+* サンプル画像は異なるバージョンで制作されたものが混在しています
 
 ### <b>INDEX</b>
 
