@@ -993,17 +993,19 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 #### ◆ドロー系ソフトからの読み込み
 1. [Inkscape](https://github.com/mubirou/Inkscape)などで額縁の断面を[作成](https://mubirou.github.io/Blender/introduction/svg/frameDesign.svg)（プレーンSVGファイル）
 1. 同様に額縁のサイズとなる矩形を[作成](https://mubirou.github.io/Blender/introduction/svg/frameSize.svg)（プレーンSVGファイル）
-1. Blender上で[ファイル]-[インポート]-[ScalableVectorGraphics（.svg）]から上記の.svgファイルをインポート
-1. [編集モード]に変更して位置やサイズを調整
-1. [オブジェクトモード]に変更して[プロパティエディタ]-
+1. Blender上で[ファイル]-[インポート]-[ScalableVectorGraphics（.svg）]から上記の2つの.svgファイルをインポート
+1. [オブジェクトモード]に変更して、フレームの枠のオブジェクトを選択
+1. 右側のアイコンタブ群から
 ![014_011_3](https://mubirou.github.io/Blender/introduction/jpg/014_011_3.jpg)
-で[ベベルオブジェクト]を上記の額縁の断面のオブジェクトにする
+を選択→[ジオメトリ]→[ベベル]→[オブジェクト]を上記の額縁の断面のオブジェクトにする
+1. [シーンコレクション]から[frameSize.svg]や[frameDesign.svg]を選択し、[拡大縮小]するなどして調整
 
 ※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/blend/015_003.blend)
 
-実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
+実行環境：Blender 2.80 Beta、Ubuntu 18.04.2 LTS  
 作成者：夢寐郎  
-作成日：2019年01月08日
+作成日：2019年01月08日  
+更新日：2019年05月16日 Ver.2.80 対応
 
 
 <a name="015_004"></a>
