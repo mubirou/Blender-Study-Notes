@@ -994,7 +994,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. [Inkscape](https://github.com/mubirou/Inkscape)などで額縁の断面を[作成](https://mubirou.github.io/Blender/introduction/svg/frameDesign.svg)（プレーンSVGファイル）
 1. 同様に額縁のサイズとなる矩形を[作成](https://mubirou.github.io/Blender/introduction/svg/frameSize.svg)（プレーンSVGファイル）
 1. Blender上で[ファイル]-[インポート]-[ScalableVectorGraphics（.svg）]から上記の2つの.svgファイルをインポート
-1. [オブジェクトモード]に変更して、フレームの枠のオブジェクトを選択
+1. [オブジェクトモード]に変更して、フレームの枠（frameSize.svg）のオブジェクトを選択
 1. 右側のアイコンタブ群から
 ![014_011_3](https://mubirou.github.io/Blender/introduction/jpg/014_011_3.jpg)
 を選択→[ジオメトリ]→[ベベル]→[オブジェクト]を上記の額縁の断面のオブジェクトにする
