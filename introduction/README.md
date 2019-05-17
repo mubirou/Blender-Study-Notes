@@ -1042,7 +1042,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 
 ※Unityで利用する場合は.fbxファイルでエクスポートし、テクスチャ（.png）と一緒に（相対的階層を維持したまま）Unityプロジェクトの[Assets]フォルダに保存して下さい
 
-※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/015_004.zip)
+※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/015_004.zip)  
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
@@ -1093,7 +1093,9 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 
 ※Unityで利用する場合は.fbxファイルの他、テクスチャ（.png）も必要です
 
-※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/015_005.zip)
+※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/015_005.zip)  
+
+※実践例（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/015_005_2.zip)  
 
 実行環境：Blender 2.80 Beta、Ubuntu 18.04.2 LTS  
 作成者：夢寐郎  
