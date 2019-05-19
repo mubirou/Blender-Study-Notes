@@ -1093,9 +1093,9 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 
 ※Unityで利用する場合は.fbxファイルの他、テクスチャ（.png）も必要です
 
-※参考ファイル（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/015_005.zip)  
+※参考ファイル（.blend）を[ダウンロード](https://mubirou.github.io/Blender/introduction/zip/015_005.zip)  
 
-※実践例（.blend）は[こちら](https://mubirou.github.io/Blender/introduction/zip/015_005_2.zip)  
+※実践例（.blend）を[ダウンロード](https://mubirou.github.io/Blender/introduction/zip/015_005_2.zip)  
 
 実行環境：Blender 2.80 Beta、Ubuntu 18.04.2 LTS  
 作成者：夢寐郎  
