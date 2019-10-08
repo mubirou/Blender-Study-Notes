@@ -51,25 +51,23 @@ sudo apt-get install blender
 
 ### 参考：Blender 2.80 Betaの場合
 1. https://www.blender.org/ にアクセス
-1. [Get Blender 2.80-beta] をクリック
-1. [Download Blender 2.8 Beta] をクリック
-1. [2.80 Beta Linux 64bit] を選択→ダウンロード開始
-1. ダウンロードされた圧縮ファイルを解凍→展開
-1. 展開したフォルダ内の[blender]アイコンをダブルクリック→起動
-1. [日本語化] する
-    1. [Edit]-[Preferences]-[Interface]-[Translation] を次の通りに設定
-        * Language（言語）：Japanese（日本語）
-        * Tooltips（ツールチップ）：✔
-        * Interface（インターフェイス）：✔
-        * NewData（新規データ）：✔
-    1. 引き続き [Text Renderring] のフォントを次の通りにする（任意）
-        * Interface Font（UI用フォント）：/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc
-        * Mono-space Font（等幅フォント）：（空白）←設定によってはPythonコンソールで不具合が生じる
+1. [Download Blender 2.80] → [Download Blender 2.80] を選択→ダウンロード開始
+1. ダウンロードされた圧縮ファイル（XXX.tar.bz2）を解凍→展開
+1. 展開したフォルダ内の [blender] アイコンをダブルクリック→起動
+1. 設定の確認
+    1. [編集]-[プリファレンス]-[インターフェイス]-[翻訳] を次の通りに設定
+        * 言語：日本語（Japanese）
+        * ツールチップ：✔
+        * インターフェイス：✔
+        * 新規データ：✔
+    1. 引き続き [テキストレンダリング] のフォントを次の通りにする（任意）
+        * UI用フォント：/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc
+        * 等幅フォント：（空白）←設定によってはPythonコンソールで不具合が生じる（要調査）
 
-実行環境：Blender 2.79b / 2.80 Beta、Ubuntu 18.04.X LTS  
+実行環境：Blender 2.79b / 2.80、Ubuntu 18.04.3 LTS  
 作成者：夢寐郎  
 作成日：2018年04月18日  
-更新日：2019年03月09日 Ver.2.80 対応
+更新日：2019年10月08日 Ver.2.80 対応
 
 
 <a name="プリミティブ"></a>
