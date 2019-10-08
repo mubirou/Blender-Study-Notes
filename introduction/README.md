@@ -30,26 +30,6 @@
 <a name="インストール"></a>
 # <b>001 インストール</b>
 
-### 概要
-「Ubuntuソフトウェア」からインストールしたBlenderはバージョンが古い上、日本語化すると文字化けするため、以下の方法でインストールを行います。
-
-### Blenderのインストール
-端末を起動し、次の通りの処理を行います。
-```
-sudo add-apt-repository ppa:thomas-schiex/blender
-sudo apt-get update
-sudo apt-get install blender
-```
-
-### Blenderの日本語化
-1. [File]-[User Preferences...] を開く。
-1. [System]-[International Fonts] を [✔]。
-1. [Languages] を [Japanes(日本語)] に変更。
-1. […Font] を "/usr/share/fonts/opentype/noto/**Noto**SansCJK-Regular.ttc" に指定
-1. [Translate] の [Interface]、[Tooltips]、[new Data] を選択。
-1. [ユーザー設定の保存] ボタンを押す
-
-### 参考：Blender 2.80 Betaの場合
 1. https://www.blender.org/ にアクセス
 1. [Download Blender 2.80] → [Download Blender 2.80] を選択→ダウンロード開始
 1. ダウンロードされた圧縮ファイル（XXX.tar.bz2）を解凍→展開
@@ -64,7 +44,7 @@ sudo apt-get install blender
         * UI用フォント：/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc
         * 等幅フォント：（空白）←設定によってはPythonコンソールで不具合が生じる（要調査）
 
-実行環境：Blender 2.79b / 2.80、Ubuntu 18.04.3 LTS  
+実行環境：Blender 2.80、Ubuntu 18.04.3 LTS  
 作成者：夢寐郎  
 作成日：2018年04月18日  
 更新日：2019年10月08日 Ver.2.80 対応
