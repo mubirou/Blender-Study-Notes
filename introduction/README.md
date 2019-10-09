@@ -820,10 +820,10 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 
 ※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/014_011.blend)
 
-実行環境：Blender 2.80 Beta、Ubuntu 18.04.2 LTS  
+実行環境：Blender 2.80、Ubuntu 18.04.3 LTS  
 作成者：夢寐郎  
 作成日：2018年12月27日  
-更新日：2019年05月11日 Ver.2.80 対応
+更新日：2019年10月09日 Ver.2.80 対応
 
 
 <a name="014_012"></a>
