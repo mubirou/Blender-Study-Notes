@@ -31,12 +31,12 @@
 # <b>001 インストール</b>
 
 1. https://www.blender.org/ にアクセス
-1. [Download Blender 2.80] → [Download Blender 2.80] を選択→ダウンロード開始
-1. ダウンロードされた圧縮ファイル（XXX.tar.bz2）を解凍→展開
+1. [Download Blender 2.83] → [Download Blender 2.83] を選択→ダウンロード開始
+1. ダウンロードされた圧縮ファイル（XXX-linux64.tar.xz）を解凍→展開
 1. 展開したフォルダ内の [blender] アイコンをダブルクリック→起動
 1. 設定の確認
-    1. [編集]-[プリファレンス]-[インターフェイス]-[翻訳] を次の通りに設定
-        * 言語：日本語（Japanese）
+    1. [Edit]-[Preferences]-[Interface]-[Translation] を次の通りに設定
+        * Language：Japanese（日本語）
         * ツールチップ：✔
         * インターフェイス：✔
         * 新規データ：✔
@@ -44,10 +44,10 @@
         * UI用フォント：/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc
         * 等幅フォント：（空白）←設定によってはPythonコンソールで不具合が生じる（要調査）
 
-実行環境：Blender 2.80、Ubuntu 18.04.3 LTS  
+実行環境：Blender 2.83、Ubuntu 18.04.4 LTS  
 作成者：夢寐郎  
 作成日：2018年04月18日  
-更新日：2019年10月08日 Ver.2.80 対応
+更新日：2020年06月04日 Ver.2.83 対応
 
 
 <a name="プリミティブ"></a>
