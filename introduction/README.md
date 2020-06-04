@@ -34,7 +34,7 @@
 1. [Download Blender 2.83] → [Download Blender 2.83] を選択→ダウンロード開始
 1. ダウンロードされた圧縮ファイル（XXX-linux64.tar.xz）を解凍→展開
 1. 展開したフォルダ内の [blender] アイコンをダブルクリック→起動
-1. 設定の確認
+1. 設定の変更
     1. [Edit]-[Preferences]-[Interface]-[Translation] を次の通りに設定
         * Language：Japanese（日本語）
         * ツールチップ：✔
@@ -43,11 +43,12 @@
     1. 引き続き [テキストレンダリング] のフォントを次の通りにする（任意）
         * UI用フォント：/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc
         * 等幅フォント：（空白）←設定によってはPythonコンソールで不具合が生じる（要調査）
+    1. [Blenberプリファレンス] 画面の左したの [≡]→[プリファレンスを保存] で設定を保存
 
-実行環境：Blender 2.83、Ubuntu 18.04.4 LTS  
+実行環境：Blender 2.83.0、Ubuntu 18.04.4 LTS  
 作成者：夢寐郎  
 作成日：2018年04月18日  
-更新日：2020年06月04日 Ver.2.83 対応
+更新日：2020年06月04日 Ver.2.83.0 対応
 
 
 <a name="プリミティブ"></a>
