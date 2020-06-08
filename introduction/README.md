@@ -884,7 +884,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 |:--|:--|:--:|
 |001|[ブロック（エッジの超シャープ化と配列複製）](#015_001)|2020-06-08|
 |002|[ワイングラス](#015_002)|2020-06-08|
-|003|[額縁](#015_003)|2019-05-16|
+|003|[額縁](#015_003)|2020-06-08|
 |004|[窓（正確なUVマッピング）](#015_004)|2019-01-09|
 |005|[サイコロ](#015_005)|2019-05-15|
 
@@ -978,7 +978,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. [Inkscape](https://github.com/mubirou/Inkscape)などで額縁の断面を[作成](https://mubirou.github.io/Blender/introduction/svg/frameDesign.svg)（プレーンSVGファイル）
 1. 同様に額縁のサイズとなる矩形を[作成](https://mubirou.github.io/Blender/introduction/svg/frameSize.svg)（プレーンSVGファイル）
 1. Blender上で[ファイル]-[インポート]-[ScalableVectorGraphics（.svg）]から上記の2つの.svgファイルをインポート
-1. [オブジェクトモード]に変更して、フレームの枠（frameSize.svg）のオブジェクトを選択
+1. [オブジェクトモード]でフレームの枠（frameSize.svg）のオブジェクトを選択
 1. 右側のアイコンタブ群から
 ![014_011_3](https://mubirou.github.io/Blender/introduction/jpg/014_011_3.jpg)
 を選択→[ジオメトリ]→[ベベル]→[オブジェクト]を上記の額縁の断面のオブジェクトにする
@@ -986,10 +986,10 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 
 ※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/015_003.blend)
 
-実行環境：Blender 2.80 Beta、Ubuntu 18.04.2 LTS  
+実行環境：Blender 2.83.0、Ubuntu 18.04.4 LTS  
 作成者：夢寐郎  
 作成日：2019年01月08日  
-更新日：2019年05月16日 Ver.2.80 対応
+更新日：2020年06月08日 Ver.2.83.0 対応
 
 
 <a name="015_004"></a>
