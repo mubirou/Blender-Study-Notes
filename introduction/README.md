@@ -1055,8 +1055,6 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. [UVエディタ]画面で範囲の変更や角度を調整します  
 1. [割り当て]を選択 ←重要 
 
-![015_005_5](https://mubirou.github.io/Blender/introduction/jpg/015_005_5.jpg) 
-
 ※Unityで利用する場合は.fbxファイルの他、テクスチャ（.png）も必要です
 
 ※参考ファイル（.blend）を[ダウンロード](https://mubirou.github.io/Blender/introduction/zip/015_005.zip)  
