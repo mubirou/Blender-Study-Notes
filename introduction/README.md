@@ -760,7 +760,8 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 
 ※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/zip/014_009.zip)
 
-実行環境：Blender 2.83.0、Ubuntu 18.04.4 LTS  
+参考：[3DCG暮らし](https://tohawork.com/blueprint)  
+実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows 10）  
 作成者：夢寐郎  
 作成日：2018年12月26日  
 更新日：2020年06月08日 Ver.2.83.0 対応  
