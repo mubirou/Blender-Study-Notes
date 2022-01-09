@@ -754,7 +754,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 
 ※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/zip/014_009.zip)
 
-参考：[3DCG暮らし（三面図）](https://tohawork.com/blueprint)  
+参考サイト：[3DCG暮らし](https://tohawork.com/blueprint)  
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows 10）  
 作成者：夢寐郎  
 作成日：2018年12月26日  
