@@ -754,7 +754,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
     * クリッピング：✔ ←鏡像との境界からメッシュがはみ出ないようになる
 
 ※参考ファイル：[上記キャラ](https://mubirou.github.io/Blender/introduction/zip/014_009.zip)   
-※参考ファイル：[女子キャラ](https://mubirou.github.io/Blender/introduction/blend/014_009_2.blend)
+※参考ファイル：[女子キャラ](https://mubirou.github.io/Blender/introduction/zip/014_009_2.zip)
 
 参考サイト：[3DCG暮らし](https://tohawork.com/blueprint)  
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows 10）  
