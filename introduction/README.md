@@ -749,17 +749,18 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. 下絵を参考にモデリング
 1. モデリング途中の[編集モード]でスパナアイコン
     ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
-    -[モデファイアーを追加]-[ミラー]を選択し各種設定
+    -[モデファイアーを追加]-[生成]-[ミラー]を選択し各種設定
     * 軸：X
     * クリッピング：✔ ←鏡像との境界からメッシュがはみ出ないようになる
 
-※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/zip/014_009.zip)
+※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/zip/014_009.zip)   
+[女子キャラ](https://mubirou.github.io/Blender/introduction/blend/014_009_2.blend)
 
 参考サイト：[3DCG暮らし](https://tohawork.com/blueprint)  
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows 10）  
 作成者：夢寐郎  
 作成日：2018年12月26日  
-更新日：2020年06月08日 Ver.2.83.0 対応  
+更新日：2022年01月15日 女子キャラ追加    
 [[テクニックヒント1 TOP](#テクニック･ヒント1)]
 
 
