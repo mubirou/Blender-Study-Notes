@@ -976,6 +976,8 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
     -[モディファイアーを追加]-[生成]-[スクリュー]→各種設定  
         * 座標軸：Y  
 
+1. [パイプ](#014_011)同様、厚みをつけてもよい（オプション）  
+
 ※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/015_002.blend)
 
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows 10）  
