@@ -1001,6 +1001,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 ![014_011_3](https://mubirou.github.io/Blender/introduction/jpg/014_011_3.jpg)
 を選択→[ジオメトリ]→[ベベル]→[オブジェクト]を上記の額縁の断面のオブジェクトにする
 1. [シーンコレクション]から[frameSize.svg]や[frameDesign.svg]を選択し、[拡大縮小]するなどして調整
+1. [オブジェクトモード]にして[オブジェクト]-[メッシュ]にすると[編集モード]で修正可能になる
 
 ※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/015_003.blend)
 
