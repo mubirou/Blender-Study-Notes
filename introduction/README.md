@@ -1019,6 +1019,8 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 
 ![015_004_1](https://mubirou.github.io/Blender/introduction/jpg/015_004_1.jpg)
 
+（注意）特定の面のみテクスチャ画像を貼りたい場合、ほかの全ての面にも何らかの（単色でも可）マテリアルを割り当てる必要があります。  
+
 #### テクスチャの用意
 1. テクスチャを用意（[window.png](https://mubirou.github.io/Blender/introduction/png/window.png)）  
     ※テクスチャは[textures.com](https://www.textures.com/)を利用するとよいでしょう
