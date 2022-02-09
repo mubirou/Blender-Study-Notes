@@ -1085,7 +1085,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 
 ※実践例（.blend）を[ダウンロード](https://mubirou.github.io/Blender/introduction/zip/015_005_2.zip)  
 
-実行環境：Blender 2.83.0、Ubuntu 18.04.4 LTS  
+実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows 10）  
 作成者：夢寐郎  
 作成日：2019年01月09日  
 更新日：2022年02月09日 Ver.3.0.0 対応  
