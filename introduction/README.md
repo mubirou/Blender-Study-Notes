@@ -757,6 +757,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 ※参考ファイル：[女子キャラ](https://mubirou.github.io/Blender/introduction/zip/014_009_2.zip)
 
 参考サイト：[3DCG暮らし](https://tohawork.com/blueprint)  
+参考サイト：[無料設計図](https://drawingdatabase.com/)  
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows 10）  
 作成者：夢寐郎  
 作成日：2018年12月26日  
