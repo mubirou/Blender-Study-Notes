@@ -26,6 +26,7 @@
 |**014**|[テクニック･ヒント1](#テクニック･ヒント1)|参考：[『Blender モデリング･マスター』](#『モデリングマスター』)|[●](#テクニック･ヒント1)|[●](https://amzn.to/2A2595W)|
 |**015**|[テクニック･ヒント2](#テクニック･ヒント2)|参考：[『Blender CGイラストテクニック』](#『CGイラストテクニック』)|[●](#テクニック･ヒント2)|[●](https://amzn.to/2HUNroF)|
 |016|[テクニック･ヒント3](#テクニック･ヒント3)|参考：アニメーション関連書籍（[●](#『はじめてのBlender』)[●](#『ブレンダーからはじめよう!』)）|[●](#テクニック･ヒント3)|[●](https://amzn.to/2JiTi70)[●](https://amzn.to/2vzog2t)|
+|017|[VR](#VR)|QuestでVR|－|－|
 ***
 
 
@@ -1298,7 +1299,18 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
-作成日：2019年01月22日
+作成日：2019年01月22日  
+
+<a name="VR"></a>
+# <b>017 VR</b>
+
+1. [Oculus Link](https://github.com/mubirou/Unity3D/tree/master/study-notes#oculus-link%E3%81%AE%E6%BA%96%E5%82%99) の準備
+1. XX
+
+参考：[YouTube](https://www.youtube.com/watch?v=V6twUh5qMr8)  
+実行環境：Blender 3.2.0、Windows 10、Meta Quest 40.0、Oculusアプリ  
+作成者：夢寐郎  
+作成日：20XX年XX月XX日  
 
 
 © 2018-2022 夢寐郎
