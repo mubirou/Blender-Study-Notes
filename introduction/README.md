@@ -26,7 +26,7 @@
 |**014**|[テクニック･ヒント1](#テクニック･ヒント1)|参考：[『Blender モデリング･マスター』](#『モデリングマスター』)|[●](#テクニック･ヒント1)|[●](https://amzn.to/2A2595W)|
 |**015**|[テクニック･ヒント2](#テクニック･ヒント2)|参考：[『Blender CGイラストテクニック』](#『CGイラストテクニック』)|[●](#テクニック･ヒント2)|[●](https://amzn.to/2HUNroF)|
 |016|[テクニック･ヒント3](#テクニック･ヒント3)|参考：アニメーション関連書籍（[●](#『はじめてのBlender』)[●](#『ブレンダーからはじめよう!』)）|[●](#テクニック･ヒント3)|[●](https://amzn.to/2JiTi70)[●](https://amzn.to/2vzog2t)|
-|017|[VR](#VR)|QuestでVR|－|－|
+|017|[QuestでVR再生](#QuestVR)|QuestでVR|－|－|
 ***
 
 
@@ -1301,8 +1301,8 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 作成者：夢寐郎  
 作成日：2019年01月22日  
 
-<a name="VR"></a>
-# <b>017 VR</b>
+<a name="QuestVR"></a>
+# <b>017 QuestでVR再生</b>
 
 1. [Oculus Link](https://github.com/mubirou/Unity3D/tree/master/study-notes#oculus-link%E3%81%AE%E6%BA%96%E5%82%99) の準備をする
 1. [モデリング](https://github.com/mubirou/Blender/tree/master/introduction#014-%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%83%92%E3%83%B3%E3%83%881)を行う
