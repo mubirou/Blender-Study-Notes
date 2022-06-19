@@ -1305,7 +1305,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 # <b>017 VR</b>
 
 1. [Oculus Link](https://github.com/mubirou/Unity3D/tree/master/study-notes#oculus-link%E3%81%AE%E6%BA%96%E5%82%99) の準備
-1. [Blender]-[編集]-[プレファレンス]-[アドオン]-[🔎"VR"]
+1. [Blender]-[編集]-[プレファレンス]-[アドオン]-[🔎"VR"]-[**✓ 3D View: VR Scene Inspection**]
 
 参考：[YouTube](https://www.youtube.com/watch?v=V6twUh5qMr8)  
 実行環境：Blender 3.2.0、Windows 10、Meta Quest 40.0、Oculusアプリ  
