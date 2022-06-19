@@ -1318,7 +1318,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
     * 左右の中指トリガー：拡大縮小
     * レイキャスト選択：ジャンプ
 
-参考：[YouTube](https://www.youtube.com/watch?v=V6twUh5qMr8)  
+参考：[ITA3channel](https://www.youtube.com/watch?v=V6twUh5qMr8)  
 参考：[S.Fuka(S.Haruya)](https://zenn.dev/sfuka/scraps/af95feae08b3ec)  
 実行環境：Blender 3.2.0、Windows 10、Meta Quest 40.0、Oculusアプリ  
 作成者：夢寐郎  
