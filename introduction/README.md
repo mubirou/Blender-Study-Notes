@@ -1304,8 +1304,12 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="VR"></a>
 # <b>017 VR</b>
 
-1. [Oculus Link](https://github.com/mubirou/Unity3D/tree/master/study-notes#oculus-link%E3%81%AE%E6%BA%96%E5%82%99) の準備
-1. [Blender]-[編集]-[プレファレンス]-[アドオン]-[🔎"VR"]-[**✓ 3D View: VR Scene Inspection**]
+1. [Oculus Link](https://github.com/mubirou/Unity3D/tree/master/study-notes#oculus-link%E3%81%AE%E6%BA%96%E5%82%99) の準備をする
+1. [モデリング](https://github.com/mubirou/Blender/tree/master/introduction#014-%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%83%92%E3%83%B3%E3%83%881)を行う
+1. [Blender]-[オブジェクトモード]-[追加]-[カメラ] で追加して位置を調整
+1. [Blender]-[編集]-[プレファレンス]-[アドオン]-[🔎"VR"]-[**✓ 3D View: VR Scene Inspection**] を選択
+1. [VR]-[ビューポートフィードバック]-[**VRコントローラーを表示**] を **✓**
+1. [VR]-[VRセッション]-[**▶ Start VR Session**]
 
 参考：[YouTube](https://www.youtube.com/watch?v=V6twUh5qMr8)  
 実行環境：Blender 3.2.0、Windows 10、Meta Quest 40.0、Oculusアプリ  
