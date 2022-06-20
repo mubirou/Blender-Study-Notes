@@ -26,7 +26,6 @@
 |**014**|[テクニック･ヒント1](#テクニック･ヒント1)|参考：[『Blender モデリング･マスター』](#『モデリングマスター』)|[●](#テクニック･ヒント1)|[●](https://amzn.to/2A2595W)|
 |**015**|[テクニック･ヒント2](#テクニック･ヒント2)|参考：[『Blender CGイラストテクニック』](#『CGイラストテクニック』)|[●](#テクニック･ヒント2)|[●](https://amzn.to/2HUNroF)|
 |016|[テクニック･ヒント3](#テクニック･ヒント3)|参考：アニメーション関連書籍（[●](#『はじめてのBlender』)[●](#『ブレンダーからはじめよう!』)）|[●](#テクニック･ヒント3)|[●](https://amzn.to/2JiTi70)[●](https://amzn.to/2vzog2t)|
-|017|[QuestでVR再生](#QuestVR)|QuestでVR|－|－|
 ***
 
 
@@ -1300,29 +1299,6 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
 作成日：2019年01月22日  
-
-<a name="QuestVR"></a>
-# <b>017 QuestでVR再生</b>
-
-1. [Oculus Link](https://github.com/mubirou/Unity3D/tree/master/study-notes#oculus-link%E3%81%AE%E6%BA%96%E5%82%99) の準備をする
-1. [モデリング](https://github.com/mubirou/Blender/tree/master/introduction#014-%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%83%92%E3%83%B3%E3%83%881)を行う
-1. [Blender]-[オブジェクトモード]-[追加]-[**カメラ**]（位置＝VR視点を調整）
-1. [Blender]-[編集]-[プレファレンス]-[アドオン]-[🔎"VR"]-[**✓ 3D View: VR Scene Inspection**] を選択
-1. [VR]-[ビューポートフィードバック]-[**VRコントローラーを表示**] を **✓**
-1. [VR]-[VRセッション]-[**▶ Start VR Session**]
-
-* コントローラの操作方法
-    * 右ジョイスティック：回転･垂直
-    * 左ジョイスティック：水平･前後
-    * A or X：高さを初期値に戻す
-    * 左右の中指トリガー：拡大縮小
-    * レイキャスト選択：ジャンプ
-
-参考：[ITA3channel](https://www.youtube.com/watch?v=V6twUh5qMr8)  
-参考：[S.Fuka(S.Haruya)](https://zenn.dev/sfuka/scraps/af95feae08b3ec)  
-実行環境：Blender 3.2.0、Windows 10、Meta Quest 40.0、Oculusアプリ  
-作成者：夢寐郎  
-作成日：2022年06月19日  
 
 
 © 2018-2022 夢寐郎
