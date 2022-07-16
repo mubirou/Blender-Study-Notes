@@ -1,4 +1,4 @@
-# Blender Study Notes 2022<a id="TOP"></a>
+# Blender Study Notes<a id="TOP"></a>
 
 ### <b>index</b>
 
