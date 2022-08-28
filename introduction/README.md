@@ -449,11 +449,11 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 
     ※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/014_001.blend)
 
-実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows）  
+実行環境：Blender 2.83（Ubuntu 18）、Blender 3.2.2（Windows）  
 作成者：夢寐郎  
 作成日：2018年12月17日  
-更新日：2022年01月08日 Ver.3.0.0 対応  
-[[テクニックヒント1 TOP](#テクニック･ヒント1)]
+更新日：2022年08月28日 Ver.3.2.2 対応  
+[[テクニックヒント1 TOP](#テクニック･ヒント1)]  
 
 
 <a name="014_002"></a>
