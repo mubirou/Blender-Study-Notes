@@ -834,7 +834,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
     ![014_011_4](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_011_4.jpg)
 1. 太くしたい部分を選択した状態で（面選択）、[面]-[法線に沿って面を押し出し]で操作
 
-※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/014_011.blend)
+※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/014_011.blend)
 
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows 10）  
 作成者：夢寐郎  
