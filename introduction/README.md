@@ -89,7 +89,6 @@
     * Suzannu（スザンヌ）というBlenderのマスコットキャラ
     * 頂点数507
 
-![002](https://mubirou.github.io/Blender/introduction/jpg/002.jpg)
 ![image](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/002.jpg)
 
 実行環境：Blender 2.79b（Ubuntu 16.04.4 LTS）、Blender 3.0.0（Windows 10）  
@@ -114,10 +113,10 @@
 1. [透視投影]→[並行投影] に変更……正確な位置を把握しやすくする為（テンキー5で切替）
 
 1. 単位を [単位プリセット]→[メートル] に変更  
-![003_1](https://mubirou.github.io/Blender/introduction/jpg/003_1.jpg)
+![003_1](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/003_1.jpg)
 
 1. [左クリック] で [Lamp] を選択→ [ポイント]→[サン] に変更……使用頻度が高い為  
-![003_2](https://mubirou.github.io/Blender/introduction/jpg/003_2.jpg)
+![003_2](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/003_2.jpg)
 
 1. [ファイル]-[**スタートアップファイルの保存**] を選択……次回起動時にも反映させる為
 
@@ -438,7 +437,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="014_001"></a>
 ### 001 星型
 
-![014_001](https://mubirou.github.io/Blender/introduction/jpg/014_001.jpg)
+![014_001](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_001.jpg)
 
 1. [追加]-[メッシュ]-[円]
 1. 上記を操作したウィンドウの画面左下にある[円を追加]を開き調整
@@ -460,7 +459,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="014_002"></a>
 ### 002 ベベル･面取り
 
-![014_002](https://mubirou.github.io/Blender/introduction/jpg/014_002.jpg)
+![014_002](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_002.jpg)
 
 1. [追加]-[メッシュ]-[立方体]を選択
 1. 立方体を選択し[編集モード]にする
@@ -484,7 +483,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="014_003"></a>
 ### 003 蛇腹
 
-![014_003](https://mubirou.github.io/Blender/introduction/jpg/014_003.jpg)
+![014_003](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_003.jpg)
 
 1. [追加]-[メッシュ]-[円柱]
 1.  上記を操作したウィンドウの左下にある [円柱を追加] を開き調整（例）
@@ -522,7 +521,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="014_004"></a>
 ### 004 バネ
 
-![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_2.jpg)
+![014_004](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_004_2.jpg)
 
 1. [追加]-[メッシュ]-[円]
 1. 上記を操作したウィンドウの左下に開いた [円を追加] を調整
@@ -537,7 +536,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. [Shift]+[S] で [カーソル→ワールド原点] を選択（3Dカーソルの位置を原点に移動）にして、(0,0,0)の位置に [追加]-[エンプティ]-[十字] で空のオブジェクトを作成（名前を "エンプティ_バネ用" に変更）
 1. 円のオブジェクトを選択して [オブジェクトモード]→[編集モード] に変更
 1. 円を選択した状態で、右側のスパナ
-    ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
+    ![014_004](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_004_1.jpg)
     タブを選択→[モディファイアーを追加]-[生成]-[スクリュー] を選択し各種設定  
     * 軸オブジェクト：エンプティ_バネ用（上記で作成）
     * スクリュー：0.5m
@@ -561,7 +560,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="014_005"></a>
 ### 005 壁にパイプを結合
 
-![014_005_1](https://mubirou.github.io/Blender/introduction/jpg/014_005_1.jpg)
+![014_005_1](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_005_1.jpg)
 
 #### ◆平面を作成
 1. [追加]-[メッシュ]-[平面]
@@ -582,7 +581,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. [オブエジェクト]-[結合]（重要）
 1. [オブジェクトモード]→[編集モード] にする
 
-    ![014_005_2](https://mubirou.github.io/Blender/introduction/jpg/014_005_2.jpg)
+    ![014_005_2](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_005_2.jpg)
 
 #### ◆穴をあける
 1. [ビュー]-[視点]-[前] に変更
@@ -596,13 +595,13 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. [面選択] を使って穴をあける
 1. [頂点選択] を使って穴を形をパイプに近づける（図はフロント･並行投影）
 
-    ![014_005_3](https://mubirou.github.io/Blender/introduction/jpg/014_005_3.jpg)
+    ![014_005_3](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_005_3.jpg)
 
 #### ◆穴の部分を結合
 1. 平面および円柱で、[頂点選択] を使って結合したいところ全て選択
 1. [辺]-[辺ループのブリッジ] で結合 ←1つ1つ面を作るより早い
 
-    ![014_005_4](https://mubirou.github.io/Blender/introduction/jpg/014_005_4.jpg)
+    ![014_005_4](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_005_4.jpg)
 
 ※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/014_005.blend)
 
@@ -616,7 +615,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="014_006"></a>
 ### 006 歯車
 
-![014_006_1](https://mubirou.github.io/Blender/introduction/jpg/014_006_1.jpg)
+![014_006_1](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_006_1.jpg)
 
 #### ◆歯車を作成
 1. [追加]-[メッシュ]-[円]
@@ -628,7 +627,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. [拡大･縮小](#ショートカットキー) で星型にする
 1. 全てを選択した状態で [メッシュ]-[複製]→そのまま [右クリック] で確定
 1. 左側のアイコン群の中から [回転]（上から4番目）を選び少し回転  
-    ![014_006_2](https://mubirou.github.io/Blender/introduction/jpg/014_006_2.jpg)
+    ![014_006_2](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_006_2.jpg)
 1. 上記を操作したウィンドウの左下に開いた [回転] で微調整（任意）
 1. 全てを選択（Aキー）した状態で [メッシュ]-[削除]-[辺と面のみ] を選択（頂点のみ残る）
 1. 全てを選択（Aキー）した状態で [頂点]-[頂点から新規辺/面作成]
@@ -638,9 +637,9 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. [編集モード]→[オブジェクトモード] にする
 1. [追加]-[メッシュ]-[円柱] で穴をあけるためのオブジェクトを作成（後に削除）
 1. [スケール](上から5個目) で穴のサイズを決める  
-    ![014_006_3](https://mubirou.github.io/Blender/introduction/jpg/014_006_3.jpg)
+    ![014_006_3](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_006_3.jpg)
 1. 上記の"歯車のみを選択"した状態でスパナアイコン
-    ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
+    ![014_004](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_004_1.jpg)
     -[モディファイアーを追加]-[生成]-[ブーリアン] を選択し各種設定
     * 演算：差分
     * オブジェクト：円柱 ←上記で作成したもの
@@ -658,7 +657,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="014_007"></a>
 ### 007 ネジ山
 
-![014_007_1](https://mubirou.github.io/Blender/introduction/jpg/014_007_1.jpg)
+![014_007_1](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_007_1.jpg)
 
 #### ◆ネジの頭部を作成
 1. [追加]-[メッシュ]-[UV球]
@@ -671,11 +670,11 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 #### ◆十字の凹み部分を作成
 1. [オブジェクトモード] で新たに [立方体] を作成
 1. [オブジェクト]-[オブジェクトの複製]→90°回転して十字型にする  
-    ![014_007_2](https://mubirou.github.io/Blender/introduction/jpg/014_007_2.jpg)
+    ![014_007_2](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_007_2.jpg)
 
 #### ◆ネジを凹ます
 1. [オブジェクトモード]でネジの頭部のみ選択
-1. スパナアイコン![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
+1. スパナアイコン![014_004](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_004_1.jpg)
     -[モディファイアーを追加]-[ブーリアン]を選択し各種設定
     * 演算：差分
     * オブジェクト：立方体（上記で作成した十字型のうち縦横どちらか）
@@ -694,7 +693,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="014_008"></a>
 ### 008 ハート型に掘る
 
-![014_008_1](https://mubirou.github.io/Blender/introduction/jpg/014_008_1.jpg)
+![014_008_1](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_008_1.jpg)
 
 1. [追加]-[メッシュ]-[UV球]
 1. [オブジェクトモード]→[編集モード] にする
@@ -703,7 +702,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. 左側のアイコン群から [ナイフ] アイコン（上から14番目）を選択
 1. 左クリックを繰返しながらハート型を作成
 1. 終点（始点と同じ）でクリック直後 [Enter] キーを押す ←わかりにくい  
-    ![014_008_2](https://mubirou.github.io/Blender/introduction/jpg/014_008_2.jpg)
+    ![014_008_2](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_008_2.jpg)
 1. [面選択] でハート全体を選択
 1. [押し出し] アイコン（上から10番目)で凹ます
 1. 凹みのメッシュを平坦にしたい場合は [拡大縮小] で平らにする（次の方法を使うと便利）
@@ -727,12 +726,12 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="014_009"></a>
 ### 009 下絵の利用
 
-![014_009_1](https://mubirou.github.io/Blender/introduction/jpg/014_009_1.jpg)
+![014_009_1](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_009_1.jpg)
 
 #### ◆下絵の用意
 1. 方眼罫ノートなどを利用して「正面」と「右横」から見たイラストを作成
 1. 上記のイラストを画像としてデスクトップ上に .png または .jpg ファイルで保存  
-    ![014_009_2](https://mubirou.github.io/Blender/introduction/jpg/014_009_2.jpg)
+    ![014_009_2](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_009_2.jpg)
 
 #### ◆下絵の読込み
 1. [ビュー]-[エリア]-[四分割表示]にする
@@ -740,16 +739,16 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. [シーンコレクション]上で読み込んだ画像を選択して複製
 1. [トップ･平行投影]で片方の画像を90°回転
 1. 右側のアイコン群のオブジェクトデータプロパティ
-![014_009_4](https://mubirou.github.io/Blender/introduction/jpg/014_009_4.jpg)
+![014_009_4](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_009_4.jpg)
 タブを選び両方の画像の[不透明度]を[0.200]にする
 1. [移動]アイコンで正面と横からのイラストが重なるように調整  
-    ![014_009_3](https://mubirou.github.io/Blender/introduction/jpg/014_009_3.jpg)
+    ![014_009_3](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_009_3.jpg)
 1. 両方の画像は選択ができないようにロックする [[参考サイト](https://tamago-design.net/lock-01)]
 
 #### ◆モデリング
 1. 下絵を参考にモデリング
 1. モデリング途中の[編集モード]でスパナアイコン
-    ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
+    ![014_004](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_004_1.jpg)
     -[モデファイアーを追加]-[生成]-[ミラー]を選択し各種設定
     * 軸：X
     * クリッピング：✔ ←鏡像との境界からメッシュがはみ出ないようになる
@@ -769,7 +768,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="014_010"></a>
 ### 010 テキストオブジェクト
 
-![014_010](https://mubirou.github.io/Blender/introduction/jpg/014_010.jpg)
+![014_010](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_010.jpg)
 
 #### フォントの用意
 1. https://www.1001freefonts.com/ から任意のフォントを選択
@@ -801,7 +800,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="014_011"></a>
 ### 011 パイプ
 
-![014_011_1](https://mubirou.github.io/Blender/introduction/jpg/014_011_1.jpg)
+![014_011_1](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_011_1.jpg)
 
 #### ◆カーブの作成（いきなり[追加]-[カーブ]で作成してもよい）
 1. [追加]-[メッシュ]-[円]や[平面] などを次の機能などを使って編集をしてパイプとなる[頂点]と[辺]で構成されるオブジェクトを以下の機能を使うなどして作成  
@@ -809,13 +808,13 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
     * [頂点]-[頂点からの新規辺/面]
     * [押し出し](#ショートカットキー) ←頂点の押し出し  
     * [オブジェクト]-[変換]-[カーブ/メタ/サーフェス/テキストからメッシュ] → [編集モード] → [ナイフ]  
-    ![014_011_2](https://mubirou.github.io/Blender/introduction/jpg/014_011_2.jpg)
+    ![014_011_2](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_011_2.jpg)
 1. [編集モード]→[オブジェクトモード]に変更
 1. [オブジェクト]-[変換]で[カーブ]で「カーブ」に変換（左下のダイアログで✓オリジナルを保持）
 
 #### ◆カーブをパイプ形状にする
 1. [オブジェクトモード]で[プロパティエディタ]-
-![014_011_3](https://mubirou.github.io/Blender/introduction/jpg/014_011_3.jpg)
+![014_011_3](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_011_3.jpg)
 で各種設定（アイコンが表示されていない場合[ウィンドウ]-[次のワークスペース]を選択）
     * [シェイプ]-[フィルモード]：フル
     * [ジオメトリ]-[ベベル]-[深度]：0.2m
@@ -824,7 +823,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 #### ◆パイプに厚みを付ける（オプション）
 1. [オブジェクトモード]で、[オブジェクト]-[変換]→[メッシュ]に変更
 1. [編集モード]にして、右側のスパナ
-    ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
+    ![014_004](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_004_1.jpg)
     タブを選択→[モディファイアーを追加]-[生成]-[ソリッド化]を選択し設定  
         * 幅：0.05m
 
@@ -832,7 +831,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. [オブジェクトモード]にして[オブジェクト]-[変換]-[メッシュ] にする
 1. [編集モード]で、左側のアイコン群から[ループカット]（上から13個目）を選択
 1. ループカットしたいところで左クリック（2箇所）  
-    ![014_011_4](https://mubirou.github.io/Blender/introduction/jpg/014_011_4.jpg)
+    ![014_011_4](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_011_4.jpg)
 1. 太くしたい部分を選択した状態で（面選択）、[面]-[法線に沿って面を押し出し]で操作
 
 ※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/014_011.blend)
@@ -847,7 +846,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="014_012"></a>
 ### 012 UFO（エッジのシャープ化）
 
-![014_012_1](https://mubirou.github.io/Blender/introduction/jpg/014_012_1.jpg)
+![014_012_1](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_012_1.jpg)
 
 #### ◆UFOの制作
 1. [追加]-[メッシュ]-[円] を選択後調整
@@ -864,17 +863,17 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. 円の厚み分弱、UV球を上に移動
 1. UV球を選択し [編集モード] にして半分削除
 1. 上記の下部に小さなUV球を4つ追加  
-    ![014_012_2](https://mubirou.github.io/Blender/introduction/jpg/014_012_2.jpg)
+    ![014_012_2](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_012_2.jpg)
 1. UFOの全てのパーツを選択した状態で [オブジェクト]-[統合]
 
 #### ◆滑らかにする
 1. [オブジェクトモード] 状態で、右側のスパナアイコン
-    ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
+    ![014_004](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_004_1.jpg)
     -[モディファイアーを追加]-[生成]-[サブディビジョンサーフェス] を選択  
         * ビューポートのレベル数：2（初期値1）  
         * レンダー：2（初期値2）
 1. [オブジェクト]-[スムーズシェード] を選択  
-    ![014_012_3](https://mubirou.github.io/Blender/introduction/jpg/014_012_3.jpg)
+    ![014_012_3](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_012_3.jpg)
 
 #### ◆一部をシャープなエッジにする
 1. [編集モード] に変更
@@ -882,7 +881,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. [辺選択] でシャープなエッジにしたい [辺] を選択（Ctrl+マウス左ボタン）  
 1. 画面右側の [トランスフォーム] で調整
     * 辺データ：平均クリース：1.00  
-    ![014_012_4](https://mubirou.github.io/Blender/introduction/jpg/014_012_4.jpg)
+    ![014_012_4](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_012_4.jpg)
 
 ※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/014_012.blend)
 
@@ -908,16 +907,16 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="015_001"></a>
 ### 001 ブロック（エッジの超シャープ化と配列複製）
 
-![015_001](https://mubirou.github.io/Blender/introduction/jpg/015_001_1.jpg)
+![015_001](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/015_001_1.jpg)
 
 #### ◆ブロックのパーツを作成
 1. [追加]-[メッシュ]-[立方体]で立方体を1つ作成
 1. [編集モード]に変更
 1. 上の面だけ選択して[面]-[面を差し込む]（左側上から11個目のアイコン）  
-    ![015_001_2](https://mubirou.github.io/Blender/introduction/jpg/015_001_2.jpg)
+    ![015_001_2](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/015_001_2.jpg)
 1. 引き続き[面]-[面を押し出し]（上から10個目のアイコン）で上に押し出す
 1. [オブジェクトモード]に変更
-1. 左側のアイコン群の中からスパナアイコン![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)タブを選択
+1. 左側のアイコン群の中からスパナアイコン![014_004](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_004_1.jpg)タブを選択
 1. [モディファイアーを追加]-[生成]-[サブディビジョンサーフェス]→各種設定  
         * ビューポートのレベル数：2（初期値1）  
         * レンダー：2（初期値：2）
@@ -926,14 +925,14 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 #### ◆エッジの超シャープ化
 1. [編集モード]に戻す
 1. エッジをシャープにしたい辺を選択（Shift+右クリック）  
-    ![015_001_3](https://mubirou.github.io/Blender/introduction/jpg/015_001_3.jpg)
+    ![015_001_3](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/015_001_3.jpg)
 1. [N]キーで[トランスフォーム]を表示し調整
     * 辺データ：平均クリース：1.00 
 1. シャープさが不足している場合、[ループカット]（左側上から13個めのアイコン）を使って、分割線をシャープにしたいエッジ部分で重ねます  
-    ![015_001_4](https://mubirou.github.io/Blender/introduction/jpg/015_001_4.jpg)
+    ![015_001_4](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/015_001_4.jpg)
 
 #### ◆配列複製
-1. [編集モード]のまま、スパナアイコン![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
+1. [編集モード]のまま、スパナアイコン![014_004](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_004_1.jpg)
     -[モディファイアーを追加]-[生成]-[配列]→各種設定  
         * 数：2  
         * オフセット（倍率）  
@@ -959,7 +958,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="015_002"></a>
 ### 002 ワイングラス
 
-![015_002_1](https://mubirou.github.io/Blender/introduction/jpg/015_002_1.jpg)
+![015_002_1](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/015_002_1.jpg)
 
 #### ◆ドロー系ソフトからの読み込み
 1. [Inkscape](https://github.com/mubirou/Inkscape)などでワインの断面を[作成](https://mubirou.github.io/Blender/introduction/svg/wineglass.svg)（プレーンSVGファイル）
@@ -972,9 +971,9 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 #### ◆カーブの回転体を作る
 1. [編集モード]に変更
 1. Z軸がワインの中心軸になるように移動  
-    ![015_002_2](https://mubirou.github.io/Blender/introduction/jpg/015_002_2.jpg)
+    ![015_002_2](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/015_002_2.jpg)
 
-1. [編集モード]でスパナアイコン![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
+1. [編集モード]でスパナアイコン![014_004](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_004_1.jpg)
     -[モディファイアーを追加]-[生成]-[スクリュー]→各種設定  
         * 座標軸：Y  
 
@@ -992,7 +991,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="015_003"></a>
 ### 003 額縁
 
-![015_003](https://mubirou.github.io/Blender/introduction/jpg/015_003.jpg)
+![015_003](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/015_003.jpg)
 
 #### ◆ドロー系ソフトからの読み込み
 1. [Inkscape](https://github.com/mubirou/Inkscape)などで額縁の断面を[作成](https://mubirou.github.io/Blender/introduction/svg/frameDesign.svg)（プレーンSVGファイル）
@@ -1000,7 +999,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. Blender上で[ファイル]-[インポート]-[ScalableVectorGraphics（.svg）]から上記の2つの.svgファイルをインポート
 1. [オブジェクトモード]でフレームの枠（frameSize.svg）のオブジェクトを選択
 1. 右側のアイコンタブ群から
-![014_011_3](https://mubirou.github.io/Blender/introduction/jpg/014_011_3.jpg)
+![014_011_3](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_011_3.jpg)
 を選択→[ジオメトリ]→[ベベル]→[オブジェクト]を上記の額縁の断面のオブジェクトにする
 1. [シーンコレクション]から[frameSize.svg]や[frameDesign.svg]を選択し、[拡大縮小]するなどして調整
 1. [オブジェクトモード]にして[オブジェクト]-[メッシュ]にすると[編集モード]で修正可能になる
@@ -1017,7 +1016,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="015_004"></a>
 ### 004 窓（正確なUVマッピング）
 
-![015_004_1](https://mubirou.github.io/Blender/introduction/jpg/015_004_1.jpg)
+![015_004_1](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/015_004_1.jpg)
 
 （注意）特定の面にのみテクスチャ画像を貼りたい場合、ほかの全ての面にも何らかの（単色のベースカラーの設定でも可）マテリアルを割り当てる必要があります。  
 
@@ -1031,7 +1030,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. [追加]-[メッシュ]-[立方体]で立方体を作成
 1. [編集モード]に変更
 1. 左側のアイコン群の中から[ループカット]（左側のアイコン上から13個目）で窓の位置に合わせて分割
-1. 全ての面を選択した状態で![015_004_5](https://mubirou.github.io/Blender/introduction/jpg/015_004_5.jpg)
+1. 全ての面を選択した状態で![015_004_5](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/015_004_5.jpg)
     アイコンを押し→[新規]を選択
 1. マテリアル名を"マテリアル"→"箱全体"に変更
 1. [**ベースカラー**]の白いボックス部分（デフォルト値）をクリックし適当な色を選択した後、[割り当て]を押す
@@ -1041,7 +1040,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 
 1. [面選択]でテクスチャを貼りたい面を選択→[右クリック]
 1. [面選択]でテクスチャを貼りたい面を選択した状態で、画面上の[Modeling]→[**UV Editing**]に変更
-1. 引き続き、![015_004_5](https://mubirou.github.io/Blender/introduction/jpg/015_004_5.jpg)アイコンを押し→[＋]（マテリアルスロットルを追加）を選択→[新規]を押し、マテリアル名を"マテリアル"→"窓"に変更
+1. 引き続き、![015_004_5](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/015_004_5.jpg)アイコンを押し→[＋]（マテリアルスロットルを追加）を選択→[新規]を押し、マテリアル名を"マテリアル"→"窓"に変更
 [**ベースカラー**]-[●]-[テクスチャ]-[画像テクスチャ]を選択→[開く]から上記の.pngファイル（窓画像）を選択した後、[割り当て]を押す
 1. [UVエディタ]画面で範囲の変更や角度を調整
 
@@ -1059,20 +1058,20 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="015_005"></a>
 ### 005 サイコロ
 
-![015_005_1](https://mubirou.github.io/Blender/introduction/jpg/015_005_1.jpg) 
+![015_005_1](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/015_005_1.jpg) 
 
 1. [展開図](https://mubirou.github.io/Blender/introduction/png/dice.png)を用意
 1. [追加]-[メッシュ]-[立方体]で作成
 1. [編集モード]に変更
 1. 上の展開図を参考に、立方体の上がサイコロの1になるように、辺選択で切れ目（シーム）を選択  
-    ![015_005_2](https://mubirou.github.io/Blender/introduction/jpg/015_005_2.jpg)
+    ![015_005_2](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/015_005_2.jpg)
 1. 右クリック→コンテキストメニュー→[シームをマーク]を選択  
     （上記で選択した辺が太いオレンジ色になる
 1. [面選択]で立方体の全ての"面"を選択
 1. 何れかの画面の[エディタータイプ]を[UVエディター]に変更  
     ※[UV]-[UV配列をエクスポート]でUVマップを画像（.png）として出力することが可能
 1. 何れかの3Dビュー画面の[3Dビューのシェーディング]を[マテリアルプレビュー]にします（右上のアイコン、右から2番目）
-1. ![015_004_5](https://mubirou.github.io/Blender/introduction/jpg/015_004_5.jpg)
+1. ![015_004_5](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/015_004_5.jpg)
     アイコンを押し→[新規]ボタンを選択
 1. マテリアル名を、"サイコロ用"にする（任意）
 1. [サーフェス]-[ベースカラー]-[●]-[テクスチャ]-[画像テクスチャ]を選択
@@ -1106,15 +1105,15 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="016_001"></a>
 ### 001 スタンドライト（モデリング〜アーマチュアの設定）
 
-![016_001](https://mubirou.github.io/Blender/introduction/jpg/016_001_1.jpg)
+![016_001](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_001_1.jpg)
 
 #### ◆モデリング
 1. 円柱から、[ループカット][押し出し][クリース:1.00][ソリッド化]などを使ってモデリング  
-    ![016_001_2](https://mubirou.github.io/Blender/introduction/jpg/016_001_2.jpg)  
+    ![016_001_2](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_001_2.jpg)  
     ※パーツ毎に作成した場合は[オブジェクト]-[統合]で1つのオブジェクトにする（必要に応じて[適用]をする）  
     ※ウェイト調整がしやすいように広げた状態でモデリングする 
 1. [オブジェクトモード]でスパナアイコン
-    ![014_004](https://mubirou.github.io/Blender/introduction/jpg/014_004_1.jpg)
+    ![014_004](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_004_1.jpg)
     -[モディファイアーを追加]-[サブディビジョンサーフェス]→各種設定  
         * ビュー：2  
         * レンダー：2  
@@ -1129,15 +1128,15 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. [ワイヤーフレーム表示](#ショートカットキー)にする
 1. [追加]-[アーマチュア]を選択  
 1. ボーンの関節をモデルの関節に合わせます ←重要  
-    ![016_001_3](https://mubirou.github.io/Blender/introduction/jpg/016_001_3.jpg)  
-1. 画面右側の![016_001_4](https://mubirou.github.io/Blender/introduction/jpg/016_001_4.jpg)
+    ![016_001_3](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_001_3.jpg)  
+1. 画面右側の![016_001_4](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_001_4.jpg)
     タブ（オブジェクトデータプロパティ）を選択→[ビューポート表示]→[最前面]を✔する（ワイヤーフレームでなくてもボーンが見えるようになります）  
-    ![016_001_5](https://mubirou.github.io/Blender/introduction/jpg/016_001_5.jpg)
+    ![016_001_5](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_001_5.jpg)
 1. 上記で作成した[アーマチュア]を選択した状態で[編集モード]にする
 1. ボーンの先端（丸い部分）を選択→[押し出し](#ショートカットキー)→繰り返す  
     ※土台部分にもボーンを伸ばします（Unity上での不具合回避のため）←重要
 1. 各ボーンの関節をモデルの関節に合わせます ←重要  
-    ![016_001_6](https://mubirou.github.io/Blender/introduction/jpg/016_001_6.jpg)
+    ![016_001_6](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_001_6.jpg)
 
 1. オブジェクトとアーマチュアの関連付け
     1. [オブジェクトモード]で①オブジェクト（スタンドライト）→②アーマチュアの順番に[Shift]キーを押しながら選択
@@ -1151,7 +1150,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
     1. [オブジェクトモード]でアーマチュアを選択→[ポーズモード]に変更
     1. 任意のボーンを選択し[回転](#ショートカットキー)等で動かしてみる
     1. 不具合を確認（ソケットカバー部分に歪みが生じている）  
-        ![016_001_7](https://mubirou.github.io/Blender/introduction/jpg/016_001_7.jpg)
+        ![016_001_7](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_001_7.jpg)
     1. 全てのボーンを選択→[ポーズ]→[トランスフォームをクリア]→[すべて]でポーズを元に戻す（任意）
 1. [オブジェクトモード]に戻し、①アーマチュア→②オブジェクト（スタンドライト）の順で両方選択←超重要!!
 1. [ウェイトペイント]モードに変更  
@@ -1167,9 +1166,9 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
         * ウェイト：1.000 ←真っ赤にする
         * 強さ：1.000
     * マスクを利用する＝ペンマスク用のアイコン
-    ![016_001_9](https://mubirou.github.io/Blender/introduction/jpg/016_001_9.jpg)で選択
+    ![016_001_9](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_001_9.jpg)で選択
     * [ワイヤーフレーム](#ショートカットキー)で作業するとわかりやすい  
-    ![016_001_8](https://mubirou.github.io/Blender/introduction/jpg/016_001_8.jpg)  
+    ![016_001_8](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_001_8.jpg)  
 
 ※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/016_001_2.blend)
 
@@ -1181,20 +1180,20 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 <a name="016_002"></a>
 ### 002 スタンドライト（ポージング〜FBX出力）
 
-![016_002_1](https://mubirou.github.io/Blender/introduction/jpg/016_002_1.jpg)
+![016_002_1](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_002_1.jpg)
 
 #### ◆準備
 1. アーマチュアを関連付けたオブジェクト（.blendファイル）を用意する  
     （ここでは上記の[スタンドライト](#016_001)を使用します）
 1. 任意のエリアを[3Dビュー]→[ドープシート]に変更  
-    ![016_002_2](https://mubirou.github.io/Blender/introduction/jpg/016_002_2.jpg)
+    ![016_002_2](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_002_2.jpg)
 1. 引き続き[ドープシート]→[アクション]に変更  
-    ![016_002_3](https://mubirou.github.io/Blender/introduction/jpg/016_002_3.jpg)
+    ![016_002_3](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_002_3.jpg)
 1. [新規]ボタンを選択し、"Action"→"**Normal**"に変更 ←1つめのポーズ名
 1. 引き続き[**+**]ボタンを選択し、"Normal.001"→"**Down**"に変更 ←2つめのポーズ名
 1. 引き続き[**+**]ボタンを選択し、"Down.001"→"**Up**"に変更 ←3つめのポーズ名  
     3つのポーズ名（ポージングはこれから行う）が決まりました  
-    ![016_002_4](https://mubirou.github.io/Blender/introduction/jpg/016_002_4.jpg)  
+    ![016_002_4](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_002_4.jpg)  
     ※この段階で各ポーズ毎にアーマチュアを選択→[ポーズモード]に変更→[ポーズ]-[アニメーション]-[キーフレーム挿入]-[キャラクター全体]でキーフレームを打っておくと良い（ポーズ名が勝手に変更される場合があるので要注意）
 
 #### ◆ポージング
@@ -1204,17 +1203,17 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
     1. アーマチュアを選択→[ポーズモード]に変更（ポージングはそのまま）
     1. [ポーズ]-[アニメーション]-[キーフレーム挿入]-[キャラクター全体]を選択  
         （ドープシート上にキーフレームが表示されます）  
-        ![016_002_5](https://mubirou.github.io/Blender/introduction/jpg/016_002_5.jpg)
+        ![016_002_5](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_002_5.jpg)
 1. **Down**用のポージング
     1. [**Down**]を選択
     1. フレーム位置が**0**になっているか確認
     1. アーマチュアを選択→[ポーズモード]に変更してポージング  
-        ![016_002_6](https://mubirou.github.io/Blender/introduction/jpg/016_002_6.jpg)
+        ![016_002_6](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_002_6.jpg)
     1. [ポーズ]-[アニメーション]-[キーフレーム挿入]-[キャラクター全体]を選択  
         （ドープシート上にキーフレームが表示されます）  
 1. **Up**用のポージング  
     上記と同じように[**Up**]を選択してポージングを行う  
-    ![016_002_7](https://mubirou.github.io/Blender/introduction/jpg/016_002_7.jpg)
+    ![016_002_7](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_002_7.jpg)
 1. [**Normal**][**Down**][**Up**]と切り替えてみて、想定通りポージングが出来ているか確認する
 
 ※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/016_002.blend)  
@@ -1231,16 +1230,16 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 #### ◆モデリングとアーマチュアの関連付け
 
 1. オブジェクトとアーマチュアを関連付ける  
-    ![016_003_1](https://mubirou.github.io/Blender/introduction/jpg/016_003_1.jpg)
+    ![016_003_1](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_003_1.jpg)
 1. つま先もボーンをつける  
-    ![016_003_3](https://mubirou.github.io/Blender/introduction/jpg/016_003_3.jpg)
+    ![016_003_3](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_003_3.jpg)
 1. Unityの[Humanoid]に合わせてボーン名を変更する（ボーン名は次の通り）  
     [Hips]-[Spine]-[Chest]-[UpperChest]-[Neck]-[Head]  
     ...[Shoulder.L]-[UpperArm.L]-[LowerArm.L]-[Hand.L]  
     ...[Shoulder.R]-[UpperArm.R]-[LowerArm.R]-[Hand.R]  
     ...[UpperLeg.L]-[LowerLeg.L]-[Foot.L]-[Toes.L]  
     ...[UpperLeg.R]-[LowerLeg.R]-[Foot.R]-[Toes.R]  
-    ![016_003_2](https://mubirou.github.io/Blender/introduction/jpg/016_003_2.jpg)
+    ![016_003_2](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_003_2.jpg)
 * 注意点
     * ボーンの作成は[Hips]から行う
     * [UpperLeg.L]→[Hips]の順序で選択後、[アーマチュア]-[親]-[作成]-[オフセットを保持]してペアリングする
