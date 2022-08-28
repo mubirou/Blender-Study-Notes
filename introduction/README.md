@@ -447,7 +447,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. 外周のポイントを１つおきに選択（[shift]+[クリック]を利用）
 1. 左側の[スケール]アイコンで星型にする
 
-    ※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/014_001.blend)
+    ※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/014_001.blend)
 
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows）  
 作成者：夢寐郎  
@@ -471,7 +471,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
     * セグメント：5（値を大きくすると滑らかになる）
     * シェイプ：0.500（0.000〜1.000）
 
-    ※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/014_002.blend)
+    ※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/014_002.blend)
 
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows 10）  
 作成者：夢寐郎  
@@ -509,7 +509,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
         * Z：1.000 ←重要  
     （面を張る場合は、頂点群を選択→[面]-[フィル]を選択）
 
-    ※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/014_003.blend)
+    ※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/014_003.blend)
 
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0（Windows 10）  
 作成者：夢寐郎  
@@ -548,7 +548,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
     * トランスフォーム維持：✔
 1. [シーンコレクション] 内で "円" と "エンプティ_バネ用" にネスト化されたのを確認
 
-    ※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/014_004.blend)
+    ※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/014_004.blend)
 
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows 10）  
 作成者：夢寐郎  
@@ -603,7 +603,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 
     ![014_005_4](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_005_4.jpg)
 
-※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/014_005.blend)
+※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/014_005.blend)
 
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows 10）  
 作成者：夢寐郎  
@@ -645,7 +645,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
     * オブジェクト：円柱 ←上記で作成したもの
 1. [シーンコレクション] のツリーで上記の円柱を見えなくする
 
-※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/014_006.blend)
+※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/014_006.blend)
 
 実行環境：Blender 2.8（Ubuntu 18）、Blender 3.0（Windows 10）  
 作成者：夢寐郎  
@@ -681,7 +681,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. 同様に十字型の残り1つ使ってブーリアン処理する
 1. 不要になった立方体2つを[[シーンコレクション] のツリーで見えなくする
 
-※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/014_007.blend)
+※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/014_007.blend)
 
 実行環境：Blender 2.8（Ubuntu 18）、Blender 3.0（Windows 10）  
 作成者：夢寐郎  
@@ -714,7 +714,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
         * Y: **0.000**
         * Z: **1.000**
 
-※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/014_008.blend)
+※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/014_008.blend)
 
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0（Windows 10）  
 作成者：夢寐郎  
@@ -883,7 +883,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
     * 辺データ：平均クリース：1.00  
     ![014_012_4](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/014_012_4.jpg)
 
-※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/014_012.blend)
+※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/014_012.blend)
 
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows 10）  
 作成者：夢寐郎  
@@ -946,7 +946,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
             * **1.000** ←Y軸方向  
             * 0.000  
 
-※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/015_001.blend)
+※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/015_001.blend)
 
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows 10）  
 作成者：夢寐郎  
@@ -979,7 +979,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 
 1. [パイプ](#014_011)同様、厚みをつけてもよい（オプション）  
 
-※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/015_002.blend)
+※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/015_002.blend)
 
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows 10）  
 作成者：夢寐郎  
@@ -1004,7 +1004,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 1. [シーンコレクション]から[frameSize.svg]や[frameDesign.svg]を選択し、[拡大縮小]するなどして調整
 1. [オブジェクトモード]にして[オブジェクト]-[メッシュ]にすると[編集モード]で修正可能になる
 
-※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/015_003.blend)
+※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/015_003.blend)
 
 実行環境：Blender 2.83（Ubuntu 18）、Blender 3.0.0（Windows 10）  
 作成者：夢寐郎  
@@ -1121,7 +1121,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
 
 1. [ツール]-[シェーディング]-[スムーズ]を選択   
 
-※ここまでの参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/016_001_1.blend)
+※ここまでの参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/016_001_1.blend)
 
 #### ◆アーマチュアの作成
 1. 上記のオブジェクトを選択し[オブジェクトモード]にする
@@ -1170,7 +1170,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
     * [ワイヤーフレーム](#ショートカットキー)で作業するとわかりやすい  
     ![016_001_8](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_001_8.jpg)  
 
-※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/016_001_2.blend)
+※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/016_001_2.blend)
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
 作成者：夢寐郎  
@@ -1216,7 +1216,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
     ![016_002_7](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/016_002_7.jpg)
 1. [**Normal**][**Down**][**Up**]と切り替えてみて、想定通りポージングが出来ているか確認する
 
-※参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/016_002.blend)  
+※参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/016_002.blend)  
 ※Unityでの作業は[こちら](https://github.com/mubirou/Unity/tree/master/introduction#016)を参考  
 
 実行環境：Blender 2.79b、Ubuntu 18.0.4 LTS  
@@ -1286,7 +1286,7 @@ Ver.2.80 からオブジェクトの選択が[左ボタン]に変更されまし
     * Z：**0**°
 …上記の通りになっていればエクスポートの準備完了  
 
-※ここまでの参考ファイル（.blend)を[ダウンロード](https://mubirou.github.io/Blender/introduction/blend/016_003_1.blend)  
+※ここまでの参考ファイル（.blend)を[ダウンロード](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/blend/016_003_1.blend)  
 
 #### ◆FBXエクスポート
 
