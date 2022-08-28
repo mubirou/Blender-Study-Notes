@@ -89,7 +89,7 @@
     * Suzannu（スザンヌ）というBlenderのマスコットキャラ
     * 頂点数507
 
-![image](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/002.jpg)
+![002](https://github.com/mubirou/Blender-Study-Notes/blob/master/introduction/jpg/002.jpg)
 
 実行環境：Blender 2.79b（Ubuntu 16.04.4 LTS）、Blender 3.0.0（Windows 10）  
 作成者：夢寐郎  
