@@ -2,7 +2,7 @@
 
 ### <b>index</b>
 
-[QuestでVR再生](#220601) | [階層構造の設定](#220602)
+[QuestでVR再生](#220601) | [階層構造の設定](#220602) | [バンプとノーマルマッピング](#220901) |
 ***
 
 
@@ -50,6 +50,17 @@
 [[TOP]](#TOP)
 
 
+<a id="220901"></a>
+# <b>バンプとノーマルマッピング</b>
+
+
+デモファイル：[Bump_NormalMap.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/zip/Bump_NormalMap.zip)  
+実行環境：Blender 3.3.0、Windows 10  
+作成者：夢寐郎  
+作成日：2022年09月XX日  
+[[TOP]](#TOP)
+
+
 <a id="XXX"></a>
 # <b>XXXXX</b>
 
@@ -67,4 +78,4 @@
 [[TOP]](#TOP)
 
 
-© 2022 夢寐郎
+© 2022 夢寐郎  
