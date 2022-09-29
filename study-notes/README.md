@@ -54,7 +54,7 @@
 # <b>バンプとノーマルマッピング</b>
 
 
-デモファイル：[Bump_NormalMap.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/zip/Bump_NormalMap.zip)  
+デモファイル：[Bump_NormalMap.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/Bump_NormalMap.zip)  
 実行環境：Blender 3.3.0、Windows 10  
 作成者：夢寐郎  
 作成日：2022年09月XX日  
