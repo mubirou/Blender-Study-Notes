@@ -67,7 +67,7 @@
 ### この項目は書きかけです
 
 デモファイル：[Mirror.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/Mirror.zip)  
-[3Dビューのシェーディング] を [レンダビューを表示] にする  
+※ [3Dビューのシェーディング] を [レンダビューを表示] にする  
 
 1. [3Dビューのシェーディング]：マテリアルプレビュー
 1. [編集モード]-[マテリアルプロパティ]-[新規]
