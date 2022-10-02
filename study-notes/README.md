@@ -2,7 +2,7 @@
 
 ### <b>index</b>
 
-[QuestでVR再生](#220601) | [階層構造の設定](#220602) | [バンプとノーマルマッピング](#220901) |
+[QuestでVR再生](#220601) | [階層構造の設定](#220602) | [バンプとノーマルマッピング](#220901) | [鏡](#221002) |
 ***
 
 
@@ -55,6 +55,28 @@
 
 
 デモファイル：[Bump_NormalMap.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/Bump_NormalMap.zip)  
+実行環境：Blender 3.3.0、Windows 10  
+作成者：夢寐郎  
+作成日：2022年09月XX日  
+[[TOP]](#TOP)
+
+
+<a id="221002"></a>
+# <b>鏡</b>
+
+### この項目は書きかけです
+
+デモファイル：[Mirror.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/Mirror.zip)  
+[3Dビューのシェーディング] を [レンダビューを表示] にする  
+
+1. [3Dビューのシェーディング]：マテリアルプレビュー
+1. [編集モード]-[マテリアルプロパティ]-[新規]
+1. [サーフェス]-[サーフェス]：光沢BSDF
+1. [割り当て]
+
+
+
+
 実行環境：Blender 3.3.0、Windows 10  
 作成者：夢寐郎  
 作成日：2022年09月XX日  
