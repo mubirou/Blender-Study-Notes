@@ -2,7 +2,7 @@
 
 ### <b>index</b>
 
-[QuestでVR再生](#220601) | [階層構造の設定](#220602) | [バンプとノーマルマッピング](#220901) | [鏡](#221002) |
+[QuestでVR再生](#220601) | [階層構造の設定](#220602) | [鏡](#221002) | [バンプとノーマルマッピング](#220901) |
 ***
 
 
@@ -50,17 +50,6 @@
 [[TOP]](#TOP)
 
 
-<a id="220901"></a>
-# <b>バンプとノーマルマッピング</b>
-
-
-デモファイル：[Bump_NormalMap.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/Bump_NormalMap.zip)  
-実行環境：Blender 3.3.0、Windows 10  
-作成者：夢寐郎  
-作成日：2022年09月XX日  
-[[TOP]](#TOP)
-
-
 <a id="221002"></a>
 # <b>鏡</b>
 
@@ -69,14 +58,35 @@
 デモファイル：[Mirror.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/Mirror.zip)  
 ※ [3Dビューのシェーディング] を [レンダビューを表示] にする  
 
-1. [3Dビューのシェーディング]：マテリアルプレビュー
-1. [編集モード]-[マテリアルプロパティ]-[新規]
-1. [サーフェス]-[サーフェス]：光沢BSDF
-1. [割り当て]
+**赤い鏡**  
+* レンダーエンジン：Cycles
+* サーフェス：光沢BSDF
+* 粗さ：0.000（左鏡）、0.200（右鏡）
+
+**黄色い鏡**  
+* レンダーエンジン：Cycles
+* サーフェス：プリンシブルBSDF
+* メタリック：1.000
+* 粗さ：0.000（左鏡）、0.200（右鏡）
+
+**青い鏡**
+* レンダーエンジン：Eeveeでも可能
+* サーフェス：光沢BSDF
+* 粗さ：0.00
+* 表面に [追加]-[ライトローブ]-[反射平面] を追加
+
+参考：[CGbox（きれいな光沢を表現しよう！）](https://cgbox.jp/blender-gloss/#index_id2)  
+実行環境：Blender 3.3.0、Windows 10  
+作成者：夢寐郎  
+作成日：2022年10月02日  
+[[TOP]](#TOP)
 
 
+<a id="220901"></a>
+# <b>バンプとノーマルマッピング</b>
 
 
+デモファイル：[Bump_NormalMap.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/Bump_NormalMap.zip)  
 実行環境：Blender 3.3.0、Windows 10  
 作成者：夢寐郎  
 作成日：2022年09月XX日  
