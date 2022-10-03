@@ -2,7 +2,7 @@
 
 ### <b>index</b>
 
-[QuestでVR再生](#220601) | [階層構造の設定](#220602) | [鏡（光沢）](#221002) | [バンプとノーマルマッピング](#220901) |
+[QuestでVR再生](#220601) | [階層構造の設定](#220602) | [バンプとノーマルマッピング](#220901) | [鏡（光沢）](#221002) | [アンビエントオクルージョン](#221003) |
 ***
 
 
@@ -50,6 +50,16 @@
 [[TOP]](#TOP)
 
 
+<a id="220901"></a>
+# <b>バンプとノーマルマッピング</b>
+
+デモファイル：[Bump_NormalMap.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/Bump_NormalMap.zip)  
+実行環境：Blender 3.3.0、Windows 10  
+作成者：夢寐郎  
+作成日：2022年09月29日  
+[[TOP]](#TOP)
+
+
 <a id="221002"></a>
 # <b>鏡（光沢）</b>
 
@@ -80,14 +90,14 @@
 [[TOP]](#TOP)
 
 
-<a id="220901"></a>
-# <b>バンプとノーマルマッピング</b>
+<a id="221003"></a>
+# <b>アンビエントオクルージョン</b>
 
-
-デモファイル：[Bump_NormalMap.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/Bump_NormalMap.zip)  
+参考：[CGbox](https://cgbox.jp/blender-ao/#index_id1)  
+デモファイル：[AmbientOcclusion.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/AmbientOcclusion.zip)  
 実行環境：Blender 3.3.0、Windows 10  
 作成者：夢寐郎  
-作成日：2022年09月XX日  
+作成日：2022年10月03日  
 [[TOP]](#TOP)
 
 
