@@ -2,7 +2,7 @@
 
 ### <b>index</b>
 
-[QuestでVR再生](#220601) | [階層構造の設定](#220602) | [バンプとノーマルマッピング](#220901) | [鏡（光沢）](#221002) | [アンビエントオクルージョン](#221003) |
+[QuestでVR再生](#220601) | [階層構造の設定](#220602) | [バンプとノーマルマッピング](#220901) | [鏡（光沢）](#221002) | [アンビエントオクルージョン](#221003) | [ブレンドシェイプ](#221003-2) |
 ***
 
 
@@ -95,6 +95,17 @@
 
 参考：[CGbox](https://cgbox.jp/blender-ao/#index_id1)  
 デモファイル：[AmbientOcclusion.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/AmbientOcclusion.zip)  
+実行環境：Blender 3.3.0、Windows 10  
+作成者：夢寐郎  
+作成日：2022年10月03日  
+[[TOP]](#TOP)
+
+
+<a id="221003-2"></a>
+# <b>ブレンドシェイプ</b>
+
+参考：[シェイプキーによるアニメーション](https://blender3d.biz/simpleanimation3dcg_deformed_shapekeys.html)  
+デモファイル：[BlendShape.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/BlendShape.zip)  
 実行環境：Blender 3.3.0、Windows 10  
 作成者：夢寐郎  
 作成日：2022年10月03日  
