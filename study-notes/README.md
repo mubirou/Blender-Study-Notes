@@ -115,7 +115,7 @@
 <a id="221006"></a>
 # <b>サブサーフェススキャッタリング</b>
 
-参考：[HatenaBlog](https://hainarashi.hatenablog.com/entry/2020/10/28/105218)  
+参考：[HatenaBlog（プリンシプルBSDFでサブサーフェスの使い方）](https://hainarashi.hatenablog.com/entry/2020/10/28/105218)  
 デモファイル：[SubSurfaceScattering.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/SubSurfaceScattering.zip)  
 実行環境：Blender 3.3.0、Windows 10  
 作成者：夢寐郎  
