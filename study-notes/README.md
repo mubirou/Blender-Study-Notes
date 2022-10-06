@@ -127,7 +127,7 @@
 # <b>スキン変形のウェイト</b>
 
 参考：[ウェイトペイントで綺麗に塗るコツ徹底解説](https://www.youtube.com/watch?v=N0qUvuMjSGk)  
-デモファイル：[SkinDeformation Weights.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/SkinDeformation Weights.zip)  
+デモファイル：[SkinDeformationWeights.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/SkinDeformationWeights.zip)  
 実行環境：Blender 3.3.0、Windows 10  
 作成者：夢寐郎  
 作成日：2022年10月06日  
