@@ -2,7 +2,7 @@
 
 ### <b>index</b>
 
-[QuestでVR再生](#220601) | [階層構造の設定](#220602) | [バンプとノーマルマッピング](#220901) | [鏡（光沢）](#221002) | [アンビエントオクルージョン](#221003) | [ブレンドシェイプ](#221003-2) |
+[QuestでVR再生](#220601) | [階層構造の設定](#220602) | [バンプとノーマルマッピング](#220901) | [鏡（光沢）](#221002) | [アンビエントオクルージョン](#221003) | [ブレンドシェイプ](#221003-2) | [サブサーフェススキャッタリング](#221006) |
 ***
 
 
@@ -109,6 +109,17 @@
 実行環境：Blender 3.3.0、Windows 10  
 作成者：夢寐郎  
 作成日：2022年10月03日  
+[[TOP]](#TOP)
+
+
+<a id="221006"></a>
+# <b>サブサーフェススキャッタリング</b>
+
+参考：[HatenaBlog](https://hainarashi.hatenablog.com/entry/2020/10/28/105218)  
+デモファイル：[SubSurfaceScattering.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/SubSurfaceScattering.zip)  
+実行環境：Blender 3.3.0、Windows 10  
+作成者：夢寐郎  
+作成日：2022年10月06日  
 [[TOP]](#TOP)
 
 
