@@ -95,9 +95,11 @@
 
 参考：[CGbox](https://cgbox.jp/blender-ao/#index_id1)  
 デモファイル：[AmbientOcclusion.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/AmbientOcclusion.zip)  
+デモファイル：[AmbientOcclusion_2.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/AmbientOcclusion_2.zip)  
 実行環境：Blender 3.3.0、Windows 10  
 作成者：夢寐郎  
 作成日：2022年10月03日  
+更新日：2022年10月09日 デモファイルを追加  
 [[TOP]](#TOP)
 
 
