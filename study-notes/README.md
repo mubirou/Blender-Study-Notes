@@ -160,7 +160,7 @@
 <a id="221010"></a>
 # <b>コンストレイン</b>
 
-参考：[トラッキング系のオブジェクトコンストレイント](https://blender-cg.net/tacking-constraint/)  
+参考：[トラッキング系のオブジェクトコンストレイント（減衰トラック）](https://blender-cg.net/tacking-constraint/)  
 デモファイル：[Constraint.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/Constraint.zip)  
 実行環境：Blender 3.3.0、Windows 10  
 作成者：夢寐郎  
