@@ -147,17 +147,6 @@
 [[TOP]](#TOP)
 
 
-<a id="221008"></a>
-# <b>トゥーンレンダリング</b>
-
-参考：[セルルック調のコップを作ろう](https://www.youtube.com/watch?v=6LIThMN_iFo)  
-デモファイル：[ToonRendering.zip](https://github.com/mubirou/Blender-Study-Notes/blob/master/study-notes/zip/ToonRendering.zip)  
-実行環境：Blender 3.3.0、Windows 10  
-作成者：夢寐郎  
-作成日：2022年10月08日  
-[[TOP]](#TOP)
-
-
 <a id="221009"></a>
 # <b>ガラス</b>
 
