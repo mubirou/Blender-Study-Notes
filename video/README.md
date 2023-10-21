@@ -37,7 +37,8 @@
 
 1. 編集
     1. [ファイルブラウザー] のファイルを [ビデオシーケンサー] 上にドラッグ＆ドロップして編集
-    1. [終了] フレームを手動で入力（In点･Out点のOut）
+    1. [終了] フレームを手動で入力（In点･Out点のOut）  
+    ![image](https://github.com/mubirou/Blender-Study-Notes/blob/master/video/jpg/202310212209.jpg)  
 
 
 参考：[カンタン動画入門](https://douga-tec.com/?p=29969)  
