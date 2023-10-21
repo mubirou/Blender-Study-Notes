@@ -22,7 +22,9 @@
 1. 編集の準備
     1. 左上の [ファイルブラウザー] 画面のパスを上記のフォルダ（SampleFolder）にする  
     （例）C:\Users\〇〇\Desktop\SampleFolder\
-    1. XXX
+    1. XXX  
+    ![image](https://github.com/mubirou/Godot/blob/main/jpg/202207191132.jpg)  
+
 
 参考：[カンタン動画入門](https://douga-tec.com/?p=29969)  
 実行環境：Blender 3.6.4、Windows 11  
