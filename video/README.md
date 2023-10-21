@@ -12,7 +12,7 @@
 1. XXXXXX
     * XXXXXX
 
-参考：[カンタン動画入門](https://douga-tec.com/?p=29969)
+参考：[カンタン動画入門](https://douga-tec.com/?p=29969)  
 実行環境：Blender 3.X、Windows 11  
 作成者：夢寐郎  
 作成日：2023年0X月XX日  
