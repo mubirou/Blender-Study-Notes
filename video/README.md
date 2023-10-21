@@ -23,7 +23,7 @@
     1. 左上の [ファイルブラウザー] 画面のパスを上記のフォルダ（SampleFolder）にする  
     （例）C:\Users\〇〇\Desktop\SampleFolder\
     1. XXX  
-    ![image](https://github.com/mubirou/Godot/blob/main/jpg/202207191132.jpg)  
+    ![image](https://github.com/mubirou/Blender-Study-Notes/blob/master/video/jpg/202310212147.jpg)  
 
 
 参考：[カンタン動画入門](https://douga-tec.com/?p=29969)  
