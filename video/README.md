@@ -24,6 +24,10 @@
     （例）C:\Users\〇〇\Desktop\SampleFolder\
     1. プリンター型アイコンから**出力プロパティ**を開く  
     ![image](https://github.com/mubirou/Blender-Study-Notes/blob/master/video/jpg/202310212147.jpg)  
+    1. 各種設定（例）  
+        * フォーマット：解像度＝最終出力の解像度  
+        （注意）中途半端な解像度はＮＧ
+        * XXX
 
 
 参考：[カンタン動画入門](https://douga-tec.com/?p=29969)  
