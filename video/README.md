@@ -9,8 +9,8 @@
 <a name="220X01"></a>
 # <b>XXXXX</b>
 
-1. XXXXXX
-    * XXXXXX
+1. 素材の用意
+    * 画像と音声ファイルを用意し任意のフォルダに置く
 
 参考：[カンタン動画入門](https://douga-tec.com/?p=29969)  
 実行環境：Blender 3.X、Windows 11  
