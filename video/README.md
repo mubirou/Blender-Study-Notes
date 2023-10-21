@@ -12,9 +12,10 @@
 1. XXXXXX
     * XXXXXX
 
-実行環境：Blender 3.2.1、Windows 10  
+参考：[カンタン動画入門](https://douga-tec.com/?p=29969)
+実行環境：Blender 3.X、Windows 11  
 作成者：夢寐郎  
-作成日：2022年0X月XX日  
+作成日：2023年0X月XX日  
 
 
 <a name="220X02"></a>
