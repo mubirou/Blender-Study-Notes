@@ -23,7 +23,7 @@
 　  └ 〇〇.wav  
 
 1. 編集の準備
-    1. 左上の [ファイルブラウザー] 画面の**パス**を上記のフォルダ（SampleFolder）にする  
+    1. 左上の [**ファイルブラウザー**] 画面の**パス**を上記のフォルダ（SampleFolder）にする  
     （例）C:\Users\〇〇\Desktop\SampleFolder\
     1. プリンター型アイコンから**出力プロパティ**を開く  
     ![image](https://github.com/mubirou/Blender-Study-Notes/blob/master/video/jpg/202310212147.jpg)  
