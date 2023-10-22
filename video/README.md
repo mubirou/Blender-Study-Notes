@@ -17,6 +17,7 @@
   SampleFolder  
 　  ├ **〇〇.blend**  
 　  ├ 〇〇.jpg  
+　  ├ 〇〇.mp4  
 　  └ 〇〇.wav  
 
 1. 編集の準備
