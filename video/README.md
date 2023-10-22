@@ -25,7 +25,7 @@
 1. 編集の準備
     1. 左上の [**ファイルブラウザー**] 画面の**パス**を上記のフォルダ（SampleFolder）にする  
     （例）C:\Users\〇〇\Desktop\SampleFolder\
-    1. プリンター型アイコンから**出力プロパティ**を開く  
+    1. プリンター型アイコンから**出力プロパティ**を開く（下図）  
     ![image](https://github.com/mubirou/Blender-Study-Notes/blob/master/video/jpg/202310212147.jpg)  
     1. 各種設定（例）  
         * [フォーマット]-[**解像度**] など：最終出力の値  
