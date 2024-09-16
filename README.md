@@ -6,4 +6,4 @@
 * [Blender Study Notes](https://github.com/mubirou/Blender/tree/master/study-notes#blender-study-notes) 🔥
 * [動画編集](https://github.com/mubirou/Blender/tree/master/video)
 
-© 2018-2023 夢寐郎
+© 2018-PRESENT 夢寐郎
